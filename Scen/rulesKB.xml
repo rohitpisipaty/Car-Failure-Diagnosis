@@ -1356,96 +1356,6 @@
       <Descriptions>
         <AbstractionDescriptionForTOC>
           <ConcreteStatement>
-            <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="7" />
-          </ConcreteStatement>
-          <TOC>
-            <AbstractionDescription>
-              <Instantiations />
-              <Description>
-                <NLPattern>
-                  <Fragments>
-                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-                      <FormalParameterReference name="?O1" />
-                    </Parameter>
-                    <String> has </String>
-                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-                      <FormalParameterReference name="?O3" />
-                    </Parameter>
-                  </Fragments>
-                </NLPattern>
-              </Description>
-            </AbstractionDescription>
-          </TOC>
-          <Report>
-            <AbstractionDescription>
-              <Instantiations />
-              <Description>
-                <NLPattern>
-                  <Fragments>
-                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-                      <FormalParameterReference name="?O1" />
-                    </Parameter>
-                    <String> has </String>
-                    <OntologyEntity>
-                      <ConceptReference name="side-effect" />
-                    </OntologyEntity>
-                    <String> of </String>
-                    <Parameter hasIndefiniteArticle="true" hasDefiniteArticle="false" useThePersonalPronoun="false">
-                      <FormalParameterReference name="?O2" />
-                    </Parameter>
-                    <String> such as </String>
-                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-                      <FormalParameterReference name="?O3" />
-                    </Parameter>
-                  </Fragments>
-                </NLPattern>
-              </Description>
-            </AbstractionDescription>
-          </Report>
-        </AbstractionDescriptionForTOC>
-        <AbstractionDescriptionForTOC>
-          <ConcreteStatement>
-            <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="0" />
-          </ConcreteStatement>
-          <TOC>
-            <AbstractionDescription>
-              <Instantiations />
-              <Description>
-                <NLPattern>
-                  <Fragments>
-                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-                      <FormalParameterReference name="?O1" />
-                    </Parameter>
-                    <String> broke down due to </String>
-                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-                      <FormalParameterReference name="?O2" />
-                    </Parameter>
-                  </Fragments>
-                </NLPattern>
-              </Description>
-            </AbstractionDescription>
-          </TOC>
-          <Report>
-            <AbstractionDescription>
-              <Instantiations />
-              <Description>
-                <NLPattern>
-                  <Fragments>
-                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-                      <FormalParameterReference name="?O1" />
-                    </Parameter>
-                    <String> broke down due to </String>
-                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-                      <FormalParameterReference name="?O2" />
-                    </Parameter>
-                  </Fragments>
-                </NLPattern>
-              </Description>
-            </AbstractionDescription>
-          </Report>
-        </AbstractionDescriptionForTOC>
-        <AbstractionDescriptionForTOC>
-          <ConcreteStatement>
             <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="2" />
           </ConcreteStatement>
           <TOC>
@@ -1457,7 +1367,7 @@
                     <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
                       <FormalParameterReference name="?O1" />
                     </Parameter>
-                    <String> is exhibiting </String>
+                    <String> is showing the </String>
                     <OntologyEntity>
                       <ConceptReference name="side-effect" />
                     </OntologyEntity>
@@ -1476,12 +1386,145 @@
                     <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
                       <FormalParameterReference name="?O1" />
                     </Parameter>
-                    <String> is exhibiting </String>
+                    <String> is showing the </String>
                     <OntologyEntity>
                       <ConceptReference name="side-effect" />
                     </OntologyEntity>
                     <String> of </String>
                     <Parameter hasIndefiniteArticle="true" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="7" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> is generating </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> is generating </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="3" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> has </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String> going on</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> has the </String>
+                    <OntologyEntity>
+                      <ConceptReference name="sign" />
+                    </OntologyEntity>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> such asb </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="true" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String> going on</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="9" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> is venting out </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> is venting out </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
                       <FormalParameterReference name="?O2" />
                     </Parameter>
                   </Fragments>
@@ -1538,7 +1581,7 @@
         </AbstractionDescriptionForTOC>
         <AbstractionDescriptionForTOC>
           <ConcreteStatement>
-            <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="4" />
+            <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="6" />
           </ConcreteStatement>
           <TOC>
             <AbstractionDescription>
@@ -1549,58 +1592,9 @@
                     <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
                       <FormalParameterReference name="?O1" />
                     </Parameter>
-                    <String> has engine generating </String>
+                    <String> has  </String>
                     <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
                       <FormalParameterReference name="?O3" />
-                    </Parameter>
-                  </Fragments>
-                </NLPattern>
-              </Description>
-            </AbstractionDescription>
-          </TOC>
-          <Report>
-            <AbstractionDescription>
-              <Instantiations />
-              <Description>
-                <NLPattern>
-                  <Fragments>
-                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-                      <FormalParameterReference name="?O1" />
-                    </Parameter>
-                    <String> is exhibiting the </String>
-                    <OntologyEntity>
-                      <ConceptReference name="sign" />
-                    </OntologyEntity>
-                    <String> of </String>
-                    <Parameter hasIndefiniteArticle="true" hasDefiniteArticle="false" useThePersonalPronoun="false">
-                      <FormalParameterReference name="?O2" />
-                    </Parameter>
-                    <String> such as, engine generating </String>
-                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-                      <FormalParameterReference name="?O3" />
-                    </Parameter>
-                  </Fragments>
-                </NLPattern>
-              </Description>
-            </AbstractionDescription>
-          </Report>
-        </AbstractionDescriptionForTOC>
-        <AbstractionDescriptionForTOC>
-          <ConcreteStatement>
-            <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="8" />
-          </ConcreteStatement>
-          <TOC>
-            <AbstractionDescription>
-              <Instantiations />
-              <Description>
-                <NLPattern>
-                  <Fragments>
-                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-                      <FormalParameterReference name="?O1" />
-                    </Parameter>
-                    <String>  is generating </String>
-                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-                      <FormalParameterReference name="?O4" />
                     </Parameter>
                   </Fragments>
                 </NLPattern>
@@ -1621,16 +1615,16 @@
                       <ConceptReference name="side-effect" />
                     </OntologyEntity>
                     <String> of </String>
-                    <Parameter hasIndefiniteArticle="true" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
                       <FormalParameterReference name="?O2" />
                     </Parameter>
-                    <String> such as </String>
+                    <String> as </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> has  </String>
                     <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
                       <FormalParameterReference name="?O3" />
-                    </Parameter>
-                    <String> as the car is generating </String>
-                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-                      <FormalParameterReference name="?O4" />
                     </Parameter>
                   </Fragments>
                 </NLPattern>
@@ -1640,7 +1634,7 @@
         </AbstractionDescriptionForTOC>
         <AbstractionDescriptionForTOC>
           <ConcreteStatement>
-            <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="3" />
+            <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="5" />
           </ConcreteStatement>
           <TOC>
             <AbstractionDescription>
@@ -1651,60 +1645,9 @@
                     <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
                       <FormalParameterReference name="?O1" />
                     </Parameter>
-                    <String> has </String>
+                    <String> has  </String>
                     <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
                       <FormalParameterReference name="?O3" />
-                    </Parameter>
-                    <String> going on</String>
-                  </Fragments>
-                </NLPattern>
-              </Description>
-            </AbstractionDescription>
-          </TOC>
-          <Report>
-            <AbstractionDescription>
-              <Instantiations />
-              <Description>
-                <NLPattern>
-                  <Fragments>
-                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-                      <FormalParameterReference name="?O1" />
-                    </Parameter>
-                    <String> is exhibiting the </String>
-                    <OntologyEntity>
-                      <ConceptReference name="sign" />
-                    </OntologyEntity>
-                    <String> of </String>
-                    <Parameter hasIndefiniteArticle="true" hasDefiniteArticle="false" useThePersonalPronoun="false">
-                      <FormalParameterReference name="?O2" />
-                    </Parameter>
-                    <String> such as </String>
-                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="true" useThePersonalPronoun="false">
-                      <FormalParameterReference name="?O3" />
-                    </Parameter>
-                    <String> going on</String>
-                  </Fragments>
-                </NLPattern>
-              </Description>
-            </AbstractionDescription>
-          </Report>
-        </AbstractionDescriptionForTOC>
-        <AbstractionDescriptionForTOC>
-          <ConcreteStatement>
-            <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="10" />
-          </ConcreteStatement>
-          <TOC>
-            <AbstractionDescription>
-              <Instantiations />
-              <Description>
-                <NLPattern>
-                  <Fragments>
-                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-                      <FormalParameterReference name="?O1" />
-                    </Parameter>
-                    <String> is in </String>
-                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-                      <FormalParameterReference name="?O4" />
                     </Parameter>
                   </Fragments>
                 </NLPattern>
@@ -1725,16 +1668,53 @@
                       <ConceptReference name="side-effect" />
                     </OntologyEntity>
                     <String> of </String>
-                    <Parameter hasIndefiniteArticle="true" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
                       <FormalParameterReference name="?O2" />
                     </Parameter>
                     <String> such as </String>
                     <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
                       <FormalParameterReference name="?O3" />
                     </Parameter>
-                    <String> as the car is in </String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="0" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
                     <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-                      <FormalParameterReference name="?O4" />
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> broke down </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> broke down </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
                     </Parameter>
                   </Fragments>
                 </NLPattern>

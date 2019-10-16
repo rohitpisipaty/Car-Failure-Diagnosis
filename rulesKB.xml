@@ -35,7 +35,7 @@
                 <FormalParameterReference name="?O2" />
                 <LowerBound>
                   <SingleInstanceBound>
-                    <InstanceReference name="alternator problem" />
+                    <InstanceReference name="air-filter problem" />
                   </SingleInstanceBound>
                 </LowerBound>
                 <UpperBound>
@@ -57,7 +57,7 @@
                   <ConceptReference name="vehicle" />
                 </MintermOfConcepts>
                 <FormalParameterReference name="?O2" />
-                <InstanceReference name="alternator problem" />
+                <InstanceReference name="air-filter problem" />
               </ConstantInstantiatedFormalParameters>
             </ConditionGeneralizedExample>
           </ConditionGeneralizedExamplesList>
@@ -115,7 +115,7 @@
                 <FormalParameterReference name="?O2" />
                 <LowerBound>
                   <SingleInstanceBound>
-                    <InstanceReference name="alternator problem" />
+                    <InstanceReference name="air-filter problem" />
                   </SingleInstanceBound>
                 </LowerBound>
                 <UpperBound>
@@ -137,7 +137,7 @@
                   <ConceptReference name="vehicle" />
                 </MintermOfConcepts>
                 <FormalParameterReference name="?O2" />
-                <InstanceReference name="alternator problem" />
+                <InstanceReference name="air-filter problem" />
               </ConstantInstantiatedFormalParameters>
             </ConditionGeneralizedExample>
           </ConditionGeneralizedExamplesList>
@@ -195,7 +195,7 @@
                 <FormalParameterReference name="?O2" />
                 <LowerBound>
                   <SingleInstanceBound>
-                    <InstanceReference name="alternator problem" />
+                    <InstanceReference name="air-filter problem" />
                   </SingleInstanceBound>
                 </LowerBound>
                 <UpperBound>
@@ -217,7 +217,7 @@
                   <ConceptReference name="vehicle" />
                 </MintermOfConcepts>
                 <FormalParameterReference name="?O2" />
-                <InstanceReference name="alternator problem" />
+                <InstanceReference name="air-filter problem" />
               </ConstantInstantiatedFormalParameters>
             </ConditionGeneralizedExample>
           </ConditionGeneralizedExamplesList>
@@ -229,7 +229,7 @@
           <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
             <FormalParameterReference name="?O1" />
           </Parameter>
-          <String> is exhibiting </String>
+          <String> is showing the </String>
           <OntologyEntity>
             <ConceptReference name="side-effect" />
           </OntologyEntity>
@@ -277,7 +277,7 @@
                 <FormalParameterReference name="?O2" />
                 <LowerBound>
                   <SingleInstanceBound>
-                    <InstanceReference name="alternator problem" />
+                    <InstanceReference name="air-filter problem" />
                   </SingleInstanceBound>
                 </LowerBound>
                 <UpperBound>
@@ -312,7 +312,7 @@
                   <ConceptReference name="vehicle" />
                 </MintermOfConcepts>
                 <FormalParameterReference name="?O2" />
-                <InstanceReference name="alternator problem" />
+                <InstanceReference name="air-filter problem" />
                 <FormalParameterReference name="?O3" />
                 <InstanceReference name="service engine light" />
               </ConstantInstantiatedFormalParameters>
@@ -326,15 +326,15 @@
           <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
             <FormalParameterReference name="?O1" />
           </Parameter>
-          <String> is exhibiting the </String>
+          <String> has the </String>
           <OntologyEntity>
             <ConceptReference name="sign" />
           </OntologyEntity>
           <String> of </String>
-          <Parameter hasIndefiniteArticle="true" hasDefiniteArticle="false" useThePersonalPronoun="false">
+          <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
             <FormalParameterReference name="?O2" />
           </Parameter>
-          <String> such as </String>
+          <String> such asb </String>
           <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="true" useThePersonalPronoun="false">
             <FormalParameterReference name="?O3" />
           </Parameter>
@@ -378,7 +378,7 @@
                 <FormalParameterReference name="?O2" />
                 <LowerBound>
                   <SingleInstanceBound>
-                    <InstanceReference name="alternator problem" />
+                    <InstanceReference name="air-filter problem" />
                   </SingleInstanceBound>
                 </LowerBound>
                 <UpperBound>
@@ -391,7 +391,7 @@
                 <FormalParameterReference name="?O3" />
                 <LowerBound>
                   <SingleInstanceBound>
-                    <InstanceReference name="unusual sounds" />
+                    <InstanceReference name="service engine light" />
                   </SingleInstanceBound>
                 </LowerBound>
                 <UpperBound>
@@ -413,9 +413,9 @@
                   <ConceptReference name="vehicle" />
                 </MintermOfConcepts>
                 <FormalParameterReference name="?O2" />
-                <InstanceReference name="alternator problem" />
+                <InstanceReference name="air-filter problem" />
                 <FormalParameterReference name="?O3" />
-                <InstanceReference name="unusual sounds" />
+                <InstanceReference name="service engine light" />
               </ConstantInstantiatedFormalParameters>
             </ConditionGeneralizedExample>
           </ConditionGeneralizedExamplesList>
@@ -427,17 +427,17 @@
           <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
             <FormalParameterReference name="?O1" />
           </Parameter>
-          <String> is exhibiting the </String>
-          <OntologyEntity>
-            <ConceptReference name="sign" />
-          </OntologyEntity>
-          <String> of </String>
-          <Parameter hasIndefiniteArticle="true" hasDefiniteArticle="false" useThePersonalPronoun="false">
+          <String> broke down due to </String>
+          <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
             <FormalParameterReference name="?O2" />
           </Parameter>
-          <String> such as, engine generating </String>
-          <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+          <String> as </String>
+          <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="true" useThePersonalPronoun="false">
             <FormalParameterReference name="?O3" />
+          </Parameter>
+          <String> went on in </String>
+          <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+            <FormalParameterReference name="?O1" />
           </Parameter>
           <String>.</String>
         </Fragments>
@@ -465,19 +465,6 @@
               <ParameterClassicPVSDomain>
                 <FormalParameterReference name="?O1" />
                 <LowerBound>
-                  <SingleInstanceBound>
-                    <InstanceReference name="service engine light" />
-                  </SingleInstanceBound>
-                </LowerBound>
-                <UpperBound>
-                  <ClassicConceptBound>
-                    <ConceptReference name="sign" />
-                  </ClassicConceptBound>
-                </UpperBound>
-              </ParameterClassicPVSDomain>
-              <ParameterClassicPVSDomain>
-                <FormalParameterReference name="?O2" />
-                <LowerBound>
                   <ClassicConceptLowerBound>
                     <ConceptReference name="vehicle" />
                   </ClassicConceptLowerBound>
@@ -489,15 +476,28 @@
                 </UpperBound>
               </ParameterClassicPVSDomain>
               <ParameterClassicPVSDomain>
-                <FormalParameterReference name="?O3" />
+                <FormalParameterReference name="?O2" />
                 <LowerBound>
                   <SingleInstanceBound>
-                    <InstanceReference name="alternator problem" />
+                    <InstanceReference name="air-filter problem" />
                   </SingleInstanceBound>
                 </LowerBound>
                 <UpperBound>
                   <ClassicConceptBound>
                     <ConceptReference name="breakdown reason" />
+                  </ClassicConceptBound>
+                </UpperBound>
+              </ParameterClassicPVSDomain>
+              <ParameterClassicPVSDomain>
+                <FormalParameterReference name="?O3" />
+                <LowerBound>
+                  <SingleInstanceBound>
+                    <InstanceReference name="clogged spark plug" />
+                  </SingleInstanceBound>
+                </LowerBound>
+                <UpperBound>
+                  <ClassicConceptBound>
+                    <ConceptReference name="side-effect" />
                   </ClassicConceptBound>
                 </UpperBound>
               </ParameterClassicPVSDomain>
@@ -510,13 +510,13 @@
             <ConditionGeneralizedExample index="1" type="1" noOfPositiveExamples="1" noOfNegativeExamples="0">
               <ConstantInstantiatedFormalParameters>
                 <FormalParameterReference name="?O1" />
-                <InstanceReference name="service engine light" />
-                <FormalParameterReference name="?O2" />
                 <MintermOfConcepts>
                   <ConceptReference name="vehicle" />
                 </MintermOfConcepts>
+                <FormalParameterReference name="?O2" />
+                <InstanceReference name="air-filter problem" />
                 <FormalParameterReference name="?O3" />
-                <InstanceReference name="alternator problem" />
+                <InstanceReference name="clogged spark plug" />
               </ConstantInstantiatedFormalParameters>
             </ConditionGeneralizedExample>
           </ConditionGeneralizedExamplesList>
@@ -528,11 +528,15 @@
           <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
             <FormalParameterReference name="?O1" />
           </Parameter>
+          <String> has the </String>
+          <OntologyEntity>
+            <ConceptReference name="side-effect" />
+          </OntologyEntity>
           <String> of </String>
           <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
             <FormalParameterReference name="?O2" />
           </Parameter>
-          <String> went on because of </String>
+          <String> such as </String>
           <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
             <FormalParameterReference name="?O3" />
           </Parameter>
@@ -543,7 +547,6 @@
 <InferenceTask version="2" index="6">
       <LearnableCondition>
         <ConstantFormalParametersList>
-          <FormalParameter name="?SI1" />
           <FormalParameter name="?O1" />
           <FormalParameter name="?O2" />
           <FormalParameter name="?O3" />
@@ -554,7 +557,6 @@
         <PVSCondition>
           <MainCondition>
             <ConstantFormalParametersSubList>
-              <FormalParameterReference name="?SI1" />
               <FormalParameterReference name="?O1" />
               <FormalParameterReference name="?O2" />
               <FormalParameterReference name="?O3" />
@@ -562,20 +564,108 @@
             <MultiVariableCondition>
               <AbstractFactsLinks />
               <ParameterClassicPVSDomain>
-                <FormalParameterReference name="?SI1" />
+                <FormalParameterReference name="?O1" />
                 <LowerBound>
-                  <SymbolicIntervalBound>
-                    <SymbolicIntervalReference name="very likely" />
-                    <SymbolicIntervalReference name="very likely" />
-                  </SymbolicIntervalBound>
+                  <ClassicConceptLowerBound>
+                    <ConceptReference name="vehicle" />
+                  </ClassicConceptLowerBound>
                 </LowerBound>
                 <UpperBound>
-                  <SymbolicIntervalBound>
-                    <SymbolicIntervalReference name="no support" />
-                    <SymbolicIntervalReference name="certain" />
-                  </SymbolicIntervalBound>
+                  <ClassicConceptBound>
+                    <ConceptReference name="vehicle" />
+                  </ClassicConceptBound>
                 </UpperBound>
               </ParameterClassicPVSDomain>
+              <ParameterClassicPVSDomain>
+                <FormalParameterReference name="?O2" />
+                <LowerBound>
+                  <SingleInstanceBound>
+                    <InstanceReference name="air-filter problem" />
+                  </SingleInstanceBound>
+                </LowerBound>
+                <UpperBound>
+                  <ClassicConceptBound>
+                    <ConceptReference name="breakdown reason" />
+                  </ClassicConceptBound>
+                </UpperBound>
+              </ParameterClassicPVSDomain>
+              <ParameterClassicPVSDomain>
+                <FormalParameterReference name="?O3" />
+                <LowerBound>
+                  <SingleInstanceBound>
+                    <InstanceReference name="unburnt air-fuel mixture" />
+                  </SingleInstanceBound>
+                </LowerBound>
+                <UpperBound>
+                  <ClassicConceptBound>
+                    <ConceptReference name="side-effect" />
+                  </ClassicConceptBound>
+                </UpperBound>
+              </ParameterClassicPVSDomain>
+            </MultiVariableCondition>
+          </MainCondition>
+          <ExceptWhenConditions />
+        </PVSCondition>
+        <LearnableConditionExamples lastRuleExampleIndex="1">
+          <ConditionGeneralizedExamplesList>
+            <ConditionGeneralizedExample index="1" type="1" noOfPositiveExamples="1" noOfNegativeExamples="0">
+              <ConstantInstantiatedFormalParameters>
+                <FormalParameterReference name="?O1" />
+                <MintermOfConcepts>
+                  <ConceptReference name="vehicle" />
+                </MintermOfConcepts>
+                <FormalParameterReference name="?O2" />
+                <InstanceReference name="air-filter problem" />
+                <FormalParameterReference name="?O3" />
+                <InstanceReference name="unburnt air-fuel mixture" />
+              </ConstantInstantiatedFormalParameters>
+            </ConditionGeneralizedExample>
+          </ConditionGeneralizedExamplesList>
+          <ListOfExamples />
+        </LearnableConditionExamples>
+      </LearnableCondition>
+      <NLPattern>
+        <Fragments>
+          <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+            <FormalParameterReference name="?O1" />
+          </Parameter>
+          <String> has the </String>
+          <OntologyEntity>
+            <ConceptReference name="side-effect" />
+          </OntologyEntity>
+          <String> of </String>
+          <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+            <FormalParameterReference name="?O2" />
+          </Parameter>
+          <String> as </String>
+          <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+            <FormalParameterReference name="?O1" />
+          </Parameter>
+          <String> has  </String>
+          <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+            <FormalParameterReference name="?O3" />
+          </Parameter>
+          <String>.</String>
+        </Fragments>
+      </NLPattern>
+    </InferenceTask>
+<InferenceTask version="2" index="7">
+      <LearnableCondition>
+        <ConstantFormalParametersList>
+          <FormalParameter name="?O1" />
+          <FormalParameter name="?O2" />
+        </ConstantFormalParametersList>
+        <Explanations>
+          <Positive />
+        </Explanations>
+        <PVSCondition>
+          <MainCondition>
+            <ConstantFormalParametersSubList>
+              <FormalParameterReference name="?O1" />
+              <FormalParameterReference name="?O2" />
+            </ConstantFormalParametersSubList>
+            <MultiVariableCondition>
+              <AbstractFactsLinks />
               <ParameterClassicPVSDomain>
                 <FormalParameterReference name="?O1" />
                 <LowerBound>
@@ -598,7 +688,102 @@
                 </LowerBound>
                 <UpperBound>
                   <ClassicConceptBound>
-                    <ConceptReference name="sign" />
+                    <ConceptReference name="problem" />
+                  </ClassicConceptBound>
+                </UpperBound>
+              </ParameterClassicPVSDomain>
+            </MultiVariableCondition>
+          </MainCondition>
+          <ExceptWhenConditions />
+        </PVSCondition>
+        <LearnableConditionExamples lastRuleExampleIndex="1">
+          <ConditionGeneralizedExamplesList>
+            <ConditionGeneralizedExample index="1" type="1" noOfPositiveExamples="1" noOfNegativeExamples="0">
+              <ConstantInstantiatedFormalParameters>
+                <FormalParameterReference name="?O1" />
+                <MintermOfConcepts>
+                  <ConceptReference name="vehicle" />
+                </MintermOfConcepts>
+                <FormalParameterReference name="?O2" />
+                <InstanceReference name="unusual sounds" />
+              </ConstantInstantiatedFormalParameters>
+            </ConditionGeneralizedExample>
+          </ConditionGeneralizedExamplesList>
+          <ListOfExamples />
+        </LearnableConditionExamples>
+      </LearnableCondition>
+      <NLPattern>
+        <Fragments>
+          <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+            <FormalParameterReference name="?O1" />
+          </Parameter>
+          <String> is generating </String>
+          <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+            <FormalParameterReference name="?O2" />
+          </Parameter>
+          <String>.</String>
+        </Fragments>
+      </NLPattern>
+    </InferenceTask>
+<InferenceTask version="2" index="8">
+      <LearnableCondition>
+        <ConstantFormalParametersList>
+          <FormalParameter name="?SI1" />
+          <FormalParameter name="?O1" />
+          <FormalParameter name="?O2" />
+          <FormalParameter name="?O3" />
+        </ConstantFormalParametersList>
+        <Explanations>
+          <Positive />
+        </Explanations>
+        <PVSCondition>
+          <MainCondition>
+            <ConstantFormalParametersSubList>
+              <FormalParameterReference name="?SI1" />
+              <FormalParameterReference name="?O1" />
+              <FormalParameterReference name="?O2" />
+              <FormalParameterReference name="?O3" />
+            </ConstantFormalParametersSubList>
+            <MultiVariableCondition>
+              <AbstractFactsLinks />
+              <ParameterClassicPVSDomain>
+                <FormalParameterReference name="?SI1" />
+                <LowerBound>
+                  <SymbolicIntervalBound>
+                    <SymbolicIntervalReference name="likely" />
+                    <SymbolicIntervalReference name="likely" />
+                  </SymbolicIntervalBound>
+                </LowerBound>
+                <UpperBound>
+                  <SymbolicIntervalBound>
+                    <SymbolicIntervalReference name="no support" />
+                    <SymbolicIntervalReference name="certain" />
+                  </SymbolicIntervalBound>
+                </UpperBound>
+              </ParameterClassicPVSDomain>
+              <ParameterClassicPVSDomain>
+                <FormalParameterReference name="?O1" />
+                <LowerBound>
+                  <ClassicConceptLowerBound>
+                    <ConceptReference name="vehicle" />
+                  </ClassicConceptLowerBound>
+                </LowerBound>
+                <UpperBound>
+                  <ClassicConceptBound>
+                    <ConceptReference name="vehicle" />
+                  </ClassicConceptBound>
+                </UpperBound>
+              </ParameterClassicPVSDomain>
+              <ParameterClassicPVSDomain>
+                <FormalParameterReference name="?O2" />
+                <LowerBound>
+                  <SingleInstanceBound>
+                    <InstanceReference name="air-filter problem" />
+                  </SingleInstanceBound>
+                </LowerBound>
+                <UpperBound>
+                  <ClassicConceptBound>
+                    <ConceptReference name="breakdown reason" />
                   </ClassicConceptBound>
                 </UpperBound>
               </ParameterClassicPVSDomain>
@@ -606,12 +791,12 @@
                 <FormalParameterReference name="?O3" />
                 <LowerBound>
                   <SingleInstanceBound>
-                    <InstanceReference name="alternator problem" />
+                    <InstanceReference name="unusual sounds" />
                   </SingleInstanceBound>
                 </LowerBound>
                 <UpperBound>
                   <ClassicConceptBound>
-                    <ConceptReference name="breakdown reason" />
+                    <ConceptReference name="problem" />
                   </ClassicConceptBound>
                 </UpperBound>
               </ParameterClassicPVSDomain>
@@ -624,15 +809,15 @@
             <ConditionGeneralizedExample index="1" type="1" noOfPositiveExamples="1" noOfNegativeExamples="0">
               <ConstantInstantiatedFormalParameters>
                 <FormalParameterReference name="?SI1" />
-                <SymbolicIntervalReference name="very likely" />
+                <SymbolicIntervalReference name="likely" />
                 <FormalParameterReference name="?O1" />
                 <MintermOfConcepts>
                   <ConceptReference name="vehicle" />
                 </MintermOfConcepts>
                 <FormalParameterReference name="?O2" />
-                <InstanceReference name="unusual sounds" />
+                <InstanceReference name="air-filter problem" />
                 <FormalParameterReference name="?O3" />
-                <InstanceReference name="alternator problem" />
+                <InstanceReference name="unusual sounds" />
               </ConstantInstantiatedFormalParameters>
             </ConditionGeneralizedExample>
           </ConditionGeneralizedExamplesList>
@@ -645,15 +830,15 @@
           <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
             <FormalParameterReference name="?SI1" />
           </Parameter>
-          <String> that the engine of </String>
+          <String> that </String>
           <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
             <FormalParameterReference name="?O1" />
           </Parameter>
-          <String> is generating </String>
+          <String> broke down due to </String>
           <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
             <FormalParameterReference name="?O2" />
           </Parameter>
-          <String> because of </String>
+          <String> as the car is generating </String>
           <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
             <FormalParameterReference name="?O3" />
           </Parameter>
@@ -661,12 +846,11 @@
         </Fragments>
       </NLPattern>
     </InferenceTask>
-<InferenceTask version="2" index="7">
+<InferenceTask version="2" index="9">
       <LearnableCondition>
         <ConstantFormalParametersList>
           <FormalParameter name="?O1" />
           <FormalParameter name="?O2" />
-          <FormalParameter name="?O3" />
         </ConstantFormalParametersList>
         <Explanations>
           <Positive />
@@ -676,7 +860,6 @@
             <ConstantFormalParametersSubList>
               <FormalParameterReference name="?O1" />
               <FormalParameterReference name="?O2" />
-              <FormalParameterReference name="?O3" />
             </ConstantFormalParametersSubList>
             <MultiVariableCondition>
               <AbstractFactsLinks />
@@ -697,136 +880,7 @@
                 <FormalParameterReference name="?O2" />
                 <LowerBound>
                   <SingleInstanceBound>
-                    <InstanceReference name="alternator problem" />
-                  </SingleInstanceBound>
-                </LowerBound>
-                <UpperBound>
-                  <ClassicConceptBound>
-                    <ConceptReference name="breakdown reason" />
-                  </ClassicConceptBound>
-                </UpperBound>
-              </ParameterClassicPVSDomain>
-              <ParameterClassicPVSDomain>
-                <FormalParameterReference name="?O3" />
-                <LowerBound>
-                  <SingleInstanceBound>
-                    <InstanceReference name="low power supply to engine" />
-                  </SingleInstanceBound>
-                </LowerBound>
-                <UpperBound>
-                  <ClassicConceptBound>
-                    <ConceptReference name="side-effect" />
-                  </ClassicConceptBound>
-                </UpperBound>
-              </ParameterClassicPVSDomain>
-            </MultiVariableCondition>
-          </MainCondition>
-          <ExceptWhenConditions />
-        </PVSCondition>
-        <LearnableConditionExamples lastRuleExampleIndex="1">
-          <ConditionGeneralizedExamplesList>
-            <ConditionGeneralizedExample index="1" type="1" noOfPositiveExamples="1" noOfNegativeExamples="0">
-              <ConstantInstantiatedFormalParameters>
-                <FormalParameterReference name="?O1" />
-                <MintermOfConcepts>
-                  <ConceptReference name="vehicle" />
-                </MintermOfConcepts>
-                <FormalParameterReference name="?O2" />
-                <InstanceReference name="alternator problem" />
-                <FormalParameterReference name="?O3" />
-                <InstanceReference name="low power supply to engine" />
-              </ConstantInstantiatedFormalParameters>
-            </ConditionGeneralizedExample>
-          </ConditionGeneralizedExamplesList>
-          <ListOfExamples />
-        </LearnableConditionExamples>
-      </LearnableCondition>
-      <NLPattern>
-        <Fragments>
-          <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-            <FormalParameterReference name="?O1" />
-          </Parameter>
-          <String> has </String>
-          <OntologyEntity>
-            <ConceptReference name="side-effect" />
-          </OntologyEntity>
-          <String> of </String>
-          <Parameter hasIndefiniteArticle="true" hasDefiniteArticle="false" useThePersonalPronoun="false">
-            <FormalParameterReference name="?O2" />
-          </Parameter>
-          <String> such as </String>
-          <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-            <FormalParameterReference name="?O3" />
-          </Parameter>
-          <String>.</String>
-        </Fragments>
-      </NLPattern>
-    </InferenceTask>
-<InferenceTask version="2" index="8">
-      <LearnableCondition>
-        <ConstantFormalParametersList>
-          <FormalParameter name="?O1" />
-          <FormalParameter name="?O2" />
-          <FormalParameter name="?O3" />
-          <FormalParameter name="?O4" />
-        </ConstantFormalParametersList>
-        <Explanations>
-          <Positive />
-        </Explanations>
-        <PVSCondition>
-          <MainCondition>
-            <ConstantFormalParametersSubList>
-              <FormalParameterReference name="?O1" />
-              <FormalParameterReference name="?O2" />
-              <FormalParameterReference name="?O3" />
-              <FormalParameterReference name="?O4" />
-            </ConstantFormalParametersSubList>
-            <MultiVariableCondition>
-              <AbstractFactsLinks />
-              <ParameterClassicPVSDomain>
-                <FormalParameterReference name="?O1" />
-                <LowerBound>
-                  <ClassicConceptLowerBound>
-                    <ConceptReference name="vehicle" />
-                  </ClassicConceptLowerBound>
-                </LowerBound>
-                <UpperBound>
-                  <ClassicConceptBound>
-                    <ConceptReference name="vehicle" />
-                  </ClassicConceptBound>
-                </UpperBound>
-              </ParameterClassicPVSDomain>
-              <ParameterClassicPVSDomain>
-                <FormalParameterReference name="?O2" />
-                <LowerBound>
-                  <SingleInstanceBound>
-                    <InstanceReference name="alternator problem" />
-                  </SingleInstanceBound>
-                </LowerBound>
-                <UpperBound>
-                  <ClassicConceptBound>
-                    <ConceptReference name="breakdown reason" />
-                  </ClassicConceptBound>
-                </UpperBound>
-              </ParameterClassicPVSDomain>
-              <ParameterClassicPVSDomain>
-                <FormalParameterReference name="?O3" />
-                <LowerBound>
-                  <SingleInstanceBound>
-                    <InstanceReference name="low power supply to engine" />
-                  </SingleInstanceBound>
-                </LowerBound>
-                <UpperBound>
-                  <ClassicConceptBound>
-                    <ConceptReference name="side-effect" />
-                  </ClassicConceptBound>
-                </UpperBound>
-              </ParameterClassicPVSDomain>
-              <ParameterClassicPVSDomain>
-                <FormalParameterReference name="?O4" />
-                <LowerBound>
-                  <SingleInstanceBound>
-                    <InstanceReference name="engine clicking sounds" />
+                    <InstanceReference name="black flame" />
                   </SingleInstanceBound>
                 </LowerBound>
                 <UpperBound>
@@ -848,11 +902,7 @@
                   <ConceptReference name="vehicle" />
                 </MintermOfConcepts>
                 <FormalParameterReference name="?O2" />
-                <InstanceReference name="alternator problem" />
-                <FormalParameterReference name="?O3" />
-                <InstanceReference name="low power supply to engine" />
-                <FormalParameterReference name="?O4" />
-                <InstanceReference name="engine clicking sounds" />
+                <InstanceReference name="black flame" />
               </ConstantInstantiatedFormalParameters>
             </ConditionGeneralizedExample>
           </ConditionGeneralizedExamplesList>
@@ -864,27 +914,15 @@
           <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
             <FormalParameterReference name="?O1" />
           </Parameter>
-          <String> has the </String>
-          <OntologyEntity>
-            <ConceptReference name="side-effect" />
-          </OntologyEntity>
-          <String> of </String>
-          <Parameter hasIndefiniteArticle="true" hasDefiniteArticle="false" useThePersonalPronoun="false">
+          <String> is venting out </String>
+          <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
             <FormalParameterReference name="?O2" />
-          </Parameter>
-          <String> such as </String>
-          <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-            <FormalParameterReference name="?O3" />
-          </Parameter>
-          <String> as the car is generating </String>
-          <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-            <FormalParameterReference name="?O4" />
           </Parameter>
           <String>.</String>
         </Fragments>
       </NLPattern>
     </InferenceTask>
-<InferenceTask version="2" index="9">
+<InferenceTask version="2" index="10">
       <LearnableCondition>
         <ConstantFormalParametersList>
           <FormalParameter name="?SI1" />
@@ -923,19 +961,6 @@
               <ParameterClassicPVSDomain>
                 <FormalParameterReference name="?O1" />
                 <LowerBound>
-                  <SingleInstanceBound>
-                    <InstanceReference name="engine clicking sounds" />
-                  </SingleInstanceBound>
-                </LowerBound>
-                <UpperBound>
-                  <ClassicConceptBound>
-                    <ConceptReference name="problem" />
-                  </ClassicConceptBound>
-                </UpperBound>
-              </ParameterClassicPVSDomain>
-              <ParameterClassicPVSDomain>
-                <FormalParameterReference name="?O2" />
-                <LowerBound>
                   <ClassicConceptLowerBound>
                     <ConceptReference name="vehicle" />
                   </ClassicConceptLowerBound>
@@ -947,15 +972,28 @@
                 </UpperBound>
               </ParameterClassicPVSDomain>
               <ParameterClassicPVSDomain>
-                <FormalParameterReference name="?O3" />
+                <FormalParameterReference name="?O2" />
                 <LowerBound>
                   <SingleInstanceBound>
-                    <InstanceReference name="alternator problem" />
+                    <InstanceReference name="air-filter problem" />
                   </SingleInstanceBound>
                 </LowerBound>
                 <UpperBound>
                   <ClassicConceptBound>
                     <ConceptReference name="breakdown reason" />
+                  </ClassicConceptBound>
+                </UpperBound>
+              </ParameterClassicPVSDomain>
+              <ParameterClassicPVSDomain>
+                <FormalParameterReference name="?O3" />
+                <LowerBound>
+                  <SingleInstanceBound>
+                    <InstanceReference name="black flame" />
+                  </SingleInstanceBound>
+                </LowerBound>
+                <UpperBound>
+                  <ClassicConceptBound>
+                    <ConceptReference name="problem" />
                   </ClassicConceptBound>
                 </UpperBound>
               </ParameterClassicPVSDomain>
@@ -970,13 +1008,13 @@
                 <FormalParameterReference name="?SI1" />
                 <SymbolicIntervalReference name="very likely" />
                 <FormalParameterReference name="?O1" />
-                <InstanceReference name="engine clicking sounds" />
-                <FormalParameterReference name="?O2" />
                 <MintermOfConcepts>
                   <ConceptReference name="vehicle" />
                 </MintermOfConcepts>
+                <FormalParameterReference name="?O2" />
+                <InstanceReference name="air-filter problem" />
                 <FormalParameterReference name="?O3" />
-                <InstanceReference name="alternator problem" />
+                <InstanceReference name="black flame" />
               </ConstantInstantiatedFormalParameters>
             </ConditionGeneralizedExample>
           </ConditionGeneralizedExamplesList>
@@ -989,236 +1027,21 @@
           <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
             <FormalParameterReference name="?SI1" />
           </Parameter>
-          <String> that  </String>
+          <String> that </String>
           <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
             <FormalParameterReference name="?O1" />
           </Parameter>
-          <String> are can be heard from </String>
+          <String> broke down due to </String>
           <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
             <FormalParameterReference name="?O2" />
           </Parameter>
-          <String> because of </String>
+          <String> as </String>
           <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
             <FormalParameterReference name="?O3" />
           </Parameter>
-          <String>.</String>
-        </Fragments>
-      </NLPattern>
-    </InferenceTask>
-<InferenceTask version="2" index="10">
-      <LearnableCondition>
-        <ConstantFormalParametersList>
-          <FormalParameter name="?O1" />
-          <FormalParameter name="?O2" />
-          <FormalParameter name="?O3" />
-          <FormalParameter name="?O4" />
-        </ConstantFormalParametersList>
-        <Explanations>
-          <Positive />
-        </Explanations>
-        <PVSCondition>
-          <MainCondition>
-            <ConstantFormalParametersSubList>
-              <FormalParameterReference name="?O1" />
-              <FormalParameterReference name="?O2" />
-              <FormalParameterReference name="?O3" />
-              <FormalParameterReference name="?O4" />
-            </ConstantFormalParametersSubList>
-            <MultiVariableCondition>
-              <AbstractFactsLinks />
-              <ParameterClassicPVSDomain>
-                <FormalParameterReference name="?O1" />
-                <LowerBound>
-                  <ClassicConceptLowerBound>
-                    <ConceptReference name="vehicle" />
-                  </ClassicConceptLowerBound>
-                </LowerBound>
-                <UpperBound>
-                  <ClassicConceptBound>
-                    <ConceptReference name="vehicle" />
-                  </ClassicConceptBound>
-                </UpperBound>
-              </ParameterClassicPVSDomain>
-              <ParameterClassicPVSDomain>
-                <FormalParameterReference name="?O2" />
-                <LowerBound>
-                  <SingleInstanceBound>
-                    <InstanceReference name="alternator problem" />
-                  </SingleInstanceBound>
-                </LowerBound>
-                <UpperBound>
-                  <ClassicConceptBound>
-                    <ConceptReference name="breakdown reason" />
-                  </ClassicConceptBound>
-                </UpperBound>
-              </ParameterClassicPVSDomain>
-              <ParameterClassicPVSDomain>
-                <FormalParameterReference name="?O3" />
-                <LowerBound>
-                  <SingleInstanceBound>
-                    <InstanceReference name="drained battery" />
-                  </SingleInstanceBound>
-                </LowerBound>
-                <UpperBound>
-                  <ClassicConceptBound>
-                    <ConceptReference name="side-effect" />
-                  </ClassicConceptBound>
-                </UpperBound>
-              </ParameterClassicPVSDomain>
-              <ParameterClassicPVSDomain>
-                <FormalParameterReference name="?O4" />
-                <LowerBound>
-                  <SingleInstanceBound>
-                    <InstanceReference name="no start condition" />
-                  </SingleInstanceBound>
-                </LowerBound>
-                <UpperBound>
-                  <ClassicConceptBound>
-                    <ConceptReference name="problem" />
-                  </ClassicConceptBound>
-                </UpperBound>
-              </ParameterClassicPVSDomain>
-            </MultiVariableCondition>
-          </MainCondition>
-          <ExceptWhenConditions />
-        </PVSCondition>
-        <LearnableConditionExamples lastRuleExampleIndex="1">
-          <ConditionGeneralizedExamplesList>
-            <ConditionGeneralizedExample index="1" type="1" noOfPositiveExamples="1" noOfNegativeExamples="0">
-              <ConstantInstantiatedFormalParameters>
-                <FormalParameterReference name="?O1" />
-                <MintermOfConcepts>
-                  <ConceptReference name="vehicle" />
-                </MintermOfConcepts>
-                <FormalParameterReference name="?O2" />
-                <InstanceReference name="alternator problem" />
-                <FormalParameterReference name="?O3" />
-                <InstanceReference name="drained battery" />
-                <FormalParameterReference name="?O4" />
-                <InstanceReference name="no start condition" />
-              </ConstantInstantiatedFormalParameters>
-            </ConditionGeneralizedExample>
-          </ConditionGeneralizedExamplesList>
-          <ListOfExamples />
-        </LearnableConditionExamples>
-      </LearnableCondition>
-      <NLPattern>
-        <Fragments>
+          <String> is vented out of </String>
           <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
             <FormalParameterReference name="?O1" />
-          </Parameter>
-          <String> has the </String>
-          <OntologyEntity>
-            <ConceptReference name="side-effect" />
-          </OntologyEntity>
-          <String> of </String>
-          <Parameter hasIndefiniteArticle="true" hasDefiniteArticle="false" useThePersonalPronoun="false">
-            <FormalParameterReference name="?O2" />
-          </Parameter>
-          <String> such as </String>
-          <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-            <FormalParameterReference name="?O3" />
-          </Parameter>
-          <String> as the car is in </String>
-          <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-            <FormalParameterReference name="?O4" />
-          </Parameter>
-          <String>.</String>
-        </Fragments>
-      </NLPattern>
-    </InferenceTask>
-<InferenceTask version="2" index="11">
-      <LearnableCondition>
-        <ConstantFormalParametersList>
-          <FormalParameter name="?O1" />
-          <FormalParameter name="?O2" />
-          <FormalParameter name="?O3" />
-        </ConstantFormalParametersList>
-        <Explanations>
-          <Positive />
-        </Explanations>
-        <PVSCondition>
-          <MainCondition>
-            <ConstantFormalParametersSubList>
-              <FormalParameterReference name="?O1" />
-              <FormalParameterReference name="?O2" />
-              <FormalParameterReference name="?O3" />
-            </ConstantFormalParametersSubList>
-            <MultiVariableCondition>
-              <AbstractFactsLinks />
-              <ParameterClassicPVSDomain>
-                <FormalParameterReference name="?O1" />
-                <LowerBound>
-                  <ClassicConceptLowerBound>
-                    <ConceptReference name="vehicle" />
-                  </ClassicConceptLowerBound>
-                </LowerBound>
-                <UpperBound>
-                  <ClassicConceptBound>
-                    <ConceptReference name="vehicle" />
-                  </ClassicConceptBound>
-                </UpperBound>
-              </ParameterClassicPVSDomain>
-              <ParameterClassicPVSDomain>
-                <FormalParameterReference name="?O2" />
-                <LowerBound>
-                  <SingleInstanceBound>
-                    <InstanceReference name="no start condition" />
-                  </SingleInstanceBound>
-                </LowerBound>
-                <UpperBound>
-                  <ClassicConceptBound>
-                    <ConceptReference name="problem" />
-                  </ClassicConceptBound>
-                </UpperBound>
-              </ParameterClassicPVSDomain>
-              <ParameterClassicPVSDomain>
-                <FormalParameterReference name="?O3" />
-                <LowerBound>
-                  <SingleInstanceBound>
-                    <InstanceReference name="alternator problem" />
-                  </SingleInstanceBound>
-                </LowerBound>
-                <UpperBound>
-                  <ClassicConceptBound>
-                    <ConceptReference name="breakdown reason" />
-                  </ClassicConceptBound>
-                </UpperBound>
-              </ParameterClassicPVSDomain>
-            </MultiVariableCondition>
-          </MainCondition>
-          <ExceptWhenConditions />
-        </PVSCondition>
-        <LearnableConditionExamples lastRuleExampleIndex="1">
-          <ConditionGeneralizedExamplesList>
-            <ConditionGeneralizedExample index="1" type="1" noOfPositiveExamples="1" noOfNegativeExamples="0">
-              <ConstantInstantiatedFormalParameters>
-                <FormalParameterReference name="?O1" />
-                <MintermOfConcepts>
-                  <ConceptReference name="vehicle" />
-                </MintermOfConcepts>
-                <FormalParameterReference name="?O2" />
-                <InstanceReference name="no start condition" />
-                <FormalParameterReference name="?O3" />
-                <InstanceReference name="alternator problem" />
-              </ConstantInstantiatedFormalParameters>
-            </ConditionGeneralizedExample>
-          </ConditionGeneralizedExamplesList>
-          <ListOfExamples />
-        </LearnableConditionExamples>
-      </LearnableCondition>
-      <NLPattern>
-        <Fragments>
-          <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-            <FormalParameterReference name="?O1" />
-          </Parameter>
-          <String> is in </String>
-          <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-            <FormalParameterReference name="?O2" />
-          </Parameter>
-          <String> because of </String>
-          <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-            <FormalParameterReference name="?O3" />
           </Parameter>
           <String>.</String>
         </Fragments>
@@ -1289,8 +1112,8 @@
           <OntologyEntity>
             <ConceptReference name="side-effect" />
           </OntologyEntity>
-          <String> of </String>
-          <Parameter hasIndefiniteArticle="true" hasDefiniteArticle="false" useThePersonalPronoun="false">
+          <String> of  </String>
+          <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
             <FormalParameterReference name="?O2" />
           </Parameter>
           <String>.</String>
@@ -1300,14 +1123,14 @@
         <Positive>
           <Explanation exampleIndex="1">
             <IsConcept>
-              <FormalParameterReference name="?O1" />
-              <ConceptReference name="vehicle" />
+              <FormalParameterReference name="?O2" />
+              <ConceptReference name="breakdown reason" />
             </IsConcept>
           </Explanation>
           <Explanation exampleIndex="1">
             <IsConcept>
-              <FormalParameterReference name="?O2" />
-              <ConceptReference name="breakdown reason" />
+              <FormalParameterReference name="?O1" />
+              <ConceptReference name="vehicle" />
             </IsConcept>
           </Explanation>
         </Positive>
@@ -1336,7 +1159,7 @@
             <FormalParameterReference name="?O2" />
             <LowerBound>
               <SingleInstanceBound>
-                <InstanceReference name="alternator problem" />
+                <InstanceReference name="air-filter problem" />
               </SingleInstanceBound>
             </LowerBound>
             <UpperBound>
@@ -1357,7 +1180,7 @@
                 <ConceptReference name="vehicle" />
               </MintermOfConcepts>
               <FormalParameterReference name="?O2" />
-              <InstanceReference name="alternator problem" />
+              <InstanceReference name="air-filter problem" />
             </ConstantInstantiatedFormalParameters>
           </ConditionGeneralizedExample>
         </ConditionGeneralizedExamplesList>
@@ -1369,7 +1192,6 @@
         <FormalParameter name="?O1" />
         <FormalParameter name="?O2" />
         <FormalParameter name="?O3" />
-        <FormalParameter name="?O4" />
       </ConstantFormalParametersList>
       <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="1" />
       <ConstantParametersCorrespondence>
@@ -1396,30 +1218,13 @@
             <FormalParameterReference name="?O3" />
           </ConstantFormalParametersSubList>
         </ConstantParametersCorrespondence>
-        <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="4" />
-        <ConstantParametersCorrespondence>
-          <ConstantFormalParametersSubList>
-            <FormalParameterReference name="?O1" />
-            <FormalParameterReference name="?O2" />
-            <FormalParameterReference name="?O3" />
-          </ConstantFormalParametersSubList>
-          <ConstantFormalParametersSubList>
-            <FormalParameterReference name="?O1" />
-            <FormalParameterReference name="?O2" />
-            <FormalParameterReference name="?O4" />
-          </ConstantFormalParametersSubList>
-        </ConstantParametersCorrespondence>
       </ThenTasks>
       <ConstantFormalParametersSubList>
         <FormalParameterReference name="?O2" />
       </ConstantFormalParametersSubList>
       <NLPattern>
         <Fragments>
-          <String>What is the </String>
-          <OntologyEntity>
-            <ConceptReference name="sign" />
-          </OntologyEntity>
-          <String> of </String>
+          <String>What is the sign of </String>
           <Parameter hasIndefiniteArticle="true" hasDefiniteArticle="false" useThePersonalPronoun="false">
             <FormalParameterReference name="?O2" />
           </Parameter>
@@ -1428,16 +1233,11 @@
       </NLPattern>
       <ConstantFormalParametersSubList>
         <FormalParameterReference name="?O3" />
-        <FormalParameterReference name="?O4" />
       </ConstantFormalParametersSubList>
       <NLPattern>
         <Fragments>
           <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
             <FormalParameterReference name="?O3" />
-          </Parameter>
-          <String>, </String>
-          <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-            <FormalParameterReference name="?O4" />
           </Parameter>
           <String>.</String>
         </Fragments>
@@ -1453,24 +1253,9 @@
             </Is>
           </Explanation>
           <Explanation exampleIndex="1">
-            <Is>
-              <FormalParameterReference name="?O4" />
-              <SingleInstanceBound>
-                <InstanceReference name="unusual sounds" />
-              </SingleInstanceBound>
-            </Is>
-          </Explanation>
-          <Explanation exampleIndex="1">
             <Fact inverse="false">
               <FormalParameterReference name="?O2" />
               <FormalParameterReference name="?O3" />
-              <FeatureReference name="has as sign" />
-            </Fact>
-          </Explanation>
-          <Explanation exampleIndex="1">
-            <Fact inverse="false">
-              <FormalParameterReference name="?O2" />
-              <FormalParameterReference name="?O4" />
               <FeatureReference name="has as sign" />
             </Fact>
           </Explanation>
@@ -1481,7 +1266,6 @@
           <FormalParameterReference name="?O1" />
           <FormalParameterReference name="?O2" />
           <FormalParameterReference name="?O3" />
-          <FormalParameterReference name="?O4" />
         </ConstantFormalParametersSubList>
         <MultiVariableCondition>
           <AbstractFactsLinks>
@@ -1490,13 +1274,6 @@
               <ConstantFormalParametersSubList>
                 <FormalParameterReference name="?O2" />
                 <FormalParameterReference name="?O3" />
-              </ConstantFormalParametersSubList>
-            </AbstractFact>
-            <AbstractFact>
-              <FeatureReference name="has as sign" />
-              <ConstantFormalParametersSubList>
-                <FormalParameterReference name="?O2" />
-                <FormalParameterReference name="?O4" />
               </ConstantFormalParametersSubList>
             </AbstractFact>
           </AbstractFactsLinks>
@@ -1517,7 +1294,7 @@
             <FormalParameterReference name="?O2" />
             <LowerBound>
               <SingleInstanceBound>
-                <InstanceReference name="alternator problem" />
+                <InstanceReference name="air-filter problem" />
               </SingleInstanceBound>
             </LowerBound>
             <UpperBound>
@@ -1539,19 +1316,6 @@
               </SingleInstanceBound>
             </UpperBound>
           </ParameterClassicPVSDomain>
-          <ParameterClassicPVSDomain>
-            <FormalParameterReference name="?O4" />
-            <LowerBound>
-              <SingleInstanceBound>
-                <InstanceReference name="unusual sounds" />
-              </SingleInstanceBound>
-            </LowerBound>
-            <UpperBound>
-              <SingleInstanceBound>
-                <InstanceReference name="unusual sounds" />
-              </SingleInstanceBound>
-            </UpperBound>
-          </ParameterClassicPVSDomain>
         </MultiVariableCondition>
       </MainCondition>
       <ExceptWhenConditions />
@@ -1564,11 +1328,9 @@
                 <ConceptReference name="vehicle" />
               </MintermOfConcepts>
               <FormalParameterReference name="?O2" />
-              <InstanceReference name="alternator problem" />
+              <InstanceReference name="air-filter problem" />
               <FormalParameterReference name="?O3" />
               <InstanceReference name="service engine light" />
-              <FormalParameterReference name="?O4" />
-              <InstanceReference name="unusual sounds" />
             </ConstantInstantiatedFormalParameters>
           </ConditionGeneralizedExample>
         </ConditionGeneralizedExamplesList>
@@ -1595,7 +1357,7 @@
         </ConstantFormalParametersSubList>
       </ConstantParametersCorrespondence>
       <ThenTasks>
-        <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="5" />
+        <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="4" />
         <ConstantParametersCorrespondence>
           <ConstantFormalParametersSubList>
             <FormalParameterReference name="?O1" />
@@ -1603,9 +1365,9 @@
             <FormalParameterReference name="?O3" />
           </ConstantFormalParametersSubList>
           <ConstantFormalParametersSubList>
-            <FormalParameterReference name="?O3" />
             <FormalParameterReference name="?O1" />
             <FormalParameterReference name="?O2" />
+            <FormalParameterReference name="?O3" />
           </ConstantFormalParametersSubList>
         </ConstantParametersCorrespondence>
       </ThenTasks>
@@ -1619,11 +1381,11 @@
           <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="true" useThePersonalPronoun="false">
             <FormalParameterReference name="?O3" />
           </Parameter>
-          <String> go on in </String>
+          <String> of </String>
           <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
             <FormalParameterReference name="?O1" />
           </Parameter>
-          <String>?</String>
+          <String> go on?</String>
         </Fragments>
       </NLPattern>
       <ConstantFormalParametersSubList>
@@ -1632,7 +1394,7 @@
       </ConstantFormalParametersSubList>
       <NLPattern>
         <Fragments>
-          <String>Yes, </String>
+          <String>Yes,</String>
           <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
             <FormalParameterReference name="?O3" />
           </Parameter>
@@ -1649,7 +1411,7 @@
             <Fact inverse="false">
               <FormalParameterReference name="?O1" />
               <FormalParameterReference name="?O3" />
-              <FeatureReference name="has as symptoms" />
+              <FeatureReference name="has as symptom" />
             </Fact>
           </Explanation>
           <Explanation exampleIndex="1">
@@ -1678,7 +1440,7 @@
         <MultiVariableCondition>
           <AbstractFactsLinks>
             <AbstractFact>
-              <FeatureReference name="has as symptoms" />
+              <FeatureReference name="has as symptom" />
               <ConstantFormalParametersSubList>
                 <FormalParameterReference name="?O1" />
                 <FormalParameterReference name="?O3" />
@@ -1709,7 +1471,7 @@
             <FormalParameterReference name="?O2" />
             <LowerBound>
               <SingleInstanceBound>
-                <InstanceReference name="alternator problem" />
+                <InstanceReference name="air-filter problem" />
               </SingleInstanceBound>
             </LowerBound>
             <UpperBound>
@@ -1743,7 +1505,7 @@
                 <ConceptReference name="vehicle" />
               </MintermOfConcepts>
               <FormalParameterReference name="?O2" />
-              <InstanceReference name="alternator problem" />
+              <InstanceReference name="air-filter problem" />
               <FormalParameterReference name="?O3" />
               <InstanceReference name="service engine light" />
             </ConstantInstantiatedFormalParameters>
@@ -1753,213 +1515,6 @@
       </LearnableConditionExamples>
     </DecompositionRule>
 <DecompositionRule index="3" enabled="true">
-      <ConstantFormalParametersList>
-        <FormalParameter name="?O1" />
-        <FormalParameter name="?O2" />
-        <FormalParameter name="?O3" />
-        <FormalParameter name="?SI1" />
-      </ConstantFormalParametersList>
-      <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="4" />
-      <ConstantParametersCorrespondence>
-        <ConstantFormalParametersSubList>
-          <FormalParameterReference name="?O1" />
-          <FormalParameterReference name="?O2" />
-          <FormalParameterReference name="?O3" />
-        </ConstantFormalParametersSubList>
-        <ConstantFormalParametersSubList>
-          <FormalParameterReference name="?O1" />
-          <FormalParameterReference name="?O2" />
-          <FormalParameterReference name="?O3" />
-        </ConstantFormalParametersSubList>
-      </ConstantParametersCorrespondence>
-      <ThenTasks>
-        <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="6" />
-        <ConstantParametersCorrespondence>
-          <ConstantFormalParametersSubList>
-            <FormalParameterReference name="?SI1" />
-            <FormalParameterReference name="?O1" />
-            <FormalParameterReference name="?O2" />
-            <FormalParameterReference name="?O3" />
-          </ConstantFormalParametersSubList>
-          <ConstantFormalParametersSubList>
-            <FormalParameterReference name="?SI1" />
-            <FormalParameterReference name="?O1" />
-            <FormalParameterReference name="?O3" />
-            <FormalParameterReference name="?O2" />
-          </ConstantFormalParametersSubList>
-        </ConstantParametersCorrespondence>
-      </ThenTasks>
-      <ConstantFormalParametersSubList>
-        <FormalParameterReference name="?O1" />
-        <FormalParameterReference name="?O3" />
-      </ConstantFormalParametersSubList>
-      <NLPattern>
-        <Fragments>
-          <String>Is </String>
-          <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-            <FormalParameterReference name="?O1" />
-          </Parameter>
-          <String> generating </String>
-          <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-            <FormalParameterReference name="?O3" />
-          </Parameter>
-          <String>?</String>
-        </Fragments>
-      </NLPattern>
-      <ConstantFormalParametersSubList>
-        <FormalParameterReference name="?O3" />
-        <FormalParameterReference name="?O1" />
-      </ConstantFormalParametersSubList>
-      <NLPattern>
-        <Fragments>
-          <String> Yes,</String>
-          <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-            <FormalParameterReference name="?O3" />
-          </Parameter>
-          <String> can be heard from the engine of </String>
-          <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-            <FormalParameterReference name="?O1" />
-          </Parameter>
-          <String>.</String>
-        </Fragments>
-      </NLPattern>
-      <Explanations>
-        <Positive>
-          <Explanation exampleIndex="1">
-            <Fact inverse="false">
-              <FormalParameterReference name="?O1" />
-              <FormalParameterReference name="?O3" />
-              <FeatureReference name="has as symptoms" />
-            </Fact>
-          </Explanation>
-          <Explanation exampleIndex="1">
-            <Fact inverse="false">
-              <FormalParameterReference name="?O2" />
-              <FormalParameterReference name="?O3" />
-              <FeatureReference name="has as sign" />
-            </Fact>
-          </Explanation>
-          <Explanation exampleIndex="1">
-            <Is>
-              <FormalParameterReference name="?O3" />
-              <SingleInstanceBound>
-                <InstanceReference name="unusual sounds" />
-              </SingleInstanceBound>
-            </Is>
-          </Explanation>
-          <Explanation exampleIndex="1">
-            <Is>
-              <FormalParameterReference name="?SI1" />
-              <SymbolicIntervalBound>
-                <SymbolicIntervalReference name="very likely" />
-                <SymbolicIntervalReference name="very likely" />
-              </SymbolicIntervalBound>
-            </Is>
-          </Explanation>
-        </Positive>
-      </Explanations>
-      <MainCondition>
-        <ConstantFormalParametersSubList>
-          <FormalParameterReference name="?O1" />
-          <FormalParameterReference name="?O2" />
-          <FormalParameterReference name="?O3" />
-          <FormalParameterReference name="?SI1" />
-        </ConstantFormalParametersSubList>
-        <MultiVariableCondition>
-          <AbstractFactsLinks>
-            <AbstractFact>
-              <FeatureReference name="has as symptoms" />
-              <ConstantFormalParametersSubList>
-                <FormalParameterReference name="?O1" />
-                <FormalParameterReference name="?O3" />
-              </ConstantFormalParametersSubList>
-            </AbstractFact>
-            <AbstractFact>
-              <FeatureReference name="has as sign" />
-              <ConstantFormalParametersSubList>
-                <FormalParameterReference name="?O2" />
-                <FormalParameterReference name="?O3" />
-              </ConstantFormalParametersSubList>
-            </AbstractFact>
-          </AbstractFactsLinks>
-          <ParameterClassicPVSDomain>
-            <FormalParameterReference name="?O1" />
-            <LowerBound>
-              <ClassicConceptLowerBound>
-                <ConceptReference name="vehicle" />
-              </ClassicConceptLowerBound>
-            </LowerBound>
-            <UpperBound>
-              <ClassicConceptBound>
-                <ConceptReference name="vehicle" />
-              </ClassicConceptBound>
-            </UpperBound>
-          </ParameterClassicPVSDomain>
-          <ParameterClassicPVSDomain>
-            <FormalParameterReference name="?O2" />
-            <LowerBound>
-              <SingleInstanceBound>
-                <InstanceReference name="alternator problem" />
-              </SingleInstanceBound>
-            </LowerBound>
-            <UpperBound>
-              <ClassicConceptBound>
-                <ConceptReference name="breakdown reason" />
-              </ClassicConceptBound>
-            </UpperBound>
-          </ParameterClassicPVSDomain>
-          <ParameterClassicPVSDomain>
-            <FormalParameterReference name="?O3" />
-            <LowerBound>
-              <SingleInstanceBound>
-                <InstanceReference name="unusual sounds" />
-              </SingleInstanceBound>
-            </LowerBound>
-            <UpperBound>
-              <SingleInstanceBound>
-                <InstanceReference name="unusual sounds" />
-              </SingleInstanceBound>
-            </UpperBound>
-          </ParameterClassicPVSDomain>
-          <ParameterClassicPVSDomain>
-            <FormalParameterReference name="?SI1" />
-            <LowerBound>
-              <SymbolicIntervalBound>
-                <SymbolicIntervalReference name="very likely" />
-                <SymbolicIntervalReference name="very likely" />
-              </SymbolicIntervalBound>
-            </LowerBound>
-            <UpperBound>
-              <SymbolicIntervalBound>
-                <SymbolicIntervalReference name="very likely" />
-                <SymbolicIntervalReference name="very likely" />
-              </SymbolicIntervalBound>
-            </UpperBound>
-          </ParameterClassicPVSDomain>
-        </MultiVariableCondition>
-      </MainCondition>
-      <ExceptWhenConditions />
-      <LearnableConditionExamples lastRuleExampleIndex="1">
-        <ConditionGeneralizedExamplesList>
-          <ConditionGeneralizedExample index="1" type="1" noOfPositiveExamples="1" noOfNegativeExamples="0">
-            <ConstantInstantiatedFormalParameters>
-              <FormalParameterReference name="?O1" />
-              <MintermOfConcepts>
-                <ConceptReference name="vehicle" />
-              </MintermOfConcepts>
-              <FormalParameterReference name="?O2" />
-              <InstanceReference name="alternator problem" />
-              <FormalParameterReference name="?O3" />
-              <InstanceReference name="unusual sounds" />
-              <FormalParameterReference name="?SI1" />
-              <SymbolicIntervalReference name="very likely" />
-            </ConstantInstantiatedFormalParameters>
-          </ConditionGeneralizedExample>
-        </ConditionGeneralizedExamplesList>
-        <ListOfExamples />
-      </LearnableConditionExamples>
-    </DecompositionRule>
-<DecompositionRule index="4" enabled="true">
       <ConstantFormalParametersList>
         <FormalParameter name="?O1" />
         <FormalParameter name="?O2" />
@@ -1978,7 +1533,7 @@
         </ConstantFormalParametersSubList>
       </ConstantParametersCorrespondence>
       <ThenTasks>
-        <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="7" />
+        <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="5" />
         <ConstantParametersCorrespondence>
           <ConstantFormalParametersSubList>
             <FormalParameterReference name="?O1" />
@@ -1991,7 +1546,7 @@
             <FormalParameterReference name="?O3" />
           </ConstantFormalParametersSubList>
         </ConstantParametersCorrespondence>
-        <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="7" />
+        <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="6" />
         <ConstantParametersCorrespondence>
           <ConstantFormalParametersSubList>
             <FormalParameterReference name="?O1" />
@@ -2043,7 +1598,7 @@
             <Is>
               <FormalParameterReference name="?O3" />
               <SingleInstanceBound>
-                <InstanceReference name="low power supply to engine" />
+                <InstanceReference name="clogged spark plug" />
               </SingleInstanceBound>
             </Is>
           </Explanation>
@@ -2051,7 +1606,7 @@
             <Is>
               <FormalParameterReference name="?O4" />
               <SingleInstanceBound>
-                <InstanceReference name="drained battery" />
+                <InstanceReference name="unburnt air-fuel mixture" />
               </SingleInstanceBound>
             </Is>
           </Explanation>
@@ -2112,7 +1667,7 @@
             <FormalParameterReference name="?O2" />
             <LowerBound>
               <SingleInstanceBound>
-                <InstanceReference name="alternator problem" />
+                <InstanceReference name="air-filter problem" />
               </SingleInstanceBound>
             </LowerBound>
             <UpperBound>
@@ -2125,12 +1680,12 @@
             <FormalParameterReference name="?O3" />
             <LowerBound>
               <SingleInstanceBound>
-                <InstanceReference name="low power supply to engine" />
+                <InstanceReference name="clogged spark plug" />
               </SingleInstanceBound>
             </LowerBound>
             <UpperBound>
               <SingleInstanceBound>
-                <InstanceReference name="low power supply to engine" />
+                <InstanceReference name="clogged spark plug" />
               </SingleInstanceBound>
             </UpperBound>
           </ParameterClassicPVSDomain>
@@ -2138,12 +1693,12 @@
             <FormalParameterReference name="?O4" />
             <LowerBound>
               <SingleInstanceBound>
-                <InstanceReference name="drained battery" />
+                <InstanceReference name="unburnt air-fuel mixture" />
               </SingleInstanceBound>
             </LowerBound>
             <UpperBound>
               <SingleInstanceBound>
-                <InstanceReference name="drained battery" />
+                <InstanceReference name="unburnt air-fuel mixture" />
               </SingleInstanceBound>
             </UpperBound>
           </ParameterClassicPVSDomain>
@@ -2159,25 +1714,25 @@
                 <ConceptReference name="vehicle" />
               </MintermOfConcepts>
               <FormalParameterReference name="?O2" />
-              <InstanceReference name="alternator problem" />
+              <InstanceReference name="air-filter problem" />
               <FormalParameterReference name="?O3" />
-              <InstanceReference name="low power supply to engine" />
+              <InstanceReference name="clogged spark plug" />
               <FormalParameterReference name="?O4" />
-              <InstanceReference name="drained battery" />
+              <InstanceReference name="unburnt air-fuel mixture" />
             </ConstantInstantiatedFormalParameters>
           </ConditionGeneralizedExample>
         </ConditionGeneralizedExamplesList>
         <ListOfExamples />
       </LearnableConditionExamples>
     </DecompositionRule>
-<DecompositionRule index="5" enabled="true">
+<DecompositionRule index="4" enabled="true">
       <ConstantFormalParametersList>
         <FormalParameter name="?O1" />
         <FormalParameter name="?O2" />
         <FormalParameter name="?O3" />
         <FormalParameter name="?O4" />
       </ConstantFormalParametersList>
-      <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="7" />
+      <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="5" />
       <ConstantParametersCorrespondence>
         <ConstantFormalParametersSubList>
           <FormalParameterReference name="?O1" />
@@ -2191,534 +1746,22 @@
         </ConstantFormalParametersSubList>
       </ConstantParametersCorrespondence>
       <ThenTasks>
-        <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="8" />
+        <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="7" />
         <ConstantParametersCorrespondence>
           <ConstantFormalParametersSubList>
             <FormalParameterReference name="?O1" />
             <FormalParameterReference name="?O2" />
-            <FormalParameterReference name="?O3" />
-            <FormalParameterReference name="?O4" />
           </ConstantFormalParametersSubList>
           <ConstantFormalParametersSubList>
             <FormalParameterReference name="?O1" />
-            <FormalParameterReference name="?O2" />
-            <FormalParameterReference name="?O3" />
             <FormalParameterReference name="?O4" />
           </ConstantFormalParametersSubList>
         </ConstantParametersCorrespondence>
       </ThenTasks>
-      <ConstantFormalParametersSubList>
-        <FormalParameterReference name="?O3" />
-      </ConstantFormalParametersSubList>
+      <ConstantFormalParametersSubList />
       <NLPattern>
         <Fragments>
-          <String>What happens if there is </String>
-          <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-            <FormalParameterReference name="?O3" />
-          </Parameter>
-          <String>?</String>
-        </Fragments>
-      </NLPattern>
-      <ConstantFormalParametersSubList>
-        <FormalParameterReference name="?O4" />
-        <FormalParameterReference name="?O3" />
-      </ConstantFormalParametersSubList>
-      <NLPattern>
-        <Fragments>
-          <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-            <FormalParameterReference name="?O4" />
-          </Parameter>
-          <String> are generated if there is </String>
-          <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-            <FormalParameterReference name="?O3" />
-          </Parameter>
-          <String> as enough power is not being supplied to kick start the engine.</String>
-        </Fragments>
-      </NLPattern>
-      <Explanations>
-        <Positive>
-          <Explanation exampleIndex="1">
-            <Is>
-              <FormalParameterReference name="?O4" />
-              <SingleInstanceBound>
-                <InstanceReference name="engine clicking sounds" />
-              </SingleInstanceBound>
-            </Is>
-          </Explanation>
-          <Explanation exampleIndex="1">
-            <Fact inverse="false">
-              <FormalParameterReference name="?O3" />
-              <FormalParameterReference name="?O4" />
-              <FeatureReference name="leads to" />
-            </Fact>
-          </Explanation>
-          <Explanation exampleIndex="1">
-            <Is>
-              <FormalParameterReference name="?O3" />
-              <SingleInstanceBound>
-                <InstanceReference name="low power supply to engine" />
-              </SingleInstanceBound>
-            </Is>
-          </Explanation>
-        </Positive>
-      </Explanations>
-      <MainCondition>
-        <ConstantFormalParametersSubList>
-          <FormalParameterReference name="?O1" />
-          <FormalParameterReference name="?O2" />
-          <FormalParameterReference name="?O3" />
-          <FormalParameterReference name="?O4" />
-        </ConstantFormalParametersSubList>
-        <MultiVariableCondition>
-          <AbstractFactsLinks>
-            <AbstractFact>
-              <FeatureReference name="leads to" />
-              <ConstantFormalParametersSubList>
-                <FormalParameterReference name="?O3" />
-                <FormalParameterReference name="?O4" />
-              </ConstantFormalParametersSubList>
-            </AbstractFact>
-          </AbstractFactsLinks>
-          <ParameterClassicPVSDomain>
-            <FormalParameterReference name="?O1" />
-            <LowerBound>
-              <ClassicConceptLowerBound>
-                <ConceptReference name="vehicle" />
-              </ClassicConceptLowerBound>
-            </LowerBound>
-            <UpperBound>
-              <ClassicConceptBound>
-                <ConceptReference name="vehicle" />
-              </ClassicConceptBound>
-            </UpperBound>
-          </ParameterClassicPVSDomain>
-          <ParameterClassicPVSDomain>
-            <FormalParameterReference name="?O2" />
-            <LowerBound>
-              <SingleInstanceBound>
-                <InstanceReference name="alternator problem" />
-              </SingleInstanceBound>
-            </LowerBound>
-            <UpperBound>
-              <ClassicConceptBound>
-                <ConceptReference name="breakdown reason" />
-              </ClassicConceptBound>
-            </UpperBound>
-          </ParameterClassicPVSDomain>
-          <ParameterClassicPVSDomain>
-            <FormalParameterReference name="?O3" />
-            <LowerBound>
-              <SingleInstanceBound>
-                <InstanceReference name="low power supply to engine" />
-              </SingleInstanceBound>
-            </LowerBound>
-            <UpperBound>
-              <SingleInstanceBound>
-                <InstanceReference name="low power supply to engine" />
-              </SingleInstanceBound>
-            </UpperBound>
-          </ParameterClassicPVSDomain>
-          <ParameterClassicPVSDomain>
-            <FormalParameterReference name="?O4" />
-            <LowerBound>
-              <SingleInstanceBound>
-                <InstanceReference name="engine clicking sounds" />
-              </SingleInstanceBound>
-            </LowerBound>
-            <UpperBound>
-              <SingleInstanceBound>
-                <InstanceReference name="engine clicking sounds" />
-              </SingleInstanceBound>
-            </UpperBound>
-          </ParameterClassicPVSDomain>
-        </MultiVariableCondition>
-      </MainCondition>
-      <ExceptWhenConditions />
-      <LearnableConditionExamples lastRuleExampleIndex="1">
-        <ConditionGeneralizedExamplesList>
-          <ConditionGeneralizedExample index="1" type="1" noOfPositiveExamples="1" noOfNegativeExamples="0">
-            <ConstantInstantiatedFormalParameters>
-              <FormalParameterReference name="?O1" />
-              <MintermOfConcepts>
-                <ConceptReference name="vehicle" />
-              </MintermOfConcepts>
-              <FormalParameterReference name="?O2" />
-              <InstanceReference name="alternator problem" />
-              <FormalParameterReference name="?O3" />
-              <InstanceReference name="low power supply to engine" />
-              <FormalParameterReference name="?O4" />
-              <InstanceReference name="engine clicking sounds" />
-            </ConstantInstantiatedFormalParameters>
-          </ConditionGeneralizedExample>
-        </ConditionGeneralizedExamplesList>
-        <ListOfExamples />
-      </LearnableConditionExamples>
-    </DecompositionRule>
-<DecompositionRule index="6" enabled="true">
-      <ConstantFormalParametersList>
-        <FormalParameter name="?O1" />
-        <FormalParameter name="?O2" />
-        <FormalParameter name="?O3" />
-        <FormalParameter name="?O4" />
-        <FormalParameter name="?SI1" />
-        <FormalParameter name="?O5" />
-      </ConstantFormalParametersList>
-      <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="8" />
-      <ConstantParametersCorrespondence>
-        <ConstantFormalParametersSubList>
-          <FormalParameterReference name="?O1" />
-          <FormalParameterReference name="?O2" />
-          <FormalParameterReference name="?O3" />
-          <FormalParameterReference name="?O4" />
-        </ConstantFormalParametersSubList>
-        <ConstantFormalParametersSubList>
-          <FormalParameterReference name="?O1" />
-          <FormalParameterReference name="?O2" />
-          <FormalParameterReference name="?O3" />
-          <FormalParameterReference name="?O4" />
-        </ConstantFormalParametersSubList>
-      </ConstantParametersCorrespondence>
-      <ThenTasks>
-        <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="9" />
-        <ConstantParametersCorrespondence>
-          <ConstantFormalParametersSubList>
-            <FormalParameterReference name="?SI1" />
-            <FormalParameterReference name="?O1" />
-            <FormalParameterReference name="?O2" />
-            <FormalParameterReference name="?O3" />
-          </ConstantFormalParametersSubList>
-          <ConstantFormalParametersSubList>
-            <FormalParameterReference name="?SI1" />
-            <FormalParameterReference name="?O4" />
-            <FormalParameterReference name="?O1" />
-            <FormalParameterReference name="?O2" />
-          </ConstantFormalParametersSubList>
-        </ConstantParametersCorrespondence>
-      </ThenTasks>
-      <ConstantFormalParametersSubList>
-        <FormalParameterReference name="?O4" />
-        <FormalParameterReference name="?O1" />
-      </ConstantFormalParametersSubList>
-      <NLPattern>
-        <Fragments>
-          <String>Are there any </String>
-          <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-            <FormalParameterReference name="?O4" />
-          </Parameter>
-          <String> in </String>
-          <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-            <FormalParameterReference name="?O1" />
-          </Parameter>
-          <String>?</String>
-        </Fragments>
-      </NLPattern>
-      <ConstantFormalParametersSubList>
-        <FormalParameterReference name="?O4" />
-        <FormalParameterReference name="?O1" />
-      </ConstantFormalParametersSubList>
-      <NLPattern>
-        <Fragments>
-          <String>Yes,</String>
-          <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-            <FormalParameterReference name="?O4" />
-          </Parameter>
-          <String> can be heard from </String>
-          <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-            <FormalParameterReference name="?O1" />
-          </Parameter>
-          <String> while trying to start the car.</String>
-        </Fragments>
-      </NLPattern>
-      <Explanations>
-        <Positive>
-          <Explanation exampleIndex="1">
-            <Fact inverse="false">
-              <FormalParameterReference name="?O1" />
-              <FormalParameterReference name="?O4" />
-              <FeatureReference name="has as symptoms" />
-            </Fact>
-          </Explanation>
-          <Explanation exampleIndex="1">
-            <Fact inverse="false">
-              <FormalParameterReference name="?O3" />
-              <FormalParameterReference name="?O4" />
-              <FeatureReference name="leads to" />
-            </Fact>
-          </Explanation>
-          <Explanation exampleIndex="1">
-            <Fact inverse="false">
-              <FormalParameterReference name="?O2" />
-              <FormalParameterReference name="?O3" />
-              <FeatureReference name="has as side-effect" />
-            </Fact>
-          </Explanation>
-          <Explanation exampleIndex="1">
-            <Is>
-              <FormalParameterReference name="?O4" />
-              <SingleInstanceBound>
-                <InstanceReference name="engine clicking sounds" />
-              </SingleInstanceBound>
-            </Is>
-          </Explanation>
-          <Explanation exampleIndex="1">
-            <Is>
-              <FormalParameterReference name="?O3" />
-              <SingleInstanceBound>
-                <InstanceReference name="low power supply to engine" />
-              </SingleInstanceBound>
-            </Is>
-          </Explanation>
-          <Explanation exampleIndex="1">
-            <Is>
-              <FormalParameterReference name="?SI1" />
-              <SymbolicIntervalBound>
-                <SymbolicIntervalReference name="very likely" />
-                <SymbolicIntervalReference name="very likely" />
-              </SymbolicIntervalBound>
-            </Is>
-          </Explanation>
-        </Positive>
-        <ExceptWhen>
-          <Explanation exampleIndex="2">
-            <Fact inverse="false">
-              <FormalParameterReference name="?O1" />
-              <FormalParameterReference name="?O5" />
-              <FeatureReference name="has as not working" />
-            </Fact>
-          </Explanation>
-        </ExceptWhen>
-      </Explanations>
-      <MainCondition>
-        <ConstantFormalParametersSubList>
-          <FormalParameterReference name="?O1" />
-          <FormalParameterReference name="?O2" />
-          <FormalParameterReference name="?O3" />
-          <FormalParameterReference name="?O4" />
-          <FormalParameterReference name="?SI1" />
-        </ConstantFormalParametersSubList>
-        <MultiVariableCondition>
-          <AbstractFactsLinks>
-            <AbstractFact>
-              <FeatureReference name="has as symptoms" />
-              <ConstantFormalParametersSubList>
-                <FormalParameterReference name="?O1" />
-                <FormalParameterReference name="?O4" />
-              </ConstantFormalParametersSubList>
-            </AbstractFact>
-            <AbstractFact>
-              <FeatureReference name="leads to" />
-              <ConstantFormalParametersSubList>
-                <FormalParameterReference name="?O3" />
-                <FormalParameterReference name="?O4" />
-              </ConstantFormalParametersSubList>
-            </AbstractFact>
-            <AbstractFact>
-              <FeatureReference name="has as side-effect" />
-              <ConstantFormalParametersSubList>
-                <FormalParameterReference name="?O2" />
-                <FormalParameterReference name="?O3" />
-              </ConstantFormalParametersSubList>
-            </AbstractFact>
-          </AbstractFactsLinks>
-          <ParameterClassicPVSDomain>
-            <FormalParameterReference name="?O1" />
-            <LowerBound>
-              <ClassicConceptLowerBound>
-                <ConceptReference name="vehicle" />
-              </ClassicConceptLowerBound>
-            </LowerBound>
-            <UpperBound>
-              <ClassicConceptBound>
-                <ConceptReference name="vehicle" />
-              </ClassicConceptBound>
-            </UpperBound>
-          </ParameterClassicPVSDomain>
-          <ParameterClassicPVSDomain>
-            <FormalParameterReference name="?O2" />
-            <LowerBound>
-              <SingleInstanceBound>
-                <InstanceReference name="alternator problem" />
-              </SingleInstanceBound>
-            </LowerBound>
-            <UpperBound>
-              <ClassicConceptBound>
-                <ConceptReference name="breakdown reason" />
-              </ClassicConceptBound>
-            </UpperBound>
-          </ParameterClassicPVSDomain>
-          <ParameterClassicPVSDomain>
-            <FormalParameterReference name="?O3" />
-            <LowerBound>
-              <SingleInstanceBound>
-                <InstanceReference name="low power supply to engine" />
-              </SingleInstanceBound>
-            </LowerBound>
-            <UpperBound>
-              <SingleInstanceBound>
-                <InstanceReference name="low power supply to engine" />
-              </SingleInstanceBound>
-            </UpperBound>
-          </ParameterClassicPVSDomain>
-          <ParameterClassicPVSDomain>
-            <FormalParameterReference name="?O4" />
-            <LowerBound>
-              <SingleInstanceBound>
-                <InstanceReference name="engine clicking sounds" />
-              </SingleInstanceBound>
-            </LowerBound>
-            <UpperBound>
-              <SingleInstanceBound>
-                <InstanceReference name="engine clicking sounds" />
-              </SingleInstanceBound>
-            </UpperBound>
-          </ParameterClassicPVSDomain>
-          <ParameterClassicPVSDomain>
-            <FormalParameterReference name="?SI1" />
-            <LowerBound>
-              <SymbolicIntervalBound>
-                <SymbolicIntervalReference name="very likely" />
-                <SymbolicIntervalReference name="very likely" />
-              </SymbolicIntervalBound>
-            </LowerBound>
-            <UpperBound>
-              <SymbolicIntervalBound>
-                <SymbolicIntervalReference name="very likely" />
-                <SymbolicIntervalReference name="very likely" />
-              </SymbolicIntervalBound>
-            </UpperBound>
-          </ParameterClassicPVSDomain>
-        </MultiVariableCondition>
-      </MainCondition>
-      <ExceptWhenConditions>
-        <ConstantFormalParametersSubList>
-          <FormalParameterReference name="?O1" />
-          <FormalParameterReference name="?O5" />
-        </ConstantFormalParametersSubList>
-        <MultiVariableCondition>
-          <AbstractFactsLinks>
-            <AbstractFact>
-              <FeatureReference name="has as not working" />
-              <ConstantFormalParametersSubList>
-                <FormalParameterReference name="?O1" />
-                <FormalParameterReference name="?O5" />
-              </ConstantFormalParametersSubList>
-            </AbstractFact>
-          </AbstractFactsLinks>
-          <ParameterClassicPVSDomain>
-            <FormalParameterReference name="?O1" />
-            <LowerBound>
-              <ClassicConceptLowerBound>
-                <ConceptReference name="vehicle" />
-              </ClassicConceptLowerBound>
-            </LowerBound>
-            <UpperBound>
-              <ClassicConceptBound>
-                <ConceptReference name="vehicle" />
-              </ClassicConceptBound>
-            </UpperBound>
-          </ParameterClassicPVSDomain>
-          <ParameterClassicPVSDomain>
-            <FormalParameterReference name="?O5" />
-            <LowerBound>
-              <SingleInstanceBound>
-                <InstanceReference name="electrical appliances" />
-              </SingleInstanceBound>
-            </LowerBound>
-            <UpperBound>
-              <ClassicConceptBound>
-                <ConceptReference name="part" />
-              </ClassicConceptBound>
-            </UpperBound>
-          </ParameterClassicPVSDomain>
-        </MultiVariableCondition>
-      </ExceptWhenConditions>
-      <LearnableConditionExamples lastRuleExampleIndex="2">
-        <ConditionGeneralizedExamplesList>
-          <ConditionGeneralizedExample index="1" type="1" noOfPositiveExamples="1" noOfNegativeExamples="0">
-            <ConstantInstantiatedFormalParameters>
-              <FormalParameterReference name="?O1" />
-              <MintermOfConcepts>
-                <ConceptReference name="vehicle" />
-              </MintermOfConcepts>
-              <FormalParameterReference name="?O2" />
-              <InstanceReference name="alternator problem" />
-              <FormalParameterReference name="?O3" />
-              <InstanceReference name="low power supply to engine" />
-              <FormalParameterReference name="?O4" />
-              <InstanceReference name="engine clicking sounds" />
-              <FormalParameterReference name="?SI1" />
-              <SymbolicIntervalReference name="very likely" />
-            </ConstantInstantiatedFormalParameters>
-          </ConditionGeneralizedExample>
-          <ConditionGeneralizedExample index="2" type="2" noOfPositiveExamples="0" noOfNegativeExamples="1">
-            <ConstantInstantiatedFormalParameters>
-              <FormalParameterReference name="?O1" />
-              <MintermOfConcepts>
-                <ConceptReference name="vehicle" />
-              </MintermOfConcepts>
-              <FormalParameterReference name="?O2" />
-              <InstanceReference name="alternator problem" />
-              <FormalParameterReference name="?O3" />
-              <InstanceReference name="low power supply to engine" />
-              <FormalParameterReference name="?O4" />
-              <InstanceReference name="engine clicking sounds" />
-              <FormalParameterReference name="?SI1" />
-              <SymbolicIntervalReference name="very likely" />
-              <FormalParameterReference name="?O5" />
-              <InstanceReference name="electrical appliances" />
-            </ConstantInstantiatedFormalParameters>
-          </ConditionGeneralizedExample>
-        </ConditionGeneralizedExamplesList>
-        <ListOfExamples />
-      </LearnableConditionExamples>
-    </DecompositionRule>
-<DecompositionRule index="7" enabled="true">
-      <ConstantFormalParametersList>
-        <FormalParameter name="?O1" />
-        <FormalParameter name="?O2" />
-        <FormalParameter name="?O3" />
-        <FormalParameter name="?O4" />
-      </ConstantFormalParametersList>
-      <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="7" />
-      <ConstantParametersCorrespondence>
-        <ConstantFormalParametersSubList>
-          <FormalParameterReference name="?O1" />
-          <FormalParameterReference name="?O2" />
-          <FormalParameterReference name="?O3" />
-        </ConstantFormalParametersSubList>
-        <ConstantFormalParametersSubList>
-          <FormalParameterReference name="?O1" />
-          <FormalParameterReference name="?O2" />
-          <FormalParameterReference name="?O3" />
-        </ConstantFormalParametersSubList>
-      </ConstantParametersCorrespondence>
-      <ThenTasks>
-        <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="10" />
-        <ConstantParametersCorrespondence>
-          <ConstantFormalParametersSubList>
-            <FormalParameterReference name="?O1" />
-            <FormalParameterReference name="?O2" />
-            <FormalParameterReference name="?O3" />
-            <FormalParameterReference name="?O4" />
-          </ConstantFormalParametersSubList>
-          <ConstantFormalParametersSubList>
-            <FormalParameterReference name="?O1" />
-            <FormalParameterReference name="?O2" />
-            <FormalParameterReference name="?O3" />
-            <FormalParameterReference name="?O4" />
-          </ConstantFormalParametersSubList>
-        </ConstantParametersCorrespondence>
-      </ThenTasks>
-      <ConstantFormalParametersSubList>
-        <FormalParameterReference name="?O3" />
-      </ConstantFormalParametersSubList>
-      <NLPattern>
-        <Fragments>
-          <String>What does </String>
-          <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-            <FormalParameterReference name="?O3" />
-          </Parameter>
-          <String> do?</String>
+          <String>How could one make this assessment?</String>
         </Fragments>
       </NLPattern>
       <ConstantFormalParametersSubList>
@@ -2731,10 +1774,14 @@
             <FormalParameterReference name="?O3" />
           </Parameter>
           <String> leads to </String>
+          <OntologyEntity>
+            <ConceptReference name="problem" />
+          </OntologyEntity>
+          <String> such as </String>
           <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
             <FormalParameterReference name="?O4" />
           </Parameter>
-          <String> in a car.</String>
+          <String> from engine.</String>
         </Fragments>
       </NLPattern>
       <Explanations>
@@ -2743,7 +1790,7 @@
             <Is>
               <FormalParameterReference name="?O4" />
               <SingleInstanceBound>
-                <InstanceReference name="no start condition" />
+                <InstanceReference name="unusual sounds" />
               </SingleInstanceBound>
             </Is>
           </Explanation>
@@ -2758,7 +1805,7 @@
             <Is>
               <FormalParameterReference name="?O3" />
               <SingleInstanceBound>
-                <InstanceReference name="drained battery" />
+                <InstanceReference name="clogged spark plug" />
               </SingleInstanceBound>
             </Is>
           </Explanation>
@@ -2798,7 +1845,7 @@
             <FormalParameterReference name="?O2" />
             <LowerBound>
               <SingleInstanceBound>
-                <InstanceReference name="alternator problem" />
+                <InstanceReference name="air-filter problem" />
               </SingleInstanceBound>
             </LowerBound>
             <UpperBound>
@@ -2811,12 +1858,12 @@
             <FormalParameterReference name="?O3" />
             <LowerBound>
               <SingleInstanceBound>
-                <InstanceReference name="drained battery" />
+                <InstanceReference name="clogged spark plug" />
               </SingleInstanceBound>
             </LowerBound>
             <UpperBound>
               <SingleInstanceBound>
-                <InstanceReference name="drained battery" />
+                <InstanceReference name="clogged spark plug" />
               </SingleInstanceBound>
             </UpperBound>
           </ParameterClassicPVSDomain>
@@ -2824,12 +1871,12 @@
             <FormalParameterReference name="?O4" />
             <LowerBound>
               <SingleInstanceBound>
-                <InstanceReference name="no start condition" />
+                <InstanceReference name="unusual sounds" />
               </SingleInstanceBound>
             </LowerBound>
             <UpperBound>
               <SingleInstanceBound>
-                <InstanceReference name="no start condition" />
+                <InstanceReference name="unusual sounds" />
               </SingleInstanceBound>
             </UpperBound>
           </ParameterClassicPVSDomain>
@@ -2845,84 +1892,83 @@
                 <ConceptReference name="vehicle" />
               </MintermOfConcepts>
               <FormalParameterReference name="?O2" />
-              <InstanceReference name="alternator problem" />
+              <InstanceReference name="air-filter problem" />
               <FormalParameterReference name="?O3" />
-              <InstanceReference name="drained battery" />
+              <InstanceReference name="clogged spark plug" />
               <FormalParameterReference name="?O4" />
-              <InstanceReference name="no start condition" />
+              <InstanceReference name="unusual sounds" />
             </ConstantInstantiatedFormalParameters>
           </ConditionGeneralizedExample>
         </ConditionGeneralizedExamplesList>
         <ListOfExamples />
       </LearnableConditionExamples>
     </DecompositionRule>
-<DecompositionRule index="8" enabled="true">
+<DecompositionRule index="5" enabled="true">
       <ConstantFormalParametersList>
         <FormalParameter name="?O1" />
         <FormalParameter name="?O2" />
+        <FormalParameter name="?SI1" />
         <FormalParameter name="?O3" />
         <FormalParameter name="?O4" />
       </ConstantFormalParametersList>
-      <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="10" />
+      <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="7" />
       <ConstantParametersCorrespondence>
         <ConstantFormalParametersSubList>
           <FormalParameterReference name="?O1" />
           <FormalParameterReference name="?O2" />
-          <FormalParameterReference name="?O3" />
-          <FormalParameterReference name="?O4" />
         </ConstantFormalParametersSubList>
         <ConstantFormalParametersSubList>
           <FormalParameterReference name="?O1" />
           <FormalParameterReference name="?O2" />
-          <FormalParameterReference name="?O3" />
-          <FormalParameterReference name="?O4" />
         </ConstantFormalParametersSubList>
       </ConstantParametersCorrespondence>
       <ThenTasks>
-        <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="11" />
+        <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="8" />
         <ConstantParametersCorrespondence>
           <ConstantFormalParametersSubList>
+            <FormalParameterReference name="?SI1" />
             <FormalParameterReference name="?O1" />
             <FormalParameterReference name="?O2" />
             <FormalParameterReference name="?O3" />
           </ConstantFormalParametersSubList>
           <ConstantFormalParametersSubList>
+            <FormalParameterReference name="?SI1" />
             <FormalParameterReference name="?O1" />
-            <FormalParameterReference name="?O4" />
+            <FormalParameterReference name="?O3" />
             <FormalParameterReference name="?O2" />
           </ConstantFormalParametersSubList>
         </ConstantParametersCorrespondence>
       </ThenTasks>
       <ConstantFormalParametersSubList>
+        <FormalParameterReference name="?O2" />
         <FormalParameterReference name="?O1" />
-        <FormalParameterReference name="?O4" />
       </ConstantFormalParametersSubList>
       <NLPattern>
         <Fragments>
-          <String>Is </String>
+          <String>Are there any </String>
+          <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+            <FormalParameterReference name="?O2" />
+          </Parameter>
+          <String> from </String>
           <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
             <FormalParameterReference name="?O1" />
-          </Parameter>
-          <String> in </String>
-          <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-            <FormalParameterReference name="?O4" />
           </Parameter>
           <String>?</String>
         </Fragments>
       </NLPattern>
       <ConstantFormalParametersSubList>
+        <FormalParameterReference name="?O2" />
         <FormalParameterReference name="?O1" />
-        <FormalParameterReference name="?O4" />
       </ConstantFormalParametersSubList>
       <NLPattern>
         <Fragments>
-          <String>Yes, </String>
+          <String> Yes, there are </String>
+          <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+            <FormalParameterReference name="?O2" />
+          </Parameter>
+          <String> from </String>
           <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
             <FormalParameterReference name="?O1" />
-          </Parameter>
-          <String> is in </String>
-          <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-            <FormalParameterReference name="?O4" />
           </Parameter>
           <String>.</String>
         </Fragments>
@@ -2932,37 +1978,46 @@
           <Explanation exampleIndex="1">
             <Fact inverse="false">
               <FormalParameterReference name="?O1" />
-              <FormalParameterReference name="?O4" />
-              <FeatureReference name="has as symptoms" />
-            </Fact>
-          </Explanation>
-          <Explanation exampleIndex="1">
-            <Fact inverse="false">
-              <FormalParameterReference name="?O3" />
-              <FormalParameterReference name="?O4" />
-              <FeatureReference name="leads to" />
-            </Fact>
-          </Explanation>
-          <Explanation exampleIndex="1">
-            <Fact inverse="false">
               <FormalParameterReference name="?O2" />
-              <FormalParameterReference name="?O3" />
-              <FeatureReference name="has as side-effect" />
+              <FeatureReference name="has as symptom" />
             </Fact>
           </Explanation>
           <Explanation exampleIndex="1">
             <Is>
-              <FormalParameterReference name="?O4" />
+              <FormalParameterReference name="?O2" />
               <SingleInstanceBound>
-                <InstanceReference name="no start condition" />
+                <InstanceReference name="unusual sounds" />
               </SingleInstanceBound>
             </Is>
           </Explanation>
-          <Explanation exampleIndex="1">
+          <Explanation exampleIndex="2">
+            <Fact inverse="false">
+              <FormalParameterReference name="?O4" />
+              <FormalParameterReference name="?O2" />
+              <FeatureReference name="leads to" />
+            </Fact>
+          </Explanation>
+          <Explanation exampleIndex="2">
             <Is>
+              <FormalParameterReference name="?SI1" />
+              <SymbolicIntervalBound>
+                <SymbolicIntervalReference name="likely" />
+                <SymbolicIntervalReference name="likely" />
+              </SymbolicIntervalBound>
+            </Is>
+          </Explanation>
+          <Explanation exampleIndex="3">
+            <Fact inverse="false">
               <FormalParameterReference name="?O3" />
+              <FormalParameterReference name="?O4" />
+              <FeatureReference name="has as side-effect" />
+            </Fact>
+          </Explanation>
+          <Explanation exampleIndex="3">
+            <Is>
+              <FormalParameterReference name="?O4" />
               <SingleInstanceBound>
-                <InstanceReference name="drained battery" />
+                <InstanceReference name="clogged spark plug" />
               </SingleInstanceBound>
             </Is>
           </Explanation>
@@ -2972,30 +2027,31 @@
         <ConstantFormalParametersSubList>
           <FormalParameterReference name="?O1" />
           <FormalParameterReference name="?O2" />
+          <FormalParameterReference name="?SI1" />
           <FormalParameterReference name="?O3" />
           <FormalParameterReference name="?O4" />
         </ConstantFormalParametersSubList>
         <MultiVariableCondition>
           <AbstractFactsLinks>
             <AbstractFact>
-              <FeatureReference name="has as symptoms" />
+              <FeatureReference name="has as symptom" />
               <ConstantFormalParametersSubList>
                 <FormalParameterReference name="?O1" />
-                <FormalParameterReference name="?O4" />
+                <FormalParameterReference name="?O2" />
               </ConstantFormalParametersSubList>
             </AbstractFact>
             <AbstractFact>
               <FeatureReference name="leads to" />
               <ConstantFormalParametersSubList>
-                <FormalParameterReference name="?O3" />
                 <FormalParameterReference name="?O4" />
+                <FormalParameterReference name="?O2" />
               </ConstantFormalParametersSubList>
             </AbstractFact>
             <AbstractFact>
               <FeatureReference name="has as side-effect" />
               <ConstantFormalParametersSubList>
-                <FormalParameterReference name="?O2" />
                 <FormalParameterReference name="?O3" />
+                <FormalParameterReference name="?O4" />
               </ConstantFormalParametersSubList>
             </AbstractFact>
           </AbstractFactsLinks>
@@ -3016,7 +2072,202 @@
             <FormalParameterReference name="?O2" />
             <LowerBound>
               <SingleInstanceBound>
-                <InstanceReference name="alternator problem" />
+                <InstanceReference name="unusual sounds" />
+              </SingleInstanceBound>
+            </LowerBound>
+            <UpperBound>
+              <SingleInstanceBound>
+                <InstanceReference name="unusual sounds" />
+              </SingleInstanceBound>
+            </UpperBound>
+          </ParameterClassicPVSDomain>
+          <ParameterClassicPVSDomain>
+            <FormalParameterReference name="?SI1" />
+            <LowerBound>
+              <SymbolicIntervalBound>
+                <SymbolicIntervalReference name="likely" />
+                <SymbolicIntervalReference name="likely" />
+              </SymbolicIntervalBound>
+            </LowerBound>
+            <UpperBound>
+              <SymbolicIntervalBound>
+                <SymbolicIntervalReference name="likely" />
+                <SymbolicIntervalReference name="likely" />
+              </SymbolicIntervalBound>
+            </UpperBound>
+          </ParameterClassicPVSDomain>
+          <ParameterClassicPVSDomain>
+            <FormalParameterReference name="?O3" />
+            <LowerBound>
+              <SingleInstanceBound>
+                <InstanceReference name="air-filter problem" />
+              </SingleInstanceBound>
+            </LowerBound>
+            <UpperBound>
+              <ClassicConceptBound>
+                <ConceptReference name="breakdown reason" />
+              </ClassicConceptBound>
+            </UpperBound>
+          </ParameterClassicPVSDomain>
+          <ParameterClassicPVSDomain>
+            <FormalParameterReference name="?O4" />
+            <LowerBound>
+              <SingleInstanceBound>
+                <InstanceReference name="clogged spark plug" />
+              </SingleInstanceBound>
+            </LowerBound>
+            <UpperBound>
+              <SingleInstanceBound>
+                <InstanceReference name="clogged spark plug" />
+              </SingleInstanceBound>
+            </UpperBound>
+          </ParameterClassicPVSDomain>
+        </MultiVariableCondition>
+      </MainCondition>
+      <ExceptWhenConditions />
+      <LearnableConditionExamples lastRuleExampleIndex="1">
+        <ConditionGeneralizedExamplesList>
+          <ConditionGeneralizedExample index="3" type="1" noOfPositiveExamples="1" noOfNegativeExamples="0">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <MintermOfConcepts>
+                <ConceptReference name="vehicle" />
+              </MintermOfConcepts>
+              <FormalParameterReference name="?O2" />
+              <InstanceReference name="unusual sounds" />
+              <FormalParameterReference name="?SI1" />
+              <SymbolicIntervalReference name="likely" />
+              <FormalParameterReference name="?O3" />
+              <InstanceReference name="air-filter problem" />
+              <FormalParameterReference name="?O4" />
+              <InstanceReference name="clogged spark plug" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionGeneralizedExample>
+        </ConditionGeneralizedExamplesList>
+        <ListOfExamples />
+      </LearnableConditionExamples>
+    </DecompositionRule>
+<DecompositionRule index="6" enabled="true">
+      <ConstantFormalParametersList>
+        <FormalParameter name="?O1" />
+        <FormalParameter name="?O2" />
+        <FormalParameter name="?O3" />
+        <FormalParameter name="?O4" />
+      </ConstantFormalParametersList>
+      <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="6" />
+      <ConstantParametersCorrespondence>
+        <ConstantFormalParametersSubList>
+          <FormalParameterReference name="?O1" />
+          <FormalParameterReference name="?O2" />
+          <FormalParameterReference name="?O3" />
+        </ConstantFormalParametersSubList>
+        <ConstantFormalParametersSubList>
+          <FormalParameterReference name="?O1" />
+          <FormalParameterReference name="?O2" />
+          <FormalParameterReference name="?O3" />
+        </ConstantFormalParametersSubList>
+      </ConstantParametersCorrespondence>
+      <ThenTasks>
+        <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="9" />
+        <ConstantParametersCorrespondence>
+          <ConstantFormalParametersSubList>
+            <FormalParameterReference name="?O1" />
+            <FormalParameterReference name="?O2" />
+          </ConstantFormalParametersSubList>
+          <ConstantFormalParametersSubList>
+            <FormalParameterReference name="?O1" />
+            <FormalParameterReference name="?O4" />
+          </ConstantFormalParametersSubList>
+        </ConstantParametersCorrespondence>
+      </ThenTasks>
+      <ConstantFormalParametersSubList />
+      <NLPattern>
+        <Fragments>
+          <String>How could one make this assessment?</String>
+        </Fragments>
+      </NLPattern>
+      <ConstantFormalParametersSubList>
+        <FormalParameterReference name="?O3" />
+        <FormalParameterReference name="?O4" />
+      </ConstantFormalParametersSubList>
+      <NLPattern>
+        <Fragments>
+          <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+            <FormalParameterReference name="?O3" />
+          </Parameter>
+          <String> leads to </String>
+          <OntologyEntity>
+            <ConceptReference name="problem" />
+          </OntologyEntity>
+          <String> such as </String>
+          <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+            <FormalParameterReference name="?O4" />
+          </Parameter>
+          <String> being vented out of car.</String>
+        </Fragments>
+      </NLPattern>
+      <Explanations>
+        <Positive>
+          <Explanation exampleIndex="1">
+            <Is>
+              <FormalParameterReference name="?O4" />
+              <SingleInstanceBound>
+                <InstanceReference name="black flame" />
+              </SingleInstanceBound>
+            </Is>
+          </Explanation>
+          <Explanation exampleIndex="1">
+            <Fact inverse="false">
+              <FormalParameterReference name="?O3" />
+              <FormalParameterReference name="?O4" />
+              <FeatureReference name="leads to" />
+            </Fact>
+          </Explanation>
+          <Explanation exampleIndex="1">
+            <Is>
+              <FormalParameterReference name="?O4" />
+              <SingleInstanceBound>
+                <InstanceReference name="black flame" />
+              </SingleInstanceBound>
+            </Is>
+          </Explanation>
+        </Positive>
+      </Explanations>
+      <MainCondition>
+        <ConstantFormalParametersSubList>
+          <FormalParameterReference name="?O1" />
+          <FormalParameterReference name="?O2" />
+          <FormalParameterReference name="?O3" />
+          <FormalParameterReference name="?O4" />
+        </ConstantFormalParametersSubList>
+        <MultiVariableCondition>
+          <AbstractFactsLinks>
+            <AbstractFact>
+              <FeatureReference name="leads to" />
+              <ConstantFormalParametersSubList>
+                <FormalParameterReference name="?O3" />
+                <FormalParameterReference name="?O4" />
+              </ConstantFormalParametersSubList>
+            </AbstractFact>
+          </AbstractFactsLinks>
+          <ParameterClassicPVSDomain>
+            <FormalParameterReference name="?O1" />
+            <LowerBound>
+              <ClassicConceptLowerBound>
+                <ConceptReference name="vehicle" />
+              </ClassicConceptLowerBound>
+            </LowerBound>
+            <UpperBound>
+              <ClassicConceptBound>
+                <ConceptReference name="vehicle" />
+              </ClassicConceptBound>
+            </UpperBound>
+          </ParameterClassicPVSDomain>
+          <ParameterClassicPVSDomain>
+            <FormalParameterReference name="?O2" />
+            <LowerBound>
+              <SingleInstanceBound>
+                <InstanceReference name="air-filter problem" />
               </SingleInstanceBound>
             </LowerBound>
             <UpperBound>
@@ -3029,25 +2280,25 @@
             <FormalParameterReference name="?O3" />
             <LowerBound>
               <SingleInstanceBound>
-                <InstanceReference name="drained battery" />
+                <InstanceReference name="unburnt air-fuel mixture" />
               </SingleInstanceBound>
             </LowerBound>
             <UpperBound>
-              <SingleInstanceBound>
-                <InstanceReference name="drained battery" />
-              </SingleInstanceBound>
+              <ClassicConceptBound>
+                <ConceptReference name="side-effect" />
+              </ClassicConceptBound>
             </UpperBound>
           </ParameterClassicPVSDomain>
           <ParameterClassicPVSDomain>
             <FormalParameterReference name="?O4" />
             <LowerBound>
               <SingleInstanceBound>
-                <InstanceReference name="no start condition" />
+                <InstanceReference name="black flame" />
               </SingleInstanceBound>
             </LowerBound>
             <UpperBound>
               <SingleInstanceBound>
-                <InstanceReference name="no start condition" />
+                <InstanceReference name="black flame" />
               </SingleInstanceBound>
             </UpperBound>
           </ParameterClassicPVSDomain>
@@ -3063,11 +2314,253 @@
                 <ConceptReference name="vehicle" />
               </MintermOfConcepts>
               <FormalParameterReference name="?O2" />
-              <InstanceReference name="alternator problem" />
+              <InstanceReference name="air-filter problem" />
               <FormalParameterReference name="?O3" />
-              <InstanceReference name="drained battery" />
+              <InstanceReference name="unburnt air-fuel mixture" />
               <FormalParameterReference name="?O4" />
-              <InstanceReference name="no start condition" />
+              <InstanceReference name="black flame" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionGeneralizedExample>
+        </ConditionGeneralizedExamplesList>
+        <ListOfExamples />
+      </LearnableConditionExamples>
+    </DecompositionRule>
+<DecompositionRule index="7" enabled="true">
+      <ConstantFormalParametersList>
+        <FormalParameter name="?O1" />
+        <FormalParameter name="?O2" />
+        <FormalParameter name="?SI1" />
+        <FormalParameter name="?O3" />
+        <FormalParameter name="?O4" />
+      </ConstantFormalParametersList>
+      <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="9" />
+      <ConstantParametersCorrespondence>
+        <ConstantFormalParametersSubList>
+          <FormalParameterReference name="?O1" />
+          <FormalParameterReference name="?O2" />
+        </ConstantFormalParametersSubList>
+        <ConstantFormalParametersSubList>
+          <FormalParameterReference name="?O1" />
+          <FormalParameterReference name="?O2" />
+        </ConstantFormalParametersSubList>
+      </ConstantParametersCorrespondence>
+      <ThenTasks>
+        <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="10" />
+        <ConstantParametersCorrespondence>
+          <ConstantFormalParametersSubList>
+            <FormalParameterReference name="?SI1" />
+            <FormalParameterReference name="?O1" />
+            <FormalParameterReference name="?O2" />
+            <FormalParameterReference name="?O3" />
+          </ConstantFormalParametersSubList>
+          <ConstantFormalParametersSubList>
+            <FormalParameterReference name="?SI1" />
+            <FormalParameterReference name="?O1" />
+            <FormalParameterReference name="?O3" />
+            <FormalParameterReference name="?O2" />
+          </ConstantFormalParametersSubList>
+        </ConstantParametersCorrespondence>
+      </ThenTasks>
+      <ConstantFormalParametersSubList>
+        <FormalParameterReference name="?O1" />
+        <FormalParameterReference name="?O2" />
+      </ConstantFormalParametersSubList>
+      <NLPattern>
+        <Fragments>
+          <String>Is </String>
+          <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+            <FormalParameterReference name="?O1" />
+          </Parameter>
+          <String> venting out </String>
+          <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+            <FormalParameterReference name="?O2" />
+          </Parameter>
+          <String>?</String>
+        </Fragments>
+      </NLPattern>
+      <ConstantFormalParametersSubList>
+        <FormalParameterReference name="?O1" />
+        <FormalParameterReference name="?O2" />
+      </ConstantFormalParametersSubList>
+      <NLPattern>
+        <Fragments>
+          <String> Yes,</String>
+          <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+            <FormalParameterReference name="?O1" />
+          </Parameter>
+          <String> is venting out </String>
+          <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+            <FormalParameterReference name="?O2" />
+          </Parameter>
+          <String>.</String>
+        </Fragments>
+      </NLPattern>
+      <Explanations>
+        <Positive>
+          <Explanation exampleIndex="1">
+            <Fact inverse="false">
+              <FormalParameterReference name="?O1" />
+              <FormalParameterReference name="?O2" />
+              <FeatureReference name="has as symptom" />
+            </Fact>
+          </Explanation>
+          <Explanation exampleIndex="2">
+            <Fact inverse="false">
+              <FormalParameterReference name="?O3" />
+              <FormalParameterReference name="?O4" />
+              <FeatureReference name="has as side-effect" />
+            </Fact>
+            <Fact inverse="false">
+              <FormalParameterReference name="?O4" />
+              <FormalParameterReference name="?O2" />
+              <FeatureReference name="leads to" />
+            </Fact>
+          </Explanation>
+          <Explanation exampleIndex="2">
+            <Is>
+              <FormalParameterReference name="?O2" />
+              <SingleInstanceBound>
+                <InstanceReference name="black flame" />
+              </SingleInstanceBound>
+            </Is>
+          </Explanation>
+          <Explanation exampleIndex="2">
+            <Is>
+              <FormalParameterReference name="?O4" />
+              <SingleInstanceBound>
+                <InstanceReference name="unburnt air-fuel mixture" />
+              </SingleInstanceBound>
+            </Is>
+          </Explanation>
+          <Explanation exampleIndex="2">
+            <Is>
+              <FormalParameterReference name="?SI1" />
+              <SymbolicIntervalBound>
+                <SymbolicIntervalReference name="very likely" />
+                <SymbolicIntervalReference name="very likely" />
+              </SymbolicIntervalBound>
+            </Is>
+          </Explanation>
+        </Positive>
+      </Explanations>
+      <MainCondition>
+        <ConstantFormalParametersSubList>
+          <FormalParameterReference name="?O1" />
+          <FormalParameterReference name="?O2" />
+          <FormalParameterReference name="?SI1" />
+          <FormalParameterReference name="?O3" />
+          <FormalParameterReference name="?O4" />
+        </ConstantFormalParametersSubList>
+        <MultiVariableCondition>
+          <AbstractFactsLinks>
+            <AbstractFact>
+              <FeatureReference name="has as symptom" />
+              <ConstantFormalParametersSubList>
+                <FormalParameterReference name="?O1" />
+                <FormalParameterReference name="?O2" />
+              </ConstantFormalParametersSubList>
+            </AbstractFact>
+            <AbstractFact>
+              <FeatureReference name="has as side-effect" />
+              <ConstantFormalParametersSubList>
+                <FormalParameterReference name="?O3" />
+                <FormalParameterReference name="?O4" />
+              </ConstantFormalParametersSubList>
+            </AbstractFact>
+            <AbstractFact>
+              <FeatureReference name="leads to" />
+              <ConstantFormalParametersSubList>
+                <FormalParameterReference name="?O4" />
+                <FormalParameterReference name="?O2" />
+              </ConstantFormalParametersSubList>
+            </AbstractFact>
+          </AbstractFactsLinks>
+          <ParameterClassicPVSDomain>
+            <FormalParameterReference name="?O1" />
+            <LowerBound>
+              <ClassicConceptLowerBound>
+                <ConceptReference name="vehicle" />
+              </ClassicConceptLowerBound>
+            </LowerBound>
+            <UpperBound>
+              <ClassicConceptBound>
+                <ConceptReference name="vehicle" />
+              </ClassicConceptBound>
+            </UpperBound>
+          </ParameterClassicPVSDomain>
+          <ParameterClassicPVSDomain>
+            <FormalParameterReference name="?O2" />
+            <LowerBound>
+              <SingleInstanceBound>
+                <InstanceReference name="black flame" />
+              </SingleInstanceBound>
+            </LowerBound>
+            <UpperBound>
+              <SingleInstanceBound>
+                <InstanceReference name="black flame" />
+              </SingleInstanceBound>
+            </UpperBound>
+          </ParameterClassicPVSDomain>
+          <ParameterClassicPVSDomain>
+            <FormalParameterReference name="?SI1" />
+            <LowerBound>
+              <SymbolicIntervalBound>
+                <SymbolicIntervalReference name="very likely" />
+                <SymbolicIntervalReference name="very likely" />
+              </SymbolicIntervalBound>
+            </LowerBound>
+            <UpperBound>
+              <SymbolicIntervalBound>
+                <SymbolicIntervalReference name="very likely" />
+                <SymbolicIntervalReference name="very likely" />
+              </SymbolicIntervalBound>
+            </UpperBound>
+          </ParameterClassicPVSDomain>
+          <ParameterClassicPVSDomain>
+            <FormalParameterReference name="?O3" />
+            <LowerBound>
+              <SingleInstanceBound>
+                <InstanceReference name="air-filter problem" />
+              </SingleInstanceBound>
+            </LowerBound>
+            <UpperBound>
+              <ClassicConceptBound>
+                <ConceptReference name="breakdown reason" />
+              </ClassicConceptBound>
+            </UpperBound>
+          </ParameterClassicPVSDomain>
+          <ParameterClassicPVSDomain>
+            <FormalParameterReference name="?O4" />
+            <LowerBound>
+              <SingleInstanceBound>
+                <InstanceReference name="unburnt air-fuel mixture" />
+              </SingleInstanceBound>
+            </LowerBound>
+            <UpperBound>
+              <SingleInstanceBound>
+                <InstanceReference name="unburnt air-fuel mixture" />
+              </SingleInstanceBound>
+            </UpperBound>
+          </ParameterClassicPVSDomain>
+        </MultiVariableCondition>
+      </MainCondition>
+      <ExceptWhenConditions />
+      <LearnableConditionExamples lastRuleExampleIndex="1">
+        <ConditionGeneralizedExamplesList>
+          <ConditionGeneralizedExample index="2" type="1" noOfPositiveExamples="1" noOfNegativeExamples="0">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <MintermOfConcepts>
+                <ConceptReference name="vehicle" />
+              </MintermOfConcepts>
+              <FormalParameterReference name="?O2" />
+              <InstanceReference name="black flame" />
+              <FormalParameterReference name="?SI1" />
+              <SymbolicIntervalReference name="very likely" />
+              <FormalParameterReference name="?O3" />
+              <InstanceReference name="air-filter problem" />
+              <FormalParameterReference name="?O4" />
+              <InstanceReference name="unburnt air-fuel mixture" />
             </ConstantInstantiatedFormalParameters>
           </ConditionGeneralizedExample>
         </ConditionGeneralizedExamplesList>
@@ -4129,16 +3622,16 @@
           <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="3" />
         </InferenceTask>
         <InferenceTask>
-          <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="4" />
+          <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="5" />
+        </InferenceTask>
+        <InferenceTask>
+          <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="6" />
         </InferenceTask>
         <InferenceTask>
           <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="7" />
         </InferenceTask>
         <InferenceTask>
-          <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="8" />
-        </InferenceTask>
-        <InferenceTask>
-          <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="10" />
+          <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="9" />
         </InferenceTask>
       </ConcreteProblems>
     </ProblemAbstractionRule>
@@ -4466,9 +3959,6 @@
           </DecompositionRule>
           <DecompositionRule>
             <DecompositionRuleReference kbPartName="00-Reference-KB" index="7" />
-          </DecompositionRule>
-          <DecompositionRule>
-            <DecompositionRuleReference kbPartName="00-Reference-KB" index="8" />
           </DecompositionRule>
         </Roots>
         <Bodies />
@@ -18806,96 +18296,6 @@
       <Descriptions>
         <AbstractionDescriptionForTOC>
           <ConcreteStatement>
-            <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="7" />
-          </ConcreteStatement>
-          <TOC>
-            <AbstractionDescription>
-              <Instantiations />
-              <Description>
-                <NLPattern>
-                  <Fragments>
-                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-                      <FormalParameterReference name="?O1" />
-                    </Parameter>
-                    <String> has </String>
-                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-                      <FormalParameterReference name="?O3" />
-                    </Parameter>
-                  </Fragments>
-                </NLPattern>
-              </Description>
-            </AbstractionDescription>
-          </TOC>
-          <Report>
-            <AbstractionDescription>
-              <Instantiations />
-              <Description>
-                <NLPattern>
-                  <Fragments>
-                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-                      <FormalParameterReference name="?O1" />
-                    </Parameter>
-                    <String> has </String>
-                    <OntologyEntity>
-                      <ConceptReference name="side-effect" />
-                    </OntologyEntity>
-                    <String> of </String>
-                    <Parameter hasIndefiniteArticle="true" hasDefiniteArticle="false" useThePersonalPronoun="false">
-                      <FormalParameterReference name="?O2" />
-                    </Parameter>
-                    <String> such as </String>
-                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-                      <FormalParameterReference name="?O3" />
-                    </Parameter>
-                  </Fragments>
-                </NLPattern>
-              </Description>
-            </AbstractionDescription>
-          </Report>
-        </AbstractionDescriptionForTOC>
-        <AbstractionDescriptionForTOC>
-          <ConcreteStatement>
-            <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="0" />
-          </ConcreteStatement>
-          <TOC>
-            <AbstractionDescription>
-              <Instantiations />
-              <Description>
-                <NLPattern>
-                  <Fragments>
-                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-                      <FormalParameterReference name="?O1" />
-                    </Parameter>
-                    <String> broke down due to </String>
-                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-                      <FormalParameterReference name="?O2" />
-                    </Parameter>
-                  </Fragments>
-                </NLPattern>
-              </Description>
-            </AbstractionDescription>
-          </TOC>
-          <Report>
-            <AbstractionDescription>
-              <Instantiations />
-              <Description>
-                <NLPattern>
-                  <Fragments>
-                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-                      <FormalParameterReference name="?O1" />
-                    </Parameter>
-                    <String> broke down due to </String>
-                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-                      <FormalParameterReference name="?O2" />
-                    </Parameter>
-                  </Fragments>
-                </NLPattern>
-              </Description>
-            </AbstractionDescription>
-          </Report>
-        </AbstractionDescriptionForTOC>
-        <AbstractionDescriptionForTOC>
-          <ConcreteStatement>
             <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="2" />
           </ConcreteStatement>
           <TOC>
@@ -18907,7 +18307,7 @@
                     <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
                       <FormalParameterReference name="?O1" />
                     </Parameter>
-                    <String> is exhibiting </String>
+                    <String> is showing the </String>
                     <OntologyEntity>
                       <ConceptReference name="side-effect" />
                     </OntologyEntity>
@@ -18926,12 +18326,145 @@
                     <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
                       <FormalParameterReference name="?O1" />
                     </Parameter>
-                    <String> is exhibiting </String>
+                    <String> is showing the </String>
                     <OntologyEntity>
                       <ConceptReference name="side-effect" />
                     </OntologyEntity>
                     <String> of </String>
                     <Parameter hasIndefiniteArticle="true" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="7" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> is generating </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> is generating </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="3" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> has </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String> going on</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> has the </String>
+                    <OntologyEntity>
+                      <ConceptReference name="sign" />
+                    </OntologyEntity>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> such asb </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="true" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String> going on</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="9" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> is venting out </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> is venting out </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
                       <FormalParameterReference name="?O2" />
                     </Parameter>
                   </Fragments>
@@ -18988,7 +18521,7 @@
         </AbstractionDescriptionForTOC>
         <AbstractionDescriptionForTOC>
           <ConcreteStatement>
-            <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="4" />
+            <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="6" />
           </ConcreteStatement>
           <TOC>
             <AbstractionDescription>
@@ -18999,58 +18532,9 @@
                     <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
                       <FormalParameterReference name="?O1" />
                     </Parameter>
-                    <String> has engine generating </String>
+                    <String> has  </String>
                     <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
                       <FormalParameterReference name="?O3" />
-                    </Parameter>
-                  </Fragments>
-                </NLPattern>
-              </Description>
-            </AbstractionDescription>
-          </TOC>
-          <Report>
-            <AbstractionDescription>
-              <Instantiations />
-              <Description>
-                <NLPattern>
-                  <Fragments>
-                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-                      <FormalParameterReference name="?O1" />
-                    </Parameter>
-                    <String> is exhibiting the </String>
-                    <OntologyEntity>
-                      <ConceptReference name="sign" />
-                    </OntologyEntity>
-                    <String> of </String>
-                    <Parameter hasIndefiniteArticle="true" hasDefiniteArticle="false" useThePersonalPronoun="false">
-                      <FormalParameterReference name="?O2" />
-                    </Parameter>
-                    <String> such as, engine generating </String>
-                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-                      <FormalParameterReference name="?O3" />
-                    </Parameter>
-                  </Fragments>
-                </NLPattern>
-              </Description>
-            </AbstractionDescription>
-          </Report>
-        </AbstractionDescriptionForTOC>
-        <AbstractionDescriptionForTOC>
-          <ConcreteStatement>
-            <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="8" />
-          </ConcreteStatement>
-          <TOC>
-            <AbstractionDescription>
-              <Instantiations />
-              <Description>
-                <NLPattern>
-                  <Fragments>
-                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-                      <FormalParameterReference name="?O1" />
-                    </Parameter>
-                    <String>  is generating </String>
-                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-                      <FormalParameterReference name="?O4" />
                     </Parameter>
                   </Fragments>
                 </NLPattern>
@@ -19071,16 +18555,16 @@
                       <ConceptReference name="side-effect" />
                     </OntologyEntity>
                     <String> of </String>
-                    <Parameter hasIndefiniteArticle="true" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
                       <FormalParameterReference name="?O2" />
                     </Parameter>
-                    <String> such as </String>
+                    <String> as </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> has  </String>
                     <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
                       <FormalParameterReference name="?O3" />
-                    </Parameter>
-                    <String> as the car is generating </String>
-                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-                      <FormalParameterReference name="?O4" />
                     </Parameter>
                   </Fragments>
                 </NLPattern>
@@ -19090,7 +18574,7 @@
         </AbstractionDescriptionForTOC>
         <AbstractionDescriptionForTOC>
           <ConcreteStatement>
-            <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="3" />
+            <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="5" />
           </ConcreteStatement>
           <TOC>
             <AbstractionDescription>
@@ -19101,60 +18585,9 @@
                     <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
                       <FormalParameterReference name="?O1" />
                     </Parameter>
-                    <String> has </String>
+                    <String> has  </String>
                     <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
                       <FormalParameterReference name="?O3" />
-                    </Parameter>
-                    <String> going on</String>
-                  </Fragments>
-                </NLPattern>
-              </Description>
-            </AbstractionDescription>
-          </TOC>
-          <Report>
-            <AbstractionDescription>
-              <Instantiations />
-              <Description>
-                <NLPattern>
-                  <Fragments>
-                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-                      <FormalParameterReference name="?O1" />
-                    </Parameter>
-                    <String> is exhibiting the </String>
-                    <OntologyEntity>
-                      <ConceptReference name="sign" />
-                    </OntologyEntity>
-                    <String> of </String>
-                    <Parameter hasIndefiniteArticle="true" hasDefiniteArticle="false" useThePersonalPronoun="false">
-                      <FormalParameterReference name="?O2" />
-                    </Parameter>
-                    <String> such as </String>
-                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="true" useThePersonalPronoun="false">
-                      <FormalParameterReference name="?O3" />
-                    </Parameter>
-                    <String> going on</String>
-                  </Fragments>
-                </NLPattern>
-              </Description>
-            </AbstractionDescription>
-          </Report>
-        </AbstractionDescriptionForTOC>
-        <AbstractionDescriptionForTOC>
-          <ConcreteStatement>
-            <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="10" />
-          </ConcreteStatement>
-          <TOC>
-            <AbstractionDescription>
-              <Instantiations />
-              <Description>
-                <NLPattern>
-                  <Fragments>
-                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-                      <FormalParameterReference name="?O1" />
-                    </Parameter>
-                    <String> is in </String>
-                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-                      <FormalParameterReference name="?O4" />
                     </Parameter>
                   </Fragments>
                 </NLPattern>
@@ -19175,16 +18608,53 @@
                       <ConceptReference name="side-effect" />
                     </OntologyEntity>
                     <String> of </String>
-                    <Parameter hasIndefiniteArticle="true" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
                       <FormalParameterReference name="?O2" />
                     </Parameter>
                     <String> such as </String>
                     <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
                       <FormalParameterReference name="?O3" />
                     </Parameter>
-                    <String> as the car is in </String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="0" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
                     <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-                      <FormalParameterReference name="?O4" />
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> broke down </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> broke down </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
                     </Parameter>
                   </Fragments>
                 </NLPattern>

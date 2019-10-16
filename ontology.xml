@@ -4,62 +4,7 @@
 <ConceptAdditionalInfo name="object">
       <DirectSuperConcepts />
     </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="instrument">
-      <DirectSuperConcepts>
-        <ConceptReference name="object" />
-      </DirectSuperConcepts>
-    </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="language">
-      <DirectSuperConcepts>
-        <ConceptReference name="object" />
-      </DirectSuperConcepts>
-    </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="action">
-      <DirectSuperConcepts>
-        <ConceptReference name="object" />
-      </DirectSuperConcepts>
-    </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="credential">
-      <DirectSuperConcepts>
-        <ConceptReference name="object" />
-      </DirectSuperConcepts>
-    </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="evidence">
-      <DirectSuperConcepts>
-        <ConceptReference name="object" />
-      </DirectSuperConcepts>
-    </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="evidence combination">
-      <DirectSuperConcepts>
-        <ConceptReference name="object" />
-      </DirectSuperConcepts>
-    </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="actor">
-      <DirectSuperConcepts>
-        <ConceptReference name="object" />
-      </DirectSuperConcepts>
-    </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="object view">
-      <DirectSuperConcepts>
-        <ConceptReference name="object" />
-      </DirectSuperConcepts>
-    </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="collected information">
-      <DirectSuperConcepts>
-        <ConceptReference name="object" />
-      </DirectSuperConcepts>
-    </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="hypothesis">
-      <DirectSuperConcepts>
-        <ConceptReference name="object" />
-      </DirectSuperConcepts>
-    </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="evidence direction">
-      <DirectSuperConcepts>
-        <ConceptReference name="object" />
-      </DirectSuperConcepts>
-    </ConceptAdditionalInfo>
-<Concept name="user instance">
+<Concept name="vehicle">
       <DirectSuperConcepts>
         <ConceptReference name="object" />
       </DirectSuperConcepts>
@@ -69,64 +14,7 @@
         <NLPattern>
           <Fragments>
             <OntologyEntity>
-              <ConceptReference name="user instance" />
-            </OntologyEntity>
-          </Fragments>
-        </NLPattern>
-        <NLPattern>
-          <Fragments />
-        </NLPattern>
-      </NLInfo>
-    </Concept>
-<Concept name="breakdown reason">
-      <DirectSuperConcepts>
-        <ConceptReference name="object" />
-      </DirectSuperConcepts>
-      <documentation value="" />
-      <NLInfo>
-        <LexicalInfo />
-        <NLPattern>
-          <Fragments>
-            <OntologyEntity>
-              <ConceptReference name="breakdown reason" />
-            </OntologyEntity>
-          </Fragments>
-        </NLPattern>
-        <NLPattern>
-          <Fragments />
-        </NLPattern>
-      </NLInfo>
-    </Concept>
-<Concept name="sign">
-      <DirectSuperConcepts>
-        <ConceptReference name="object" />
-      </DirectSuperConcepts>
-      <documentation value="" />
-      <NLInfo>
-        <LexicalInfo />
-        <NLPattern>
-          <Fragments>
-            <OntologyEntity>
-              <ConceptReference name="sign" />
-            </OntologyEntity>
-          </Fragments>
-        </NLPattern>
-        <NLPattern>
-          <Fragments />
-        </NLPattern>
-      </NLInfo>
-    </Concept>
-<Concept name="side-effect">
-      <DirectSuperConcepts>
-        <ConceptReference name="object" />
-      </DirectSuperConcepts>
-      <documentation value="" />
-      <NLInfo>
-        <LexicalInfo />
-        <NLPattern>
-          <Fragments>
-            <OntologyEntity>
-              <ConceptReference name="side-effect" />
+              <ConceptReference name="vehicle" />
             </OntologyEntity>
           </Fragments>
         </NLPattern>
@@ -154,7 +42,7 @@
         </NLPattern>
       </NLInfo>
     </Concept>
-<Concept name="part">
+<Concept name="side-effect">
       <DirectSuperConcepts>
         <ConceptReference name="object" />
       </DirectSuperConcepts>
@@ -164,7 +52,7 @@
         <NLPattern>
           <Fragments>
             <OntologyEntity>
-              <ConceptReference name="part" />
+              <ConceptReference name="side-effect" />
             </OntologyEntity>
           </Fragments>
         </NLPattern>
@@ -173,7 +61,7 @@
         </NLPattern>
       </NLInfo>
     </Concept>
-<Concept name="vehicle">
+<Concept name="sign">
       <DirectSuperConcepts>
         <ConceptReference name="object" />
       </DirectSuperConcepts>
@@ -183,7 +71,7 @@
         <NLPattern>
           <Fragments>
             <OntologyEntity>
-              <ConceptReference name="vehicle" />
+              <ConceptReference name="sign" />
             </OntologyEntity>
           </Fragments>
         </NLPattern>
@@ -192,127 +80,100 @@
         </NLPattern>
       </NLInfo>
     </Concept>
-<ConceptAdditionalInfo name="favoring evidence">
+<Concept name="breakdown reason">
       <DirectSuperConcepts>
-        <ConceptReference name="evidence direction" />
+        <ConceptReference name="object" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="breakdown reason" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="user instance">
+      <DirectSuperConcepts>
+        <ConceptReference name="object" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="user instance" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<ConceptAdditionalInfo name="evidence direction">
+      <DirectSuperConcepts>
+        <ConceptReference name="object" />
       </DirectSuperConcepts>
     </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="disfavoring evidence">
+<ConceptAdditionalInfo name="hypothesis">
       <DirectSuperConcepts>
-        <ConceptReference name="evidence direction" />
+        <ConceptReference name="object" />
       </DirectSuperConcepts>
     </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="hypothesis with direct evidence">
+<ConceptAdditionalInfo name="collected information">
       <DirectSuperConcepts>
-        <ConceptReference name="hypothesis" />
+        <ConceptReference name="object" />
       </DirectSuperConcepts>
     </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="translator">
+<ConceptAdditionalInfo name="object view">
       <DirectSuperConcepts>
-        <ConceptReference name="actor" />
+        <ConceptReference name="object" />
       </DirectSuperConcepts>
     </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="photographer">
+<ConceptAdditionalInfo name="actor">
       <DirectSuperConcepts>
-        <ConceptReference name="actor" />
+        <ConceptReference name="object" />
       </DirectSuperConcepts>
     </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="interpreter">
+<ConceptAdditionalInfo name="evidence combination">
       <DirectSuperConcepts>
-        <ConceptReference name="actor" />
+        <ConceptReference name="object" />
       </DirectSuperConcepts>
     </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="editor">
+<ConceptAdditionalInfo name="evidence">
       <DirectSuperConcepts>
-        <ConceptReference name="actor" />
+        <ConceptReference name="object" />
       </DirectSuperConcepts>
     </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="reporter">
+<ConceptAdditionalInfo name="credential">
       <DirectSuperConcepts>
-        <ConceptReference name="actor" />
+        <ConceptReference name="object" />
       </DirectSuperConcepts>
     </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="organization">
+<ConceptAdditionalInfo name="action">
       <DirectSuperConcepts>
-        <ConceptReference name="actor" />
+        <ConceptReference name="object" />
       </DirectSuperConcepts>
     </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="person">
+<ConceptAdditionalInfo name="language">
       <DirectSuperConcepts>
-        <ConceptReference name="actor" />
+        <ConceptReference name="object" />
       </DirectSuperConcepts>
     </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="source">
+<ConceptAdditionalInfo name="instrument">
       <DirectSuperConcepts>
-        <ConceptReference name="actor" />
+        <ConceptReference name="object" />
       </DirectSuperConcepts>
     </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="harmonious evidence">
-      <DirectSuperConcepts>
-        <ConceptReference name="evidence combination" />
-      </DirectSuperConcepts>
-    </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="redundant evidence">
-      <DirectSuperConcepts>
-        <ConceptReference name="evidence combination" />
-      </DirectSuperConcepts>
-    </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="dissonant evidence">
-      <DirectSuperConcepts>
-        <ConceptReference name="evidence combination" />
-      </DirectSuperConcepts>
-    </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="tangible evidence">
-      <DirectSuperConcepts>
-        <ConceptReference name="evidence" />
-      </DirectSuperConcepts>
-    </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="testimonial evidence">
-      <DirectSuperConcepts>
-        <ConceptReference name="evidence" />
-      </DirectSuperConcepts>
-    </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="missing evidence">
-      <DirectSuperConcepts>
-        <ConceptReference name="evidence" />
-      </DirectSuperConcepts>
-    </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="authoritative record">
-      <DirectSuperConcepts>
-        <ConceptReference name="evidence" />
-      </DirectSuperConcepts>
-    </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="processed evidence">
-      <DirectSuperConcepts>
-        <ConceptReference name="evidence" />
-      </DirectSuperConcepts>
-    </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="evidence credential">
-      <DirectSuperConcepts>
-        <ConceptReference name="credential" />
-      </DirectSuperConcepts>
-    </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="credibility credential">
-      <DirectSuperConcepts>
-        <ConceptReference name="credential" />
-      </DirectSuperConcepts>
-    </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="competence credential">
-      <DirectSuperConcepts>
-        <ConceptReference name="credential" />
-      </DirectSuperConcepts>
-    </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="believability credential">
-      <DirectSuperConcepts>
-        <ConceptReference name="credential" />
-      </DirectSuperConcepts>
-    </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="evidence processing action">
-      <DirectSuperConcepts>
-        <ConceptReference name="action" />
-      </DirectSuperConcepts>
-    </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="sensing device">
+<ConceptAdditionalInfo name="software">
       <DirectSuperConcepts>
         <ConceptReference name="instrument" />
       </DirectSuperConcepts>
@@ -322,42 +183,214 @@
         <ConceptReference name="instrument" />
       </DirectSuperConcepts>
     </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="software">
+<ConceptAdditionalInfo name="sensing device">
       <DirectSuperConcepts>
         <ConceptReference name="instrument" />
       </DirectSuperConcepts>
     </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="recorder">
+<ConceptAdditionalInfo name="evidence processing action">
       <DirectSuperConcepts>
-        <ConceptReference name="sensing device" />
+        <ConceptReference name="action" />
       </DirectSuperConcepts>
     </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="photo camera">
+<ConceptAdditionalInfo name="believability credential">
       <DirectSuperConcepts>
-        <ConceptReference name="sensing device" />
+        <ConceptReference name="credential" />
       </DirectSuperConcepts>
     </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="editing">
+<ConceptAdditionalInfo name="competence credential">
       <DirectSuperConcepts>
-        <ConceptReference name="evidence processing action" />
+        <ConceptReference name="credential" />
       </DirectSuperConcepts>
     </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="interpretation">
+<ConceptAdditionalInfo name="credibility credential">
       <DirectSuperConcepts>
-        <ConceptReference name="evidence processing action" />
+        <ConceptReference name="credential" />
       </DirectSuperConcepts>
     </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="translation">
+<ConceptAdditionalInfo name="evidence credential">
       <DirectSuperConcepts>
-        <ConceptReference name="evidence processing action" />
+        <ConceptReference name="credential" />
       </DirectSuperConcepts>
     </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="photo">
+<ConceptAdditionalInfo name="processed evidence">
       <DirectSuperConcepts>
-        <ConceptReference name="evidence processing action" />
+        <ConceptReference name="evidence" />
       </DirectSuperConcepts>
     </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="recording">
+<ConceptAdditionalInfo name="authoritative record">
+      <DirectSuperConcepts>
+        <ConceptReference name="evidence" />
+      </DirectSuperConcepts>
+    </ConceptAdditionalInfo>
+<ConceptAdditionalInfo name="missing evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="evidence" />
+      </DirectSuperConcepts>
+    </ConceptAdditionalInfo>
+<ConceptAdditionalInfo name="testimonial evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="evidence" />
+      </DirectSuperConcepts>
+    </ConceptAdditionalInfo>
+<ConceptAdditionalInfo name="tangible evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="evidence" />
+      </DirectSuperConcepts>
+    </ConceptAdditionalInfo>
+<ConceptAdditionalInfo name="dissonant evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="evidence combination" />
+      </DirectSuperConcepts>
+    </ConceptAdditionalInfo>
+<ConceptAdditionalInfo name="redundant evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="evidence combination" />
+      </DirectSuperConcepts>
+    </ConceptAdditionalInfo>
+<ConceptAdditionalInfo name="harmonious evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="evidence combination" />
+      </DirectSuperConcepts>
+    </ConceptAdditionalInfo>
+<ConceptAdditionalInfo name="source">
+      <DirectSuperConcepts>
+        <ConceptReference name="actor" />
+      </DirectSuperConcepts>
+    </ConceptAdditionalInfo>
+<ConceptAdditionalInfo name="person">
+      <DirectSuperConcepts>
+        <ConceptReference name="actor" />
+      </DirectSuperConcepts>
+    </ConceptAdditionalInfo>
+<ConceptAdditionalInfo name="organization">
+      <DirectSuperConcepts>
+        <ConceptReference name="actor" />
+      </DirectSuperConcepts>
+    </ConceptAdditionalInfo>
+<ConceptAdditionalInfo name="reporter">
+      <DirectSuperConcepts>
+        <ConceptReference name="actor" />
+      </DirectSuperConcepts>
+    </ConceptAdditionalInfo>
+<ConceptAdditionalInfo name="editor">
+      <DirectSuperConcepts>
+        <ConceptReference name="actor" />
+      </DirectSuperConcepts>
+    </ConceptAdditionalInfo>
+<ConceptAdditionalInfo name="interpreter">
+      <DirectSuperConcepts>
+        <ConceptReference name="actor" />
+      </DirectSuperConcepts>
+    </ConceptAdditionalInfo>
+<ConceptAdditionalInfo name="photographer">
+      <DirectSuperConcepts>
+        <ConceptReference name="actor" />
+      </DirectSuperConcepts>
+    </ConceptAdditionalInfo>
+<ConceptAdditionalInfo name="translator">
+      <DirectSuperConcepts>
+        <ConceptReference name="actor" />
+      </DirectSuperConcepts>
+    </ConceptAdditionalInfo>
+<ConceptAdditionalInfo name="hypothesis with direct evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="hypothesis" />
+      </DirectSuperConcepts>
+    </ConceptAdditionalInfo>
+<ConceptAdditionalInfo name="disfavoring evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="evidence direction" />
+      </DirectSuperConcepts>
+    </ConceptAdditionalInfo>
+<ConceptAdditionalInfo name="favoring evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="evidence direction" />
+      </DirectSuperConcepts>
+    </ConceptAdditionalInfo>
+<ConceptAdditionalInfo name="convergent evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="harmonious evidence" />
+      </DirectSuperConcepts>
+    </ConceptAdditionalInfo>
+<ConceptAdditionalInfo name="corroborative evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="harmonious evidence" />
+      </DirectSuperConcepts>
+    </ConceptAdditionalInfo>
+<ConceptAdditionalInfo name="cumulative redundant evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="redundant evidence" />
+      </DirectSuperConcepts>
+    </ConceptAdditionalInfo>
+<ConceptAdditionalInfo name="corroborative redundant evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="redundant evidence" />
+      </DirectSuperConcepts>
+    </ConceptAdditionalInfo>
+<ConceptAdditionalInfo name="divergent evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="dissonant evidence" />
+      </DirectSuperConcepts>
+    </ConceptAdditionalInfo>
+<ConceptAdditionalInfo name="contradictory evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="dissonant evidence" />
+      </DirectSuperConcepts>
+    </ConceptAdditionalInfo>
+<ConceptAdditionalInfo name="demonstrative tangible evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="tangible evidence" />
+      </DirectSuperConcepts>
+    </ConceptAdditionalInfo>
+<ConceptAdditionalInfo name="real tangible evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="tangible evidence" />
+      </DirectSuperConcepts>
+    </ConceptAdditionalInfo>
+<ConceptAdditionalInfo name="equivocal testimonial evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="testimonial evidence" />
+      </DirectSuperConcepts>
+    </ConceptAdditionalInfo>
+<ConceptAdditionalInfo name="unequivocal testimonial evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="testimonial evidence" />
+      </DirectSuperConcepts>
+    </ConceptAdditionalInfo>
+<ConceptAdditionalInfo name="tangible evidence about testimonial evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="tangible evidence" />
+        <ConceptReference name="processed evidence" />
+      </DirectSuperConcepts>
+    </ConceptAdditionalInfo>
+<ConceptAdditionalInfo name="testimonial evidence about tangible evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="testimonial evidence" />
+        <ConceptReference name="processed evidence" />
+      </DirectSuperConcepts>
+    </ConceptAdditionalInfo>
+<ConceptAdditionalInfo name="evidence from chain of custody">
+      <DirectSuperConcepts>
+        <ConceptReference name="processed evidence" />
+      </DirectSuperConcepts>
+    </ConceptAdditionalInfo>
+<ConceptAdditionalInfo name="relevance">
+      <DirectSuperConcepts>
+        <ConceptReference name="evidence credential" />
+      </DirectSuperConcepts>
+    </ConceptAdditionalInfo>
+<ConceptAdditionalInfo name="source credibility credential">
+      <DirectSuperConcepts>
+        <ConceptReference name="credibility credential" />
+      </DirectSuperConcepts>
+    </ConceptAdditionalInfo>
+<ConceptAdditionalInfo name="object credibility credential">
+      <DirectSuperConcepts>
+        <ConceptReference name="credibility credential" />
+      </DirectSuperConcepts>
+    </ConceptAdditionalInfo>
+<ConceptAdditionalInfo name="transfer">
       <DirectSuperConcepts>
         <ConceptReference name="evidence processing action" />
       </DirectSuperConcepts>
@@ -367,99 +400,57 @@
         <ConceptReference name="evidence processing action" />
       </DirectSuperConcepts>
     </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="transfer">
+<ConceptAdditionalInfo name="recording">
       <DirectSuperConcepts>
         <ConceptReference name="evidence processing action" />
       </DirectSuperConcepts>
     </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="object credibility credential">
+<ConceptAdditionalInfo name="photo">
       <DirectSuperConcepts>
-        <ConceptReference name="credibility credential" />
+        <ConceptReference name="evidence processing action" />
       </DirectSuperConcepts>
     </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="source credibility credential">
+<ConceptAdditionalInfo name="translation">
       <DirectSuperConcepts>
-        <ConceptReference name="credibility credential" />
+        <ConceptReference name="evidence processing action" />
       </DirectSuperConcepts>
     </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="relevance">
+<ConceptAdditionalInfo name="interpretation">
       <DirectSuperConcepts>
-        <ConceptReference name="evidence credential" />
+        <ConceptReference name="evidence processing action" />
       </DirectSuperConcepts>
     </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="evidence from chain of custody">
+<ConceptAdditionalInfo name="editing">
       <DirectSuperConcepts>
-        <ConceptReference name="processed evidence" />
+        <ConceptReference name="evidence processing action" />
       </DirectSuperConcepts>
     </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="testimonial evidence about tangible evidence">
+<ConceptAdditionalInfo name="photo camera">
       <DirectSuperConcepts>
-        <ConceptReference name="processed evidence" />
-        <ConceptReference name="testimonial evidence" />
+        <ConceptReference name="sensing device" />
       </DirectSuperConcepts>
     </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="unequivocal testimonial evidence">
+<ConceptAdditionalInfo name="recorder">
       <DirectSuperConcepts>
-        <ConceptReference name="testimonial evidence" />
+        <ConceptReference name="sensing device" />
       </DirectSuperConcepts>
     </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="equivocal testimonial evidence">
+<ConceptAdditionalInfo name="audio recorder">
       <DirectSuperConcepts>
-        <ConceptReference name="testimonial evidence" />
+        <ConceptReference name="recorder" />
       </DirectSuperConcepts>
     </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="tangible evidence about testimonial evidence">
+<ConceptAdditionalInfo name="video recorder">
       <DirectSuperConcepts>
-        <ConceptReference name="processed evidence" />
-        <ConceptReference name="tangible evidence" />
+        <ConceptReference name="recorder" />
       </DirectSuperConcepts>
     </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="real tangible evidence">
+<ConceptAdditionalInfo name="unequivocal testimonial evidence based upon direct observation">
       <DirectSuperConcepts>
-        <ConceptReference name="tangible evidence" />
+        <ConceptReference name="unequivocal testimonial evidence" />
       </DirectSuperConcepts>
     </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="demonstrative tangible evidence">
-      <DirectSuperConcepts>
-        <ConceptReference name="tangible evidence" />
-      </DirectSuperConcepts>
-    </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="contradictory evidence">
-      <DirectSuperConcepts>
-        <ConceptReference name="dissonant evidence" />
-      </DirectSuperConcepts>
-    </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="divergent evidence">
-      <DirectSuperConcepts>
-        <ConceptReference name="dissonant evidence" />
-      </DirectSuperConcepts>
-    </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="corroborative redundant evidence">
-      <DirectSuperConcepts>
-        <ConceptReference name="redundant evidence" />
-      </DirectSuperConcepts>
-    </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="cumulative redundant evidence">
-      <DirectSuperConcepts>
-        <ConceptReference name="redundant evidence" />
-      </DirectSuperConcepts>
-    </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="corroborative evidence">
-      <DirectSuperConcepts>
-        <ConceptReference name="harmonious evidence" />
-      </DirectSuperConcepts>
-    </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="convergent evidence">
-      <DirectSuperConcepts>
-        <ConceptReference name="harmonious evidence" />
-      </DirectSuperConcepts>
-    </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="synergistic evidence">
-      <DirectSuperConcepts>
-        <ConceptReference name="convergent evidence" />
-      </DirectSuperConcepts>
-    </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="testimonial evidence based on opinion">
+<ConceptAdditionalInfo name="probabilistically equivocal testimonial evidence">
       <DirectSuperConcepts>
         <ConceptReference name="equivocal testimonial evidence" />
       </DirectSuperConcepts>
@@ -469,24 +460,14 @@
         <ConceptReference name="equivocal testimonial evidence" />
       </DirectSuperConcepts>
     </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="probabilistically equivocal testimonial evidence">
+<ConceptAdditionalInfo name="testimonial evidence based on opinion">
       <DirectSuperConcepts>
         <ConceptReference name="equivocal testimonial evidence" />
       </DirectSuperConcepts>
     </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="unequivocal testimonial evidence based upon direct observation">
+<ConceptAdditionalInfo name="synergistic evidence">
       <DirectSuperConcepts>
-        <ConceptReference name="unequivocal testimonial evidence" />
-      </DirectSuperConcepts>
-    </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="video recorder">
-      <DirectSuperConcepts>
-        <ConceptReference name="recorder" />
-      </DirectSuperConcepts>
-    </ConceptAdditionalInfo>
-<ConceptAdditionalInfo name="audio recorder">
-      <DirectSuperConcepts>
-        <ConceptReference name="recorder" />
+        <ConceptReference name="convergent evidence" />
       </DirectSuperConcepts>
     </ConceptAdditionalInfo>
 <ConceptAdditionalInfo name="unequivocal testimonial evidence obtained at second hand">
@@ -497,9 +478,9 @@
     </ConceptAdditionalInfo>
 </Concepts>
 <Instances>
-<Instance name="electrical appliances">
+<Instance name="air-filter problem">
       <DirectSuperConcepts>
-        <ConceptReference name="part" />
+        <ConceptReference name="breakdown reason" />
       </DirectSuperConcepts>
       <documentation value="" />
       <NLInfo>
@@ -507,83 +488,7 @@
         <NLPattern>
           <Fragments>
             <OntologyEntity>
-              <InstanceReference name="electrical appliances" />
-            </OntologyEntity>
-          </Fragments>
-        </NLPattern>
-        <NLPattern>
-          <Fragments />
-        </NLPattern>
-      </NLInfo>
-    </Instance>
-<Instance name="engine clicking sounds">
-      <DirectSuperConcepts>
-        <ConceptReference name="problem" />
-      </DirectSuperConcepts>
-      <documentation value="" />
-      <NLInfo>
-        <LexicalInfo />
-        <NLPattern>
-          <Fragments>
-            <OntologyEntity>
-              <InstanceReference name="engine clicking sounds" />
-            </OntologyEntity>
-          </Fragments>
-        </NLPattern>
-        <NLPattern>
-          <Fragments />
-        </NLPattern>
-      </NLInfo>
-    </Instance>
-<Instance name="no start condition">
-      <DirectSuperConcepts>
-        <ConceptReference name="problem" />
-      </DirectSuperConcepts>
-      <documentation value="" />
-      <NLInfo>
-        <LexicalInfo />
-        <NLPattern>
-          <Fragments>
-            <OntologyEntity>
-              <InstanceReference name="no start condition" />
-            </OntologyEntity>
-          </Fragments>
-        </NLPattern>
-        <NLPattern>
-          <Fragments />
-        </NLPattern>
-      </NLInfo>
-    </Instance>
-<Instance name="drained battery">
-      <DirectSuperConcepts>
-        <ConceptReference name="side-effect" />
-      </DirectSuperConcepts>
-      <documentation value="" />
-      <NLInfo>
-        <LexicalInfo />
-        <NLPattern>
-          <Fragments>
-            <OntologyEntity>
-              <InstanceReference name="drained battery" />
-            </OntologyEntity>
-          </Fragments>
-        </NLPattern>
-        <NLPattern>
-          <Fragments />
-        </NLPattern>
-      </NLInfo>
-    </Instance>
-<Instance name="low power supply to engine">
-      <DirectSuperConcepts>
-        <ConceptReference name="side-effect" />
-      </DirectSuperConcepts>
-      <documentation value="" />
-      <NLInfo>
-        <LexicalInfo />
-        <NLPattern>
-          <Fragments>
-            <OntologyEntity>
-              <InstanceReference name="low power supply to engine" />
+              <InstanceReference name="air-filter problem" />
             </OntologyEntity>
           </Fragments>
         </NLPattern>
@@ -611,9 +516,47 @@
         </NLPattern>
       </NLInfo>
     </Instance>
+<Instance name="unburnt air-fuel mixture">
+      <DirectSuperConcepts>
+        <ConceptReference name="side-effect" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="unburnt air-fuel mixture" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="clogged spark plug">
+      <DirectSuperConcepts>
+        <ConceptReference name="side-effect" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="clogged spark plug" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Instance>
 <Instance name="unusual sounds">
       <DirectSuperConcepts>
-        <ConceptReference name="sign" />
+        <ConceptReference name="problem" />
       </DirectSuperConcepts>
       <documentation value="" />
       <NLInfo>
@@ -630,9 +573,9 @@
         </NLPattern>
       </NLInfo>
     </Instance>
-<Instance name="alternator problem">
+<Instance name="black flame">
       <DirectSuperConcepts>
-        <ConceptReference name="breakdown reason" />
+        <ConceptReference name="problem" />
       </DirectSuperConcepts>
       <documentation value="" />
       <NLInfo>
@@ -640,7 +583,7 @@
         <NLPattern>
           <Fragments>
             <OntologyEntity>
-              <InstanceReference name="alternator problem" />
+              <InstanceReference name="black flame" />
             </OntologyEntity>
           </Fragments>
         </NLPattern>
@@ -649,24 +592,9 @@
         </NLPattern>
       </NLInfo>
     </Instance>
-<InstanceAdditionalInfo name="credibility">
+<InstanceAdditionalInfo name="believability">
       <DirectSuperConcepts>
-        <ConceptReference name="believability credential" />
-      </DirectSuperConcepts>
-    </InstanceAdditionalInfo>
-<InstanceAdditionalInfo name="competence">
-      <DirectSuperConcepts>
-        <ConceptReference name="believability credential" />
-      </DirectSuperConcepts>
-    </InstanceAdditionalInfo>
-<InstanceAdditionalInfo name="understandability">
-      <DirectSuperConcepts>
-        <ConceptReference name="competence credential" />
-      </DirectSuperConcepts>
-    </InstanceAdditionalInfo>
-<InstanceAdditionalInfo name="access">
-      <DirectSuperConcepts>
-        <ConceptReference name="competence credential" />
+        <ConceptReference name="evidence credential" />
       </DirectSuperConcepts>
     </InstanceAdditionalInfo>
 <InstanceAdditionalInfo name="inferential force">
@@ -674,52 +602,27 @@
         <ConceptReference name="evidence credential" />
       </DirectSuperConcepts>
     </InstanceAdditionalInfo>
-<InstanceAdditionalInfo name="believability">
+<InstanceAdditionalInfo name="access">
       <DirectSuperConcepts>
-        <ConceptReference name="evidence credential" />
+        <ConceptReference name="competence credential" />
       </DirectSuperConcepts>
     </InstanceAdditionalInfo>
-<InstanceAdditionalInfo name="indirect relevance">
+<InstanceAdditionalInfo name="understandability">
       <DirectSuperConcepts>
-        <ConceptReference name="relevance" />
+        <ConceptReference name="competence credential" />
       </DirectSuperConcepts>
     </InstanceAdditionalInfo>
-<InstanceAdditionalInfo name="direct relevance">
+<InstanceAdditionalInfo name="competence">
       <DirectSuperConcepts>
-        <ConceptReference name="relevance" />
+        <ConceptReference name="believability credential" />
       </DirectSuperConcepts>
     </InstanceAdditionalInfo>
-<InstanceAdditionalInfo name="inferential ability">
+<InstanceAdditionalInfo name="credibility">
       <DirectSuperConcepts>
-        <ConceptReference name="source credibility credential" />
+        <ConceptReference name="believability credential" />
       </DirectSuperConcepts>
     </InstanceAdditionalInfo>
-<InstanceAdditionalInfo name="observational sensitivity">
-      <DirectSuperConcepts>
-        <ConceptReference name="source credibility credential" />
-      </DirectSuperConcepts>
-    </InstanceAdditionalInfo>
-<InstanceAdditionalInfo name="objectivity">
-      <DirectSuperConcepts>
-        <ConceptReference name="source credibility credential" />
-      </DirectSuperConcepts>
-    </InstanceAdditionalInfo>
-<InstanceAdditionalInfo name="veracity">
-      <DirectSuperConcepts>
-        <ConceptReference name="source credibility credential" />
-      </DirectSuperConcepts>
-    </InstanceAdditionalInfo>
-<InstanceAdditionalInfo name="fidelity">
-      <DirectSuperConcepts>
-        <ConceptReference name="object credibility credential" />
-      </DirectSuperConcepts>
-    </InstanceAdditionalInfo>
-<InstanceAdditionalInfo name="security">
-      <DirectSuperConcepts>
-        <ConceptReference name="object credibility credential" />
-      </DirectSuperConcepts>
-    </InstanceAdditionalInfo>
-<InstanceAdditionalInfo name="reliability">
+<InstanceAdditionalInfo name="authenticity">
       <DirectSuperConcepts>
         <ConceptReference name="object credibility credential" />
       </DirectSuperConcepts>
@@ -729,9 +632,49 @@
         <ConceptReference name="object credibility credential" />
       </DirectSuperConcepts>
     </InstanceAdditionalInfo>
-<InstanceAdditionalInfo name="authenticity">
+<InstanceAdditionalInfo name="reliability">
       <DirectSuperConcepts>
         <ConceptReference name="object credibility credential" />
+      </DirectSuperConcepts>
+    </InstanceAdditionalInfo>
+<InstanceAdditionalInfo name="security">
+      <DirectSuperConcepts>
+        <ConceptReference name="object credibility credential" />
+      </DirectSuperConcepts>
+    </InstanceAdditionalInfo>
+<InstanceAdditionalInfo name="fidelity">
+      <DirectSuperConcepts>
+        <ConceptReference name="object credibility credential" />
+      </DirectSuperConcepts>
+    </InstanceAdditionalInfo>
+<InstanceAdditionalInfo name="veracity">
+      <DirectSuperConcepts>
+        <ConceptReference name="source credibility credential" />
+      </DirectSuperConcepts>
+    </InstanceAdditionalInfo>
+<InstanceAdditionalInfo name="objectivity">
+      <DirectSuperConcepts>
+        <ConceptReference name="source credibility credential" />
+      </DirectSuperConcepts>
+    </InstanceAdditionalInfo>
+<InstanceAdditionalInfo name="observational sensitivity">
+      <DirectSuperConcepts>
+        <ConceptReference name="source credibility credential" />
+      </DirectSuperConcepts>
+    </InstanceAdditionalInfo>
+<InstanceAdditionalInfo name="inferential ability">
+      <DirectSuperConcepts>
+        <ConceptReference name="source credibility credential" />
+      </DirectSuperConcepts>
+    </InstanceAdditionalInfo>
+<InstanceAdditionalInfo name="direct relevance">
+      <DirectSuperConcepts>
+        <ConceptReference name="relevance" />
+      </DirectSuperConcepts>
+    </InstanceAdditionalInfo>
+<InstanceAdditionalInfo name="indirect relevance">
+      <DirectSuperConcepts>
+        <ConceptReference name="relevance" />
       </DirectSuperConcepts>
     </InstanceAdditionalInfo>
 </Instances>
@@ -740,157 +683,7 @@
       <DirectSuperFeatures />
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="has as language">
-      <DirectSuperFeatures>
-        <FeatureReference name="feature" />
-      </DirectSuperFeatures>
-      <DomainNegativeExamples />
-    </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="is obtained by">
-      <DirectSuperFeatures>
-        <FeatureReference name="feature" />
-      </DirectSuperFeatures>
-      <DomainNegativeExamples />
-    </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="is obtained from">
-      <DirectSuperFeatures>
-        <FeatureReference name="feature" />
-      </DirectSuperFeatures>
-      <DomainNegativeExamples />
-    </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="has as source">
-      <DirectSuperFeatures>
-        <FeatureReference name="feature" />
-      </DirectSuperFeatures>
-      <DomainNegativeExamples />
-    </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="has as hedging">
-      <DirectSuperFeatures>
-        <FeatureReference name="feature" />
-      </DirectSuperFeatures>
-      <DomainNegativeExamples />
-    </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="has as believability credential">
-      <DirectSuperFeatures>
-        <FeatureReference name="feature" />
-      </DirectSuperFeatures>
-      <DomainNegativeExamples />
-    </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="action feature">
-      <DirectSuperFeatures>
-        <FeatureReference name="feature" />
-      </DirectSuperFeatures>
-      <DomainNegativeExamples />
-    </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="system feature">
-      <DirectSuperFeatures>
-        <FeatureReference name="feature" />
-      </DirectSuperFeatures>
-      <DomainNegativeExamples />
-    </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="is produced by sensing device">
-      <DirectSuperFeatures>
-        <FeatureReference name="feature" />
-      </DirectSuperFeatures>
-      <DomainNegativeExamples />
-    </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="evidence representation feature">
-      <DirectSuperFeatures>
-        <FeatureReference name="feature" />
-      </DirectSuperFeatures>
-      <DomainNegativeExamples />
-    </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="evidence feature">
-      <DirectSuperFeatures>
-        <FeatureReference name="feature" />
-      </DirectSuperFeatures>
-      <DomainNegativeExamples />
-    </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="is extracted from">
-      <DirectSuperFeatures>
-        <FeatureReference name="feature" />
-      </DirectSuperFeatures>
-      <DomainNegativeExamples />
-    </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="scenario feature">
-      <DirectSuperFeatures>
-        <FeatureReference name="feature" />
-      </DirectSuperFeatures>
-      <DomainNegativeExamples />
-    </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="hypothesis support feature">
-      <DirectSuperFeatures>
-        <FeatureReference name="feature" />
-      </DirectSuperFeatures>
-      <DomainNegativeExamples />
-    </FeatureAdditionalInfo>
-<Feature name="has as sign">
-      <DirectSuperFeatures>
-        <FeatureReference name="feature" />
-      </DirectSuperFeatures>
-      <ConstantFormalParametersList>
-        <FormalParameter name="&lt;P1>" />
-        <FormalParameter name="&lt;P2>" />
-      </ConstantFormalParametersList>
-      <MultiVariableCondition>
-        <AbstractFactsLinks />
-        <ParameterClassicPVSDomain>
-          <FormalParameterReference name="&lt;P1>" />
-          <LowerBound>
-            <ClassicEmptyBound />
-          </LowerBound>
-          <UpperBound>
-            <ClassicConceptBound>
-              <ConceptReference name="breakdown reason" />
-            </ClassicConceptBound>
-          </UpperBound>
-        </ParameterClassicPVSDomain>
-        <ParameterClassicPVSDomain>
-          <FormalParameterReference name="&lt;P2>" />
-          <LowerBound>
-            <ClassicEmptyBound />
-          </LowerBound>
-          <UpperBound>
-            <ClassicConceptBound>
-              <ConceptReference name="sign" />
-            </ClassicConceptBound>
-          </UpperBound>
-        </ParameterClassicPVSDomain>
-      </MultiVariableCondition>
-      <DomainNegativeExamples />
-      <ParametersProperties>
-        <Properties>
-          <FormalParameterReference name="&lt;P1>" />
-          <disciple.km.ontology.features.SingleMultipleProperty single="false" />
-        </Properties>
-        <Properties>
-          <FormalParameterReference name="&lt;P2>" />
-          <disciple.km.ontology.features.SingleMultipleProperty single="false" />
-        </Properties>
-      </ParametersProperties>
-      <documentation value="" />
-      <NLInfo>
-        <NLPattern>
-          <Fragments>
-            <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-              <FormalParameterReference name="&lt;P1>" />
-            </Parameter>
-            <String> </String>
-            <OntologyEntity>
-              <FeatureReference name="has as sign" />
-            </OntologyEntity>
-            <String> </String>
-            <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-              <FormalParameterReference name="&lt;P2>" />
-            </Parameter>
-          </Fragments>
-        </NLPattern>
-        <NLPattern>
-          <Fragments />
-        </NLPattern>
-      </NLInfo>
-    </Feature>
-<Feature name="has as symptoms">
+<Feature name="has as symptom">
       <DirectSuperFeatures>
         <FeatureReference name="feature" />
       </DirectSuperFeatures>
@@ -944,73 +737,7 @@
             </Parameter>
             <String> </String>
             <OntologyEntity>
-              <FeatureReference name="has as symptoms" />
-            </OntologyEntity>
-            <String> </String>
-            <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-              <FormalParameterReference name="&lt;P2>" />
-            </Parameter>
-          </Fragments>
-        </NLPattern>
-        <NLPattern>
-          <Fragments />
-        </NLPattern>
-      </NLInfo>
-    </Feature>
-<Feature name="has as side-effect">
-      <DirectSuperFeatures>
-        <FeatureReference name="feature" />
-      </DirectSuperFeatures>
-      <ConstantFormalParametersList>
-        <FormalParameter name="&lt;P1>" />
-        <FormalParameter name="&lt;P2>" />
-      </ConstantFormalParametersList>
-      <MultiVariableCondition>
-        <AbstractFactsLinks />
-        <ParameterClassicPVSDomain>
-          <FormalParameterReference name="&lt;P1>" />
-          <LowerBound>
-            <ClassicEmptyBound />
-          </LowerBound>
-          <UpperBound>
-            <ClassicConceptBound>
-              <ConceptReference name="breakdown reason" />
-            </ClassicConceptBound>
-          </UpperBound>
-        </ParameterClassicPVSDomain>
-        <ParameterClassicPVSDomain>
-          <FormalParameterReference name="&lt;P2>" />
-          <LowerBound>
-            <ClassicEmptyBound />
-          </LowerBound>
-          <UpperBound>
-            <ClassicConceptBound>
-              <ConceptReference name="side-effect" />
-            </ClassicConceptBound>
-          </UpperBound>
-        </ParameterClassicPVSDomain>
-      </MultiVariableCondition>
-      <DomainNegativeExamples />
-      <ParametersProperties>
-        <Properties>
-          <FormalParameterReference name="&lt;P1>" />
-          <disciple.km.ontology.features.SingleMultipleProperty single="false" />
-        </Properties>
-        <Properties>
-          <FormalParameterReference name="&lt;P2>" />
-          <disciple.km.ontology.features.SingleMultipleProperty single="false" />
-        </Properties>
-      </ParametersProperties>
-      <documentation value="" />
-      <NLInfo>
-        <NLPattern>
-          <Fragments>
-            <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
-              <FormalParameterReference name="&lt;P1>" />
-            </Parameter>
-            <String> </String>
-            <OntologyEntity>
-              <FeatureReference name="has as side-effect" />
+              <FeatureReference name="has as symptom" />
             </OntologyEntity>
             <String> </String>
             <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
@@ -1059,11 +786,11 @@
       <DomainNegativeExamples />
       <ParametersProperties>
         <Properties>
-          <FormalParameterReference name="&lt;P1>" />
+          <FormalParameterReference name="&lt;P2>" />
           <disciple.km.ontology.features.SingleMultipleProperty single="false" />
         </Properties>
         <Properties>
-          <FormalParameterReference name="&lt;P2>" />
+          <FormalParameterReference name="&lt;P1>" />
           <disciple.km.ontology.features.SingleMultipleProperty single="false" />
         </Properties>
       </ParametersProperties>
@@ -1089,7 +816,7 @@
         </NLPattern>
       </NLInfo>
     </Feature>
-<Feature name="has as not working">
+<Feature name="has as side-effect">
       <DirectSuperFeatures>
         <FeatureReference name="feature" />
       </DirectSuperFeatures>
@@ -1106,7 +833,7 @@
           </LowerBound>
           <UpperBound>
             <ClassicConceptBound>
-              <ConceptReference name="vehicle" />
+              <ConceptReference name="breakdown reason" />
             </ClassicConceptBound>
           </UpperBound>
         </ParameterClassicPVSDomain>
@@ -1117,7 +844,7 @@
           </LowerBound>
           <UpperBound>
             <ClassicConceptBound>
-              <ConceptReference name="part" />
+              <ConceptReference name="side-effect" />
             </ClassicConceptBound>
           </UpperBound>
         </ParameterClassicPVSDomain>
@@ -1142,7 +869,7 @@
             </Parameter>
             <String> </String>
             <OntologyEntity>
-              <FeatureReference name="has as not working" />
+              <FeatureReference name="has as side-effect" />
             </OntologyEntity>
             <String> </String>
             <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
@@ -1155,7 +882,7 @@
         </NLPattern>
       </NLInfo>
     </Feature>
-<Feature name="has as working">
+<Feature name="has as sign">
       <DirectSuperFeatures>
         <FeatureReference name="feature" />
       </DirectSuperFeatures>
@@ -1172,7 +899,7 @@
           </LowerBound>
           <UpperBound>
             <ClassicConceptBound>
-              <ConceptReference name="vehicle" />
+              <ConceptReference name="breakdown reason" />
             </ClassicConceptBound>
           </UpperBound>
         </ParameterClassicPVSDomain>
@@ -1183,7 +910,7 @@
           </LowerBound>
           <UpperBound>
             <ClassicConceptBound>
-              <ConceptReference name="part" />
+              <ConceptReference name="sign" />
             </ClassicConceptBound>
           </UpperBound>
         </ParameterClassicPVSDomain>
@@ -1208,7 +935,7 @@
             </Parameter>
             <String> </String>
             <OntologyEntity>
-              <FeatureReference name="has as working" />
+              <FeatureReference name="has as sign" />
             </OntologyEntity>
             <String> </String>
             <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
@@ -1221,103 +948,103 @@
         </NLPattern>
       </NLInfo>
     </Feature>
-<FeatureAdditionalInfo name="favors">
+<FeatureAdditionalInfo name="hypothesis support feature">
       <DirectSuperFeatures>
-        <FeatureReference name="hypothesis support feature" />
+        <FeatureReference name="feature" />
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="disfavors">
+<FeatureAdditionalInfo name="scenario feature">
       <DirectSuperFeatures>
-        <FeatureReference name="hypothesis support feature" />
+        <FeatureReference name="feature" />
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="states as view">
+<FeatureAdditionalInfo name="is extracted from">
       <DirectSuperFeatures>
-        <FeatureReference name="evidence feature" />
+        <FeatureReference name="feature" />
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="has as interpretation">
+<FeatureAdditionalInfo name="evidence feature">
       <DirectSuperFeatures>
-        <FeatureReference name="evidence feature" />
+        <FeatureReference name="feature" />
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="is view of">
+<FeatureAdditionalInfo name="evidence representation feature">
       <DirectSuperFeatures>
-        <FeatureReference name="evidence representation feature" />
+        <FeatureReference name="feature" />
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="has as description">
+<FeatureAdditionalInfo name="is produced by sensing device">
       <DirectSuperFeatures>
-        <FeatureReference name="system feature" />
+        <FeatureReference name="feature" />
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="has as brief description">
+<FeatureAdditionalInfo name="system feature">
       <DirectSuperFeatures>
-        <FeatureReference name="system feature" />
+        <FeatureReference name="feature" />
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="has as action theme">
+<FeatureAdditionalInfo name="action feature">
       <DirectSuperFeatures>
-        <FeatureReference name="action feature" />
+        <FeatureReference name="feature" />
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="has as action result">
+<FeatureAdditionalInfo name="has as believability credential">
       <DirectSuperFeatures>
-        <FeatureReference name="action feature" />
+        <FeatureReference name="feature" />
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="has as action recipient">
+<FeatureAdditionalInfo name="has as hedging">
       <DirectSuperFeatures>
-        <FeatureReference name="action feature" />
+        <FeatureReference name="feature" />
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="has as action path">
+<FeatureAdditionalInfo name="has as source">
       <DirectSuperFeatures>
-        <FeatureReference name="action feature" />
+        <FeatureReference name="feature" />
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="has as action origin">
+<FeatureAdditionalInfo name="is obtained from">
       <DirectSuperFeatures>
-        <FeatureReference name="action feature" />
+        <FeatureReference name="feature" />
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="has as action location">
+<FeatureAdditionalInfo name="is obtained by">
       <DirectSuperFeatures>
-        <FeatureReference name="action feature" />
+        <FeatureReference name="feature" />
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="has as action instrument">
+<FeatureAdditionalInfo name="has as language">
       <DirectSuperFeatures>
-        <FeatureReference name="action feature" />
+        <FeatureReference name="feature" />
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="has as action experiencer">
+<FeatureAdditionalInfo name="has as competence credential">
       <DirectSuperFeatures>
-        <FeatureReference name="action feature" />
+        <FeatureReference name="has as believability credential" />
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="has as action destination">
+<FeatureAdditionalInfo name="has as credibility credential">
       <DirectSuperFeatures>
-        <FeatureReference name="action feature" />
+        <FeatureReference name="has as believability credential" />
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="has as action coagent">
+<FeatureAdditionalInfo name="has as action agent">
       <DirectSuperFeatures>
         <FeatureReference name="action feature" />
       </DirectSuperFeatures>
@@ -1329,97 +1056,121 @@
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="has as action agent">
+<FeatureAdditionalInfo name="has as action coagent">
       <DirectSuperFeatures>
         <FeatureReference name="action feature" />
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="has as credibility credential">
+<FeatureAdditionalInfo name="has as action destination">
       <DirectSuperFeatures>
-        <FeatureReference name="has as believability credential" />
+        <FeatureReference name="action feature" />
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="has as competence credential">
+<FeatureAdditionalInfo name="has as action experiencer">
       <DirectSuperFeatures>
-        <FeatureReference name="has as believability credential" />
+        <FeatureReference name="action feature" />
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="has as source understandability">
+<FeatureAdditionalInfo name="has as action instrument">
       <DirectSuperFeatures>
-        <FeatureReference name="has as competence credential" />
+        <FeatureReference name="action feature" />
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="has as source access">
+<FeatureAdditionalInfo name="has as action location">
       <DirectSuperFeatures>
-        <FeatureReference name="has as competence credential" />
+        <FeatureReference name="action feature" />
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="has as object credibility credential">
+<FeatureAdditionalInfo name="has as action origin">
       <DirectSuperFeatures>
-        <FeatureReference name="has as credibility credential" />
+        <FeatureReference name="action feature" />
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="has as source credibility credential">
+<FeatureAdditionalInfo name="has as action path">
       <DirectSuperFeatures>
-        <FeatureReference name="has as credibility credential" />
+        <FeatureReference name="action feature" />
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="editing by">
+<FeatureAdditionalInfo name="has as action recipient">
       <DirectSuperFeatures>
-        <FeatureReference name="has as action agent" />
+        <FeatureReference name="action feature" />
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="translation by">
+<FeatureAdditionalInfo name="has as action result">
       <DirectSuperFeatures>
-        <FeatureReference name="has as action agent" />
+        <FeatureReference name="action feature" />
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="transmission by">
+<FeatureAdditionalInfo name="has as action theme">
       <DirectSuperFeatures>
-        <FeatureReference name="has as action agent" />
+        <FeatureReference name="action feature" />
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="photo by">
+<FeatureAdditionalInfo name="has as brief description">
       <DirectSuperFeatures>
-        <FeatureReference name="has as action agent" />
+        <FeatureReference name="system feature" />
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="interpretation by">
+<FeatureAdditionalInfo name="has as description">
       <DirectSuperFeatures>
-        <FeatureReference name="has as action agent" />
+        <FeatureReference name="system feature" />
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="transfer by">
+<FeatureAdditionalInfo name="is view of">
       <DirectSuperFeatures>
-        <FeatureReference name="has as action agent" />
+        <FeatureReference name="evidence representation feature" />
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="recording by">
+<FeatureAdditionalInfo name="has as interpretation">
       <DirectSuperFeatures>
-        <FeatureReference name="has as action agent" />
+        <FeatureReference name="evidence feature" />
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="recording with">
+<FeatureAdditionalInfo name="states as view">
       <DirectSuperFeatures>
-        <FeatureReference name="has as action instrument" />
+        <FeatureReference name="evidence feature" />
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="transmission with">
+<FeatureAdditionalInfo name="disfavors">
+      <DirectSuperFeatures>
+        <FeatureReference name="hypothesis support feature" />
+      </DirectSuperFeatures>
+      <DomainNegativeExamples />
+    </FeatureAdditionalInfo>
+<FeatureAdditionalInfo name="favors">
+      <DirectSuperFeatures>
+        <FeatureReference name="hypothesis support feature" />
+      </DirectSuperFeatures>
+      <DomainNegativeExamples />
+    </FeatureAdditionalInfo>
+<FeatureAdditionalInfo name="has as evidence processing input">
+      <DirectSuperFeatures>
+        <FeatureReference name="has as action theme" />
+      </DirectSuperFeatures>
+      <DomainNegativeExamples />
+    </FeatureAdditionalInfo>
+<FeatureAdditionalInfo name="has as evidence processing result">
+      <DirectSuperFeatures>
+        <FeatureReference name="has as action result" />
+      </DirectSuperFeatures>
+      <DomainNegativeExamples />
+    </FeatureAdditionalInfo>
+<FeatureAdditionalInfo name="editing with">
       <DirectSuperFeatures>
         <FeatureReference name="has as action instrument" />
       </DirectSuperFeatures>
@@ -1431,127 +1182,85 @@
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="editing with">
+<FeatureAdditionalInfo name="transmission with">
       <DirectSuperFeatures>
         <FeatureReference name="has as action instrument" />
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="has as evidence processing result">
+<FeatureAdditionalInfo name="recording with">
       <DirectSuperFeatures>
-        <FeatureReference name="has as action result" />
+        <FeatureReference name="has as action instrument" />
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="has as evidence processing input">
+<FeatureAdditionalInfo name="recording by">
       <DirectSuperFeatures>
-        <FeatureReference name="has as action theme" />
+        <FeatureReference name="has as action agent" />
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="translation of">
+<FeatureAdditionalInfo name="transfer by">
       <DirectSuperFeatures>
-        <FeatureReference name="has as evidence processing input" />
+        <FeatureReference name="has as action agent" />
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="transfer of">
+<FeatureAdditionalInfo name="interpretation by">
       <DirectSuperFeatures>
-        <FeatureReference name="has as evidence processing input" />
+        <FeatureReference name="has as action agent" />
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="transmission of">
+<FeatureAdditionalInfo name="photo by">
       <DirectSuperFeatures>
-        <FeatureReference name="has as evidence processing input" />
+        <FeatureReference name="has as action agent" />
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="recording of">
+<FeatureAdditionalInfo name="transmission by">
       <DirectSuperFeatures>
-        <FeatureReference name="has as evidence processing input" />
+        <FeatureReference name="has as action agent" />
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="photo of">
+<FeatureAdditionalInfo name="translation by">
       <DirectSuperFeatures>
-        <FeatureReference name="has as evidence processing input" />
+        <FeatureReference name="has as action agent" />
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="interpretation of">
+<FeatureAdditionalInfo name="editing by">
       <DirectSuperFeatures>
-        <FeatureReference name="has as evidence processing input" />
+        <FeatureReference name="has as action agent" />
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="editing of">
+<FeatureAdditionalInfo name="has as source credibility credential">
       <DirectSuperFeatures>
-        <FeatureReference name="has as evidence processing input" />
+        <FeatureReference name="has as credibility credential" />
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="transmission into">
+<FeatureAdditionalInfo name="has as object credibility credential">
       <DirectSuperFeatures>
-        <FeatureReference name="has as evidence processing result" />
+        <FeatureReference name="has as credibility credential" />
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="translation into">
+<FeatureAdditionalInfo name="has as source access">
       <DirectSuperFeatures>
-        <FeatureReference name="has as evidence processing result" />
+        <FeatureReference name="has as competence credential" />
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="transfer into">
+<FeatureAdditionalInfo name="has as source understandability">
       <DirectSuperFeatures>
-        <FeatureReference name="has as evidence processing result" />
+        <FeatureReference name="has as competence credential" />
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="recording into">
-      <DirectSuperFeatures>
-        <FeatureReference name="has as evidence processing result" />
-      </DirectSuperFeatures>
-      <DomainNegativeExamples />
-    </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="photo into">
-      <DirectSuperFeatures>
-        <FeatureReference name="has as evidence processing result" />
-      </DirectSuperFeatures>
-      <DomainNegativeExamples />
-    </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="interpretation into">
-      <DirectSuperFeatures>
-        <FeatureReference name="has as evidence processing result" />
-      </DirectSuperFeatures>
-      <DomainNegativeExamples />
-    </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="editing into">
-      <DirectSuperFeatures>
-        <FeatureReference name="has as evidence processing result" />
-      </DirectSuperFeatures>
-      <DomainNegativeExamples />
-    </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="has as source veracity">
-      <DirectSuperFeatures>
-        <FeatureReference name="has as source credibility credential" />
-      </DirectSuperFeatures>
-      <DomainNegativeExamples />
-    </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="has as source objectivity">
-      <DirectSuperFeatures>
-        <FeatureReference name="has as source credibility credential" />
-      </DirectSuperFeatures>
-      <DomainNegativeExamples />
-    </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="has as source observational sensitivity">
-      <DirectSuperFeatures>
-        <FeatureReference name="has as source credibility credential" />
-      </DirectSuperFeatures>
-      <DomainNegativeExamples />
-    </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="has as accuracy">
+<FeatureAdditionalInfo name="has as reliability">
       <DirectSuperFeatures>
         <FeatureReference name="has as object credibility credential" />
       </DirectSuperFeatures>
@@ -1563,9 +1272,111 @@
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
-<FeatureAdditionalInfo name="has as reliability">
+<FeatureAdditionalInfo name="has as accuracy">
       <DirectSuperFeatures>
         <FeatureReference name="has as object credibility credential" />
+      </DirectSuperFeatures>
+      <DomainNegativeExamples />
+    </FeatureAdditionalInfo>
+<FeatureAdditionalInfo name="has as source observational sensitivity">
+      <DirectSuperFeatures>
+        <FeatureReference name="has as source credibility credential" />
+      </DirectSuperFeatures>
+      <DomainNegativeExamples />
+    </FeatureAdditionalInfo>
+<FeatureAdditionalInfo name="has as source objectivity">
+      <DirectSuperFeatures>
+        <FeatureReference name="has as source credibility credential" />
+      </DirectSuperFeatures>
+      <DomainNegativeExamples />
+    </FeatureAdditionalInfo>
+<FeatureAdditionalInfo name="has as source veracity">
+      <DirectSuperFeatures>
+        <FeatureReference name="has as source credibility credential" />
+      </DirectSuperFeatures>
+      <DomainNegativeExamples />
+    </FeatureAdditionalInfo>
+<FeatureAdditionalInfo name="editing into">
+      <DirectSuperFeatures>
+        <FeatureReference name="has as evidence processing result" />
+      </DirectSuperFeatures>
+      <DomainNegativeExamples />
+    </FeatureAdditionalInfo>
+<FeatureAdditionalInfo name="interpretation into">
+      <DirectSuperFeatures>
+        <FeatureReference name="has as evidence processing result" />
+      </DirectSuperFeatures>
+      <DomainNegativeExamples />
+    </FeatureAdditionalInfo>
+<FeatureAdditionalInfo name="photo into">
+      <DirectSuperFeatures>
+        <FeatureReference name="has as evidence processing result" />
+      </DirectSuperFeatures>
+      <DomainNegativeExamples />
+    </FeatureAdditionalInfo>
+<FeatureAdditionalInfo name="recording into">
+      <DirectSuperFeatures>
+        <FeatureReference name="has as evidence processing result" />
+      </DirectSuperFeatures>
+      <DomainNegativeExamples />
+    </FeatureAdditionalInfo>
+<FeatureAdditionalInfo name="transfer into">
+      <DirectSuperFeatures>
+        <FeatureReference name="has as evidence processing result" />
+      </DirectSuperFeatures>
+      <DomainNegativeExamples />
+    </FeatureAdditionalInfo>
+<FeatureAdditionalInfo name="translation into">
+      <DirectSuperFeatures>
+        <FeatureReference name="has as evidence processing result" />
+      </DirectSuperFeatures>
+      <DomainNegativeExamples />
+    </FeatureAdditionalInfo>
+<FeatureAdditionalInfo name="transmission into">
+      <DirectSuperFeatures>
+        <FeatureReference name="has as evidence processing result" />
+      </DirectSuperFeatures>
+      <DomainNegativeExamples />
+    </FeatureAdditionalInfo>
+<FeatureAdditionalInfo name="editing of">
+      <DirectSuperFeatures>
+        <FeatureReference name="has as evidence processing input" />
+      </DirectSuperFeatures>
+      <DomainNegativeExamples />
+    </FeatureAdditionalInfo>
+<FeatureAdditionalInfo name="interpretation of">
+      <DirectSuperFeatures>
+        <FeatureReference name="has as evidence processing input" />
+      </DirectSuperFeatures>
+      <DomainNegativeExamples />
+    </FeatureAdditionalInfo>
+<FeatureAdditionalInfo name="photo of">
+      <DirectSuperFeatures>
+        <FeatureReference name="has as evidence processing input" />
+      </DirectSuperFeatures>
+      <DomainNegativeExamples />
+    </FeatureAdditionalInfo>
+<FeatureAdditionalInfo name="recording of">
+      <DirectSuperFeatures>
+        <FeatureReference name="has as evidence processing input" />
+      </DirectSuperFeatures>
+      <DomainNegativeExamples />
+    </FeatureAdditionalInfo>
+<FeatureAdditionalInfo name="transmission of">
+      <DirectSuperFeatures>
+        <FeatureReference name="has as evidence processing input" />
+      </DirectSuperFeatures>
+      <DomainNegativeExamples />
+    </FeatureAdditionalInfo>
+<FeatureAdditionalInfo name="transfer of">
+      <DirectSuperFeatures>
+        <FeatureReference name="has as evidence processing input" />
+      </DirectSuperFeatures>
+      <DomainNegativeExamples />
+    </FeatureAdditionalInfo>
+<FeatureAdditionalInfo name="translation of">
+      <DirectSuperFeatures>
+        <FeatureReference name="has as evidence processing input" />
       </DirectSuperFeatures>
       <DomainNegativeExamples />
     </FeatureAdditionalInfo>
