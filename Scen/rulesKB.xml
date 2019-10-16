@@ -1,0 +1,3446 @@
+<?xml version="1.0"?>
+<RulesKB version="2">
+<ProblemAbstractionRules>
+<ProblemAbstractionRuleAdditionalInfo>
+      <ProblemAbstractionRuleReference kbPartName="00-Reference-KB" index="1" />
+      <ConcreteProblems />
+    </ProblemAbstractionRuleAdditionalInfo>
+<ProblemAbstractionRuleAdditionalInfo>
+      <ProblemAbstractionRuleReference kbPartName="00-Reference-KB" index="2" />
+      <ConcreteProblems />
+    </ProblemAbstractionRuleAdditionalInfo>
+<ProblemAbstractionRuleAdditionalInfo>
+      <ProblemAbstractionRuleReference kbPartName="00-Reference-KB" index="3" />
+      <ConcreteProblems />
+    </ProblemAbstractionRuleAdditionalInfo>
+<ProblemAbstractionRuleAdditionalInfo>
+      <ProblemAbstractionRuleReference kbPartName="00-Reference-KB" index="4" />
+      <ConcreteProblems />
+    </ProblemAbstractionRuleAdditionalInfo>
+<ProblemAbstractionRuleAdditionalInfo>
+      <ProblemAbstractionRuleReference kbPartName="00-Reference-KB" index="5" />
+      <ConcreteProblems />
+    </ProblemAbstractionRuleAdditionalInfo>
+<ProblemAbstractionRuleAdditionalInfo>
+      <ProblemAbstractionRuleReference kbPartName="00-Reference-KB" index="6" />
+      <ConcreteProblems />
+    </ProblemAbstractionRuleAdditionalInfo>
+<ProblemAbstractionRuleAdditionalInfo>
+      <ProblemAbstractionRuleReference kbPartName="00-Reference-KB" index="7" />
+      <ConcreteProblems />
+    </ProblemAbstractionRuleAdditionalInfo>
+<ProblemAbstractionRuleAdditionalInfo>
+      <ProblemAbstractionRuleReference kbPartName="00-Reference-KB" index="8" />
+      <ConcreteProblems />
+    </ProblemAbstractionRuleAdditionalInfo>
+<ProblemAbstractionRuleAdditionalInfo>
+      <ProblemAbstractionRuleReference kbPartName="00-Reference-KB" index="9" />
+      <ConcreteProblems />
+    </ProblemAbstractionRuleAdditionalInfo>
+<ProblemAbstractionRuleAdditionalInfo>
+      <ProblemAbstractionRuleReference kbPartName="00-Reference-KB" index="11" />
+      <ConcreteProblems />
+    </ProblemAbstractionRuleAdditionalInfo>
+<ProblemAbstractionRuleAdditionalInfo>
+      <ProblemAbstractionRuleReference kbPartName="00-Reference-KB" index="12" />
+      <ConcreteProblems />
+    </ProblemAbstractionRuleAdditionalInfo>
+<ProblemAbstractionRuleAdditionalInfo>
+      <ProblemAbstractionRuleReference kbPartName="00-Reference-KB" index="13" />
+      <ConcreteProblems />
+    </ProblemAbstractionRuleAdditionalInfo>
+<ProblemAbstractionRuleAdditionalInfo>
+      <ProblemAbstractionRuleReference kbPartName="00-Reference-KB" index="14" />
+      <ConcreteProblems />
+    </ProblemAbstractionRuleAdditionalInfo>
+<ProblemAbstractionRuleAdditionalInfo>
+      <ProblemAbstractionRuleReference kbPartName="00-Reference-KB" index="15" />
+      <ConcreteProblems />
+    </ProblemAbstractionRuleAdditionalInfo>
+<ProblemAbstractionRuleAdditionalInfo>
+      <ProblemAbstractionRuleReference kbPartName="00-Reference-KB" index="16" />
+      <ConcreteProblems />
+    </ProblemAbstractionRuleAdditionalInfo>
+<ProblemAbstractionRuleAdditionalInfo>
+      <ProblemAbstractionRuleReference kbPartName="00-Reference-KB" index="17" />
+      <ConcreteProblems />
+    </ProblemAbstractionRuleAdditionalInfo>
+<ProblemAbstractionRuleAdditionalInfo>
+      <ProblemAbstractionRuleReference kbPartName="00-Reference-KB" index="18" />
+      <ConcreteProblems />
+    </ProblemAbstractionRuleAdditionalInfo>
+<ProblemAbstractionRuleAdditionalInfo>
+      <ProblemAbstractionRuleReference kbPartName="00-Reference-KB" index="19" />
+      <ConcreteProblems />
+    </ProblemAbstractionRuleAdditionalInfo>
+<ProblemAbstractionRuleAdditionalInfo>
+      <ProblemAbstractionRuleReference kbPartName="00-Reference-KB" index="21" />
+      <ConcreteProblems />
+    </ProblemAbstractionRuleAdditionalInfo>
+<ProblemAbstractionRuleAdditionalInfo>
+      <ProblemAbstractionRuleReference kbPartName="00-Reference-KB" index="22" />
+      <ConcreteProblems />
+    </ProblemAbstractionRuleAdditionalInfo>
+<ProblemAbstractionRuleAdditionalInfo>
+      <ProblemAbstractionRuleReference kbPartName="00-Reference-KB" index="24" />
+      <ConcreteProblems />
+    </ProblemAbstractionRuleAdditionalInfo>
+<ProblemAbstractionRuleAdditionalInfo>
+      <ProblemAbstractionRuleReference kbPartName="00-Reference-KB" index="29" />
+      <ConcreteProblems />
+    </ProblemAbstractionRuleAdditionalInfo>
+<ProblemAbstractionRuleAdditionalInfo>
+      <ProblemAbstractionRuleReference kbPartName="00-Reference-KB" index="30" />
+      <ConcreteProblems />
+    </ProblemAbstractionRuleAdditionalInfo>
+<ProblemAbstractionRuleAdditionalInfo>
+      <ProblemAbstractionRuleReference kbPartName="00-Reference-KB" index="31" />
+      <ConcreteProblems />
+    </ProblemAbstractionRuleAdditionalInfo>
+<ProblemAbstractionRuleAdditionalInfo>
+      <ProblemAbstractionRuleReference kbPartName="00-Reference-KB" index="32" />
+      <ConcreteProblems />
+    </ProblemAbstractionRuleAdditionalInfo>
+<ProblemAbstractionRuleAdditionalInfo>
+      <ProblemAbstractionRuleReference kbPartName="00-Reference-KB" index="100" />
+      <ConcreteProblems />
+    </ProblemAbstractionRuleAdditionalInfo>
+<ProblemAbstractionRuleAdditionalInfo>
+      <ProblemAbstractionRuleReference kbPartName="00-Reference-KB" index="101" />
+      <ConcreteProblems />
+    </ProblemAbstractionRuleAdditionalInfo>
+<ProblemAbstractionRuleAdditionalInfo>
+      <ProblemAbstractionRuleReference kbPartName="00-Reference-KB" index="102" />
+      <ConcreteProblems />
+    </ProblemAbstractionRuleAdditionalInfo>
+<ProblemAbstractionRuleAdditionalInfo>
+      <ProblemAbstractionRuleReference kbPartName="00-Reference-KB" index="103" />
+      <ConcreteProblems />
+    </ProblemAbstractionRuleAdditionalInfo>
+<ProblemAbstractionRuleAdditionalInfo>
+      <ProblemAbstractionRuleReference kbPartName="00-Reference-KB" index="104" />
+      <ConcreteProblems />
+    </ProblemAbstractionRuleAdditionalInfo>
+<ProblemAbstractionRuleAdditionalInfo>
+      <ProblemAbstractionRuleReference kbPartName="00-Reference-KB" index="211" />
+      <ConcreteProblems />
+    </ProblemAbstractionRuleAdditionalInfo>
+<ProblemAbstractionRuleAdditionalInfo>
+      <ProblemAbstractionRuleReference kbPartName="00-Reference-KB" index="212" />
+      <ConcreteProblems />
+    </ProblemAbstractionRuleAdditionalInfo>
+</ProblemAbstractionRules>
+<AbstractionDescriptionsRules>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="2" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="1" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>Assess </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="true" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> as the </String>
+                    <OntologyEntity>
+                      <ConceptReference name="source" />
+                    </OntologyEntity>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String>, an </String>
+                    <OntologyEntity>
+                      <ConceptReference name="unequivocal testimonial evidence based upon direct observation" />
+                    </OntologyEntity>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="4" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="2" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>Assess </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="true" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> on </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="6" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="3" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>Assess </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="true" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> by </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> to the information in </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="8" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="5" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>Assess </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="true" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> by </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> of the information in </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="10" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="6" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>Assess </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="true" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> with respect to the information in </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="12" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="7" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>Assess </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="true" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> as the </String>
+                    <OntologyEntity>
+                      <ConceptReference name="reporter" />
+                    </OntologyEntity>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String>, an </String>
+                    <OntologyEntity>
+                      <ConceptReference name="unequivocal testimonial evidence obtained at second hand" />
+                    </OntologyEntity>
+                    <String> from </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O4" />
+                    </Parameter>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="14" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="8" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>Assess </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="true" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> as the </String>
+                    <OntologyEntity>
+                      <ConceptReference name="source" />
+                    </OntologyEntity>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String>, an </String>
+                    <OntologyEntity>
+                      <ConceptReference name="unequivocal testimonial evidence obtained at second hand" />
+                    </OntologyEntity>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="16" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="9" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>Assess </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="true" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> as the </String>
+                    <OntologyEntity>
+                      <ConceptReference name="reporter" />
+                    </OntologyEntity>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String> obtained from </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O4" />
+                    </Parameter>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="18" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="28" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>Assess </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="true" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> by </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> to </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="20" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="29" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>Assess </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="true" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> with respect to the communication with </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="22" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="10" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>Assess </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="true" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> as the </String>
+                    <OntologyEntity>
+                      <ConceptReference name="source" />
+                    </OntologyEntity>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String>, a </String>
+                    <OntologyEntity>
+                      <ConceptReference name="testimonial evidence based on opinion" />
+                    </OntologyEntity>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="24" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="11" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>Assess </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="true" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> on </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String>, a </String>
+                    <OntologyEntity>
+                      <ConceptReference name="testimonial evidence based on opinion" />
+                    </OntologyEntity>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="26" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="12" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>Assess </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="true" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> by </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> to the observations described in </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="28" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="13" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>Assess </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="true" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> by </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> of the observations described in </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="30" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="14" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>Assess </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="true" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> by </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> with respect to the observations described in </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="32" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="15" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>Assess </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="true" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> with respect to the observations described in </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="34" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="16" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>Assess </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="true" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> as the </String>
+                    <OntologyEntity>
+                      <ConceptReference name="reporter" />
+                    </OntologyEntity>
+                    <String> of the </String>
+                    <OntologyEntity>
+                      <ConceptReference name="tangible evidence" />
+                    </OntologyEntity>
+                    <String> described in </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="36" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="17" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> evidence described in </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>Assess </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="true" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> of the </String>
+                    <OntologyEntity>
+                      <ConceptReference name="tangible evidence" />
+                    </OntologyEntity>
+                    <String> described in </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="38" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="18" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>Assess </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="true" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> by </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> to the </String>
+                    <OntologyEntity>
+                      <ConceptReference name="tangible evidence" />
+                    </OntologyEntity>
+                    <String> described in </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="40" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="19" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>Assess </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="true" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> by </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> of the </String>
+                    <OntologyEntity>
+                      <ConceptReference name="tangible evidence" />
+                    </OntologyEntity>
+                    <String> described in </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="42" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="20" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>Assess </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="true" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> with respect to the </String>
+                    <OntologyEntity>
+                      <ConceptReference name="tangible evidence" />
+                    </OntologyEntity>
+                    <String> described in </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="44" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="47" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>Assess the sensing </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="46" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="21" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>Assess </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="true" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> as the </String>
+                    <OntologyEntity>
+                      <ConceptReference name="source" />
+                    </OntologyEntity>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String>, the testimony in </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O4" />
+                    </Parameter>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="48" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="7" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> has </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> has </String>
+                    <OntologyEntity>
+                      <ConceptReference name="side-effect" />
+                    </OntologyEntity>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="true" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> such as </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="0" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> broke down due to </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> broke down due to </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="2" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> is exhibiting </String>
+                    <OntologyEntity>
+                      <ConceptReference name="side-effect" />
+                    </OntologyEntity>
+                    <String> </String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> is exhibiting </String>
+                    <OntologyEntity>
+                      <ConceptReference name="side-effect" />
+                    </OntologyEntity>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="true" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="1" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> is showing the </String>
+                    <OntologyEntity>
+                      <ConceptReference name="sign" />
+                    </OntologyEntity>
+                    <String> </String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> is showing the </String>
+                    <OntologyEntity>
+                      <ConceptReference name="sign" />
+                    </OntologyEntity>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="true" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="4" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> has engine generating </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> is exhibiting the </String>
+                    <OntologyEntity>
+                      <ConceptReference name="sign" />
+                    </OntologyEntity>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="true" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> such as, engine generating </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="8" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String>  is generating </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O4" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> has the </String>
+                    <OntologyEntity>
+                      <ConceptReference name="side-effect" />
+                    </OntologyEntity>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="true" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> such as </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String> as the car is generating </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O4" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="3" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> has </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String> going on</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> is exhibiting the </String>
+                    <OntologyEntity>
+                      <ConceptReference name="sign" />
+                    </OntologyEntity>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="true" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> such as </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="true" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String> going on</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="00-Reference-KB" index="10" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> is in </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O4" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> has the </String>
+                    <OntologyEntity>
+                      <ConceptReference name="side-effect" />
+                    </OntologyEntity>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="true" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> such as </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String> as the car is in </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O4" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="49" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="100" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="true" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="53" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="0" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>Assess </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="true" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="54" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="27" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>The </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> is </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="55" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="26" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>The </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> as the </String>
+                    <OntologyEntity>
+                      <ConceptReference name="source" />
+                    </OntologyEntity>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String>, an </String>
+                    <OntologyEntity>
+                      <ConceptReference name="unequivocal testimonial evidence based upon direct observation" />
+                    </OntologyEntity>
+                    <String> is </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="56" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="23" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>The </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> on </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String> is </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="57" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="25" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>The </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> by </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> to the information in </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String> is </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="58" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="24" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>The </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> by </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> of the information in </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String> is </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="59" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="22" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>The </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> with respect to the information in </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String> is </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="60" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="34" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>The </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> as the </String>
+                    <OntologyEntity>
+                      <ConceptReference name="reporter" />
+                    </OntologyEntity>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String>, an </String>
+                    <OntologyEntity>
+                      <ConceptReference name="unequivocal testimonial evidence obtained at second hand" />
+                    </OntologyEntity>
+                    <String> from </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O4" />
+                    </Parameter>
+                    <String> is </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="61" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="30" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>The </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> as the </String>
+                    <OntologyEntity>
+                      <ConceptReference name="source" />
+                    </OntologyEntity>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String>, an </String>
+                    <OntologyEntity>
+                      <ConceptReference name="unequivocal testimonial evidence obtained at second hand" />
+                    </OntologyEntity>
+                    <String> is </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="62" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="32" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>The </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> as the </String>
+                    <OntologyEntity>
+                      <ConceptReference name="reporter" />
+                    </OntologyEntity>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String> obtained from </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O4" />
+                    </Parameter>
+                    <String> is </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="63" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="33" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>The </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> by </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> to </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String> is </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="64" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="31" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>The </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> with respect to the communication with </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String> is </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="65" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="35" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>The </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> with respect to the observations described in </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String> is </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="66" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="36" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>The </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> on </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String>, a </String>
+                    <OntologyEntity>
+                      <ConceptReference name="testimonial evidence based on opinion" />
+                    </OntologyEntity>
+                    <String> is </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="67" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="37" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>The </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> by </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> with respect to the observations described in </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String> is </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="68" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="38" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>The </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> by </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> of the observations described in </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String> is </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="69" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="39" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>The </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> by </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> to the observations described in </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String> is </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="70" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="40" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>The </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> as the </String>
+                    <OntologyEntity>
+                      <ConceptReference name="source" />
+                    </OntologyEntity>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String>, a </String>
+                    <OntologyEntity>
+                      <ConceptReference name="testimonial evidence based on opinion" />
+                    </OntologyEntity>
+                    <String> is </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="71" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="43" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>The </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> as the </String>
+                    <OntologyEntity>
+                      <ConceptReference name="reporter" />
+                    </OntologyEntity>
+                    <String> of the </String>
+                    <OntologyEntity>
+                      <ConceptReference name="tangible evidence" />
+                    </OntologyEntity>
+                    <String> described in </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String> is </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="72" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="45" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>The </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> by </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> to the </String>
+                    <OntologyEntity>
+                      <ConceptReference name="tangible evidence" />
+                    </OntologyEntity>
+                    <String> described in </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String> is </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="73" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="41" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>The </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> of the </String>
+                    <OntologyEntity>
+                      <ConceptReference name="tangible evidence" />
+                    </OntologyEntity>
+                    <String> described in </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> is </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="74" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="42" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>The </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> with respect to the </String>
+                    <OntologyEntity>
+                      <ConceptReference name="tangible evidence" />
+                    </OntologyEntity>
+                    <String> described in </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String> is </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="75" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="44" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>The </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> by </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> of the </String>
+                    <OntologyEntity>
+                      <ConceptReference name="tangible evidence" />
+                    </OntologyEntity>
+                    <String> described in </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String> is </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="76" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="46" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>The </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> as the </String>
+                    <OntologyEntity>
+                      <ConceptReference name="source" />
+                    </OntologyEntity>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O3" />
+                    </Parameter>
+                    <String>, the testimony in </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O4" />
+                    </Parameter>
+                    <String> is </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="77" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="48" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>The sensing </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O1" />
+                    </Parameter>
+                    <String> of </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                    <String> is </String>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?SI1" />
+                    </Parameter>
+                    <String>.</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="84" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="113" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>unknown</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>unknown</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="94" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="114" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>unknown</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <String>unknown</String>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="98" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="103" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="99" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="105" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <OntologyEntity>
+                      <ConceptReference name="relevance" />
+                    </OntologyEntity>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <OntologyEntity>
+                      <ConceptReference name="relevance" />
+                    </OntologyEntity>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="100" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="101" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <OntologyEntity>
+                      <ConceptReference name="favoring evidence" />
+                    </OntologyEntity>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <OntologyEntity>
+                      <ConceptReference name="favoring evidence" />
+                    </OntologyEntity>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="101" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="102" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <OntologyEntity>
+                      <ConceptReference name="disfavoring evidence" />
+                    </OntologyEntity>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <OntologyEntity>
+                      <ConceptReference name="disfavoring evidence" />
+                    </OntologyEntity>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="104" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="104" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <Parameter hasIndefiniteArticle="false" hasDefiniteArticle="false" useThePersonalPronoun="false">
+                      <FormalParameterReference name="?O2" />
+                    </Parameter>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+<AbstractionRuleForTOCAdditionalInfo>
+      <AbstractionRuleForTOCReference kbPartName="00-Reference-KB" index="105" />
+      <Descriptions>
+        <AbstractionDescriptionForTOC>
+          <ConcreteStatement>
+            <LearnedReasoningStatementReference kbPartName="EBR2" index="106" />
+          </ConcreteStatement>
+          <TOC>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <OntologyEntity>
+                      <ConceptReference name="relevance" />
+                    </OntologyEntity>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </TOC>
+          <Report>
+            <AbstractionDescription>
+              <Instantiations />
+              <Description>
+                <NLPattern>
+                  <Fragments>
+                    <OntologyEntity>
+                      <ConceptReference name="relevance" />
+                    </OntologyEntity>
+                  </Fragments>
+                </NLPattern>
+              </Description>
+            </AbstractionDescription>
+          </Report>
+        </AbstractionDescriptionForTOC>
+      </Descriptions>
+    </AbstractionRuleForTOCAdditionalInfo>
+</AbstractionDescriptionsRules>
+</RulesKB>

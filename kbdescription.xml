@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<KBDescription name="00-Reference-KB" type="likeliness" major="0" minor="0" revision="0" canCommit="false">
+  <Include name="EBR2" major="0" minor="0" folder="..\_SharedKBPart_\EBR2" />
+</KBDescription>

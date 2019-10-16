@@ -1,0 +1,299 @@
+<?xml version="1.0"?>
+<Ontology version="2">
+<Instances>
+<Instance name="David's car">
+      <DirectSuperConcepts>
+        <ConceptReference name="vehicle" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="David's car" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="Tony's car">
+      <DirectSuperConcepts>
+        <ConceptReference name="vehicle" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="Tony's car" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="Bill's car">
+      <DirectSuperConcepts>
+        <ConceptReference name="vehicle" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="Bill's car" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="John's car">
+      <DirectSuperConcepts>
+        <ConceptReference name="vehicle" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="John's car" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+</Instances>
+<Facts>
+<Fact>
+      <FeatureReference name="has as not working" />
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="&lt;P1>" />
+        <InstanceReference name="Tony's car" />
+        <FormalParameterReference name="&lt;P2>" />
+        <InstanceReference name="electrical appliances" />
+      </ConstantInstantiatedFormalParameters>
+    </Fact>
+<Fact>
+      <FeatureReference name="has as not working" />
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="&lt;P1>" />
+        <InstanceReference name="John's car" />
+        <FormalParameterReference name="&lt;P2>" />
+        <InstanceReference name="electrical appliances" />
+      </ConstantInstantiatedFormalParameters>
+    </Fact>
+<Fact>
+      <FeatureReference name="leads to" />
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="&lt;P1>" />
+        <InstanceReference name="drained battery" />
+        <FormalParameterReference name="&lt;P2>" />
+        <InstanceReference name="no start condition" />
+      </ConstantInstantiatedFormalParameters>
+    </Fact>
+<Fact>
+      <FeatureReference name="leads to" />
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="&lt;P1>" />
+        <InstanceReference name="low power supply to engine" />
+        <FormalParameterReference name="&lt;P2>" />
+        <InstanceReference name="engine clicking sounds" />
+      </ConstantInstantiatedFormalParameters>
+    </Fact>
+<Fact>
+      <FeatureReference name="has as side-effect" />
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="&lt;P1>" />
+        <InstanceReference name="alternator problem" />
+        <FormalParameterReference name="&lt;P2>" />
+        <InstanceReference name="low power supply to engine" />
+      </ConstantInstantiatedFormalParameters>
+    </Fact>
+<Fact>
+      <FeatureReference name="has as side-effect" />
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="&lt;P1>" />
+        <InstanceReference name="alternator problem" />
+        <FormalParameterReference name="&lt;P2>" />
+        <InstanceReference name="drained battery" />
+      </ConstantInstantiatedFormalParameters>
+    </Fact>
+<Fact>
+      <FeatureReference name="has as symptoms" />
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="&lt;P1>" />
+        <InstanceReference name="David's car" />
+        <FormalParameterReference name="&lt;P2>" />
+        <InstanceReference name="engine clicking sounds" />
+      </ConstantInstantiatedFormalParameters>
+    </Fact>
+<Fact>
+      <FeatureReference name="has as symptoms" />
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="&lt;P1>" />
+        <InstanceReference name="David's car" />
+        <FormalParameterReference name="&lt;P2>" />
+        <InstanceReference name="service engine light" />
+      </ConstantInstantiatedFormalParameters>
+    </Fact>
+<Fact>
+      <FeatureReference name="has as symptoms" />
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="&lt;P1>" />
+        <InstanceReference name="David's car" />
+        <FormalParameterReference name="&lt;P2>" />
+        <InstanceReference name="no start condition" />
+      </ConstantInstantiatedFormalParameters>
+    </Fact>
+<Fact>
+      <FeatureReference name="has as symptoms" />
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="&lt;P1>" />
+        <InstanceReference name="David's car" />
+        <FormalParameterReference name="&lt;P2>" />
+        <InstanceReference name="unusual sounds" />
+      </ConstantInstantiatedFormalParameters>
+    </Fact>
+<Fact>
+      <FeatureReference name="has as symptoms" />
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="&lt;P1>" />
+        <InstanceReference name="Tony's car" />
+        <FormalParameterReference name="&lt;P2>" />
+        <InstanceReference name="service engine light" />
+      </ConstantInstantiatedFormalParameters>
+    </Fact>
+<Fact>
+      <FeatureReference name="has as symptoms" />
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="&lt;P1>" />
+        <InstanceReference name="Tony's car" />
+        <FormalParameterReference name="&lt;P2>" />
+        <InstanceReference name="engine clicking sounds" />
+      </ConstantInstantiatedFormalParameters>
+    </Fact>
+<Fact>
+      <FeatureReference name="has as symptoms" />
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="&lt;P1>" />
+        <InstanceReference name="Tony's car" />
+        <FormalParameterReference name="&lt;P2>" />
+        <InstanceReference name="unusual sounds" />
+      </ConstantInstantiatedFormalParameters>
+    </Fact>
+<Fact>
+      <FeatureReference name="has as symptoms" />
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="&lt;P1>" />
+        <InstanceReference name="Tony's car" />
+        <FormalParameterReference name="&lt;P2>" />
+        <InstanceReference name="no start condition" />
+      </ConstantInstantiatedFormalParameters>
+    </Fact>
+<Fact>
+      <FeatureReference name="has as symptoms" />
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="&lt;P1>" />
+        <InstanceReference name="John's car" />
+        <FormalParameterReference name="&lt;P2>" />
+        <InstanceReference name="engine clicking sounds" />
+      </ConstantInstantiatedFormalParameters>
+    </Fact>
+<Fact>
+      <FeatureReference name="has as symptoms" />
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="&lt;P1>" />
+        <InstanceReference name="John's car" />
+        <FormalParameterReference name="&lt;P2>" />
+        <InstanceReference name="no start condition" />
+      </ConstantInstantiatedFormalParameters>
+    </Fact>
+<Fact>
+      <FeatureReference name="has as symptoms" />
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="&lt;P1>" />
+        <InstanceReference name="John's car" />
+        <FormalParameterReference name="&lt;P2>" />
+        <InstanceReference name="service engine light" />
+      </ConstantInstantiatedFormalParameters>
+    </Fact>
+<Fact>
+      <FeatureReference name="has as symptoms" />
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="&lt;P1>" />
+        <InstanceReference name="John's car" />
+        <FormalParameterReference name="&lt;P2>" />
+        <InstanceReference name="unusual sounds" />
+      </ConstantInstantiatedFormalParameters>
+    </Fact>
+<Fact>
+      <FeatureReference name="has as symptoms" />
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="&lt;P1>" />
+        <InstanceReference name="Bill's car" />
+        <FormalParameterReference name="&lt;P2>" />
+        <InstanceReference name="engine clicking sounds" />
+      </ConstantInstantiatedFormalParameters>
+    </Fact>
+<Fact>
+      <FeatureReference name="has as symptoms" />
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="&lt;P1>" />
+        <InstanceReference name="Bill's car" />
+        <FormalParameterReference name="&lt;P2>" />
+        <InstanceReference name="service engine light" />
+      </ConstantInstantiatedFormalParameters>
+    </Fact>
+<Fact>
+      <FeatureReference name="has as symptoms" />
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="&lt;P1>" />
+        <InstanceReference name="Bill's car" />
+        <FormalParameterReference name="&lt;P2>" />
+        <InstanceReference name="no start condition" />
+      </ConstantInstantiatedFormalParameters>
+    </Fact>
+<Fact>
+      <FeatureReference name="has as symptoms" />
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="&lt;P1>" />
+        <InstanceReference name="Bill's car" />
+        <FormalParameterReference name="&lt;P2>" />
+        <InstanceReference name="unusual sounds" />
+      </ConstantInstantiatedFormalParameters>
+    </Fact>
+<Fact>
+      <FeatureReference name="has as sign" />
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="&lt;P1>" />
+        <InstanceReference name="alternator problem" />
+        <FormalParameterReference name="&lt;P2>" />
+        <InstanceReference name="unusual sounds" />
+      </ConstantInstantiatedFormalParameters>
+    </Fact>
+<Fact>
+      <FeatureReference name="has as sign" />
+      <ConstantInstantiatedFormalParameters>
+        <FormalParameterReference name="&lt;P1>" />
+        <InstanceReference name="alternator problem" />
+        <FormalParameterReference name="&lt;P2>" />
+        <InstanceReference name="service engine light" />
+      </ConstantInstantiatedFormalParameters>
+    </Fact>
+</Facts>
+</Ontology>
